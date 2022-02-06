@@ -1,0 +1,7906 @@
+<characters>
+	1luv|Captain Falcon
+	ADKnight|Captain Falcon
+	AlphaPancake|Falco
+	Saruto|Marth
+	Artemis Peach|Peach
+	Artemis Sheik|Sheik
+	The Noon|Samus
+	Shynx|Falco
+	FLASH|Luigi
+	Asiago|Falco
+	Astro|Fox
+	Baron|Pikachu
+	Black Seal|Ice Climbers
+	Blow|Captain Falcon
+	Soph|Falco
+	JCubez|Captain Falcon
+	Party Poison|Peach
+	Shafournee|Falco
+	Colony|Ice Climbers
+	Shin|Marth
+	matricies|Fox
+	BenMW|Marth
+	_Boots|Marth
+	Lempo|Samus
+	Dubz|Peach
+	Apples|Peach
+	Fancy|Falco
+	Pops|Falco
+	dr tropical|Fox
+	Turkish Delight|Falco
+	Albino|Peach
+	Lins|Fox
+	Wishblade|Marth
+	CDay|Fox
+	avo|Falco
+	Ferd|Marth
+	Nara|Falco
+	Woley|Falco
+	Jeo|Fox
+	Wavy|Falco
+	Bosko|Ganondorf
+	Brazmonkey|Fox
+	MajinJoseph|Marth
+	Squizz|Sheik
+	Bus Fire|Fox
+	Bleach|Peach
+	CAM|Falco
+	PsychoWaffle|Captain Falcon
+	Nyte|Jigglypuff
+	CY|Fox
+	Capri|Falco
+	Coleslaw|Falco
+	Captain Crack|Captain Falcon
+	Cash Cow|Sheik
+	Chelo|Captain Falcon
+	Chia|Samus
+	Cobb|Ganondorf
+	Coin|Luigi
+	Cynthwave|Sheik
+	D_Lidz|Falco
+	Daybreak|Captain Falcon
+	Dirtboy|Peach
+	Jubei|Fox
+	Drama|Samus
+	Eddie|Fox
+	Elm|Peach
+	Eyes|Sheik
+	Finn|Falco
+	GMAN|Ice Climbers
+	Gaussian|Yoshi
+	Ginger|Falco
+	Groovy|Fox
+	HAM|Ice Climbers
+	HighDef|Samus
+	Hollow|Sheik
+	Hooplah|Luigi
+	Steez|Marth
+	JDQA|Sheik
+	LOOM|Captain Falcon
+	J$|Fox
+	JADO|Luigi
+	JBas|Fox
+	JJV|Falco
+	Tangent|Falco
+	JWinks|Marth
+	Jere541|Fox
+	Jobo|Falco
+	Joka|Fox
+	Korvus|Peach
+	KroKo|Pikachu
+	Kush|Marth
+	Kuyashi|Marth
+	Ladies|Fox
+	Lowm0|Fox
+	M.A.C.|Ice Climbers
+	Maclo4|Marth
+	Maximus|Marth
+	Maxo|Falco
+	KJH|Fox
+	Morsecode762|Samus
+	Mr. Monday|Falco
+	Mushu|Captain Falcon
+	Negat!ve|Falco
+	Nexic|Falco
+	Nexodus|Jigglypuff
+	Ninja1167|Marth
+	Non|Yoshi
+	Noshi|Fox
+	Opera|Captain Falcon
+	Orbit|Sheik
+	Ossify|Marth
+	Other Danny|Fox
+	Paco|Fox
+	Paulo|Sheik
+	Paz|Falco
+	Polak|Falco
+	Polymath|Falco
+	Poxx|Fox
+	QBaby|Fox
+	RIP_Bonk|Fox
+	Rayboyp|Fox
+	Riley|Captain Falcon
+	Robert|Fox
+	Sasha|Pikachu
+	Sevan|Fox
+	Shadez|Fox
+	Shandy|Sheik
+	Sheep|Fox
+	Shoop|Falco
+	Shrub|Falco
+	ShyDude|Peach
+	SlickSiwik|Sheik
+	SuperStummy|Samus
+	TS Popstar|Fox
+	xatudrip|Sheik
+	Vexillion|Falco
+	Vorporal|Jigglypuff
+	Wendy|Peach
+	Whitemiles|Jigglypuff
+	Wild Turkey|Peach
+	Zam|Marth
+	bug spray|Fox
+	cleopatra was hot|Ice Climbers
+	hazardz|Captain Falcon
+	hello world|Jigglypuff
+	helm|Captain Falcon
+	htcp|Marth
+	huh?|Fox
+	jakpox|Dr. Mario
+	gpie|Captain Falcon
+	mathandsurf|Peach
+	morc|Peach
+	noro|Fox
+	riku|Fox
+	shon|Yoshi
+	squishy boi|Sheik
+	stones|Captain Falcon
+	swine|Peach
+	tar|Peach
+	techboy|Ice Climbers
+	tentpoles|Fox
+	Butterdonkey|Marth
+	Draco|Falco
+	neo|Falco
+</characters>
+
+<venues>
+	Wyndham Gardens Detroit Metro Airport|9191 Wickham Rd, Romulus
+	GameTime|3880 Lapeer Rd, Auburn Hills
+	Erikson Hall|620 Farm Ln, East Lansing
+	Sill Hall|109 Jones-Goddard, Ypsilanti
+	Rackham Graduate School|915 E Washington St, Ann Arbor
+	Replay Cafe|6545 St Antoine, Detroit
+	MSU College of Communication Arts and Sciences|404 Wilson Rd, East Lansing
+	LFG Gaming Bar|116 Portage Street, Kalamazoo
+	Pierpont Commons|2101 Bonisteel Blvd, Ann Arbor
+	Fyber Gaming and Computer Repair|731 Brookside Dr, Lansing
+	Michigan Union|530 S State St, Ann Arbor
+</venues>
+
+{
+	name:"You Better Techboy 2"
+	date:8/7/2021
+	venue:"Wyndham Gardens Detroit Metro Airport"
+	url:https://smash.gg/tournament/gametime-melee-1/details
+	<sets>
+		<bracket>
+			[@Ronald McDunzo] 2-0 [@Big Boy]
+			[Poxx] 2-1 [Shoop]
+			[Gaussian] 2-1 [Nexodus]
+			[BenMW] 2-0 [Redwing]
+			[Morsecode762] 2-0 [@Ronald McDunzo]
+			[Eyes] 2-1 [Chelo]
+			[helm] 2-0 [Bairon]
+			[Noshi] 2-0 [kotary]
+			[tentpoles|Donkey Kong] 2-0 [Blisy]
+			[SlickSiwik] 2-0 [Railz]
+			[techboy] 2-0 [Poxx]
+			[Kuyashi] 2-0 [Gung]
+			[Chia] 2-0 [Daddiest]
+			[Cobb] 2-0 [Gaussian]
+			[Vorporal] 2-0 [Shwick]
+			[Rayboyp] 2-0 [Jefe]
+			[Food] 2-0 [htcp]
+			[Dirtboy] 2-0 [BenMW]
+			[Captain Crack] 2-0 [zombiebaran]
+			[Morsecode762] 2-0 [Eyes]
+			[Noshi] 2-0 [helm]
+			[tentpoles|Donkey Kong] 2-1 [SlickSiwik]
+			[techboy] 2-0 [Eddie]
+			[Kuyashi] 2-0 [Chia]
+			[Cobb] 2-1 [Vorporal]
+			[Rayboyp] 2-0 [Food]
+			[Dirtboy] 2-0 [Captain Crack]
+			[Morsecode762] 2-0 [Noshi]
+			[techboy] 2-1 [tentpoles|Donkey Kong]
+			[Kuyashi] 2-0 [Cobb]
+			[Dirtboy] 2-0 [Rayboyp]
+			[Morsecode762] 2-0 [techboy]
+			[Kuyashi] 2-0 [Dirtboy]
+			[@Big Boy] 2-0 [zombiebaran]
+			[Shoop] 2-0 [Daddiest]
+			[Nexodus] 2-0 [Railz]
+			[Chelo] 2-0 [Redwing]
+			[BenMW] 2-0 [@Big Boy]
+			[htcp] 2-0 [Jefe]
+			[Shwick] 2-0 [Gaussian]
+			[Shoop] 2-1 [Gung]
+			[Blisy] 2-0 [Nexodus]
+			[Bairon] 2-0 [kotary]
+			[@Ronald McDunzo] 2-0 [Chelo]
+			[Eddie] 2-0 [BenMW]
+			[htcp] 2-1 [SlickSiwik]
+			[helm] 2-0 [Shwick]
+			[Eyes] 2-0 [Shoop]
+			[Captain Crack] 2-0 [Poxx]
+			[Food] 2-0 [Blisy]
+			[Vorporal] 2-0 [Bairon]
+			[@Ronald McDunzo] 2-0 [Chia]
+			[htcp] 2-0 [Eddie]
+			[helm] 2-1 [Eyes]
+			[Captain Crack] 2-0 [Food]
+			[Vorporal] 2-1 [@Ronald McDunzo]
+			[Cobb] 2-0 [htcp]
+			[Rayboyp] 2-1 [helm]
+			[Noshi] 2-0 [Captain Crack]
+			[tentpoles|Donkey Kong] 2-0 [Vorporal]
+			[Cobb] 2-1 [Rayboyp]
+			[tentpoles|Donkey Kong] 2-1 [Noshi]
+			[techboy] 2-0 [Cobb]
+			[Dirtboy] 2-0 [tentpoles|Donkey Kong]
+			<bo5>
+				[Morsecode762] 3-1 [Kuyashi]
+				[Dirtboy] 3-2 [techboy|Fox]
+				[Kuyashi] 3-2 [Dirtboy]
+				[Kuyashi] 3-1 [Morsecode762]
+				[Kuyashi] 3-2 [Morsecode762]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Kuyashi
+		2nd|Morsecode762
+		3rd|Dirtboy
+		4th|techboy
+		5th|Cobb
+		5th|tentpoles
+		7th|Noshi
+		7th|Rayboyp
+		9th|Captain Crack
+		9th|helm
+		9th|htcp
+		9th|Vorporal
+		13th|Eddie
+		13th|Eyes
+		13th|Food
+		13th|@Ronald McDunzo
+		17th|Bairon
+		17th|BenMW
+		17th|Blisy
+		17th|Chia
+		17th|Poxx
+		17th|Shoop
+		17th|Shwick
+		17th|SlickSiwik
+		25th|@Big Boy
+		25th|Chelo
+		25th|Gaussian
+		25th|Gung
+		25th|Jefe
+		25th|kotary
+		25th|Nexodus
+		33rd|Daddiest
+		33rd|Railz
+		33rd|Redwing
+		33rd|zombiebaran
+	</placings>
+}
+
+{
+	name:"Retro Beatdown"
+	date:8/8/2021
+	venue:"Replay Cafe"
+	url:https://smash.gg/tournament/retro-beatdown
+	<sets>
+		<bracket>
+			[xatudrip] 2-1 [Chelo]
+			[htcp] 2-0 [Nexodus]
+			[ShyDude] 2-0 [xatudrip]
+			[jacked-up-jason] 2-0 [Filet-O-Sora]
+			[htcp] 2-0 [AF1_KrypticKahn]
+			[zombiebaran] 2-0 [kotary]
+			[ShyDude] 2-1 [jacked-up-jason]
+			[htcp] 2-0 [zombiebaran]
+			[Chelo] 2-0 [kotary]
+			[Nexodus] 2-0 [Filet-O-Sora]
+			[Chelo] 2-0 [AF1_KrypticKahn]
+			[xatudrip] 2-0 [Nexodus]
+			[jacked-up-jason] 2-1 [Chelo]
+			[xatudrip] 2-0 [zombiebaran]
+			[xatudrip] 2-1 [jacked-up-jason]
+			<bo5>
+				[htcp] 3-1 [ShyDude]
+				[xatudrip] 3-2 [ShyDude]
+				[htcp] 3-0 [xatudrip]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|htcp
+		2nd|xatudrip
+		3rd|ShyDude
+		4th|jacked-up-jason
+		5th|Chelo
+		5th|zombiebaran
+		7th|AF1_KrypticKahn
+		7th|Nexodus
+		9th|Filet-O-Sora
+		9th|kotary
+	</placings>
+}
+
+{
+	name:"GameTime Melee #1"
+	date:8/12/2021
+	venue:"GameTime"
+	url:https://smash.gg/tournament/gametime-melee-1
+	<sets>
+		<bo5>
+			<rr>
+				[Rayboyp] 3-0 [htcp]
+				[Rayboyp] 3-0 [SlickSiwik]
+				[Rayboyp] 3-0 [zombiebaran]
+				[SlickSiwik] 3-1 [htcp]
+				[htcp] 3-0 [zombiebaran]
+				[SlickSiwik] 3-0 [zombiebaran]
+			</rr>
+			<rr>
+				[D_Lidz] 3-0 [KroKo]
+				[D_Lidz] 3-0 [Eddie]
+				[D_Lidz] 3-0 [kotary]
+				[Eddie] 3-1 [KroKo]
+				[KroKo] 3-0 [kotary]
+				[Eddie] 3-0 [kotary]
+			</rr>
+			<bracket>
+				[Rayboyp] 3-0 [Eddie]
+				[D_Lidz] 3-0 [SlickSiwik]
+				[Rayboyp] 3-0 [D_Lidz]
+				[htcp] 3-0 [kotary]
+				[KroKo] 3-0 [zombiebaran]
+				[htcp] 3-1 [SlickSiwik]
+				[Eddie] 3-1 [KroKo]
+				[htcp] 3-2 [Eddie]
+				[D_Lidz] 3-1 [htcp]
+				[Rayboyp] 3-0 [D_Lidz]
+			</bracket>
+		</bo5>
+	</sets>
+	<placings>
+		1st|Rayboyp
+		2nd|D_Lidz
+		3rd|htcp
+		4th|Eddie
+		5th|KroKo
+		5th|SlickSiwik
+		7th|kotary
+		7th|zombiebaran
+	</placings>
+}
+
+{
+	name:"GameTime Melee #2"
+	date:8/19/2021
+	venue:"GameTime"
+	url:https://smash.gg/tournament/gametime-melee-2
+	<sets>
+		<bracket>
+			[Shoop] 2-0 [Bairon]
+			[Jere541] 2-0 [Eddie]
+			[SlickSiwik] 2-0 [riku]
+			[tar] 2-0 [Shandy]
+			[htcp] 2-0 [asianeli]
+			[Shellz] 2-1 [KroKo]
+			[Rayboyp] 2-0 [Shoop]
+			[Jere541] 2-1 [SlickSiwik]
+			[D_Lidz] 2-0 [tar]
+			[htcp] 2-0 [Shellz]
+			[riku] 2-1 [Eddie]
+			[KroKo] 2-0 [asianeli]
+			[Bairon] 2-0 [Shellz]
+			[tar] 2-0 [riku]
+			[SlickSiwik] 2-0 [Shandy]
+			[Shoop] 2-0 [KroKo]
+			<bo5>
+				[Rayboyp] 3-0 [Jere541]
+				[htcp] 3-1 [D_Lidz]
+				[Rayboyp] 3-0 [htcp]
+				[tar] 3-0 [Bairon]
+				[SlickSiwik] 3-0 [Shoop]
+				[tar] 3-0 [Jere541]
+				[D_Lidz] 3-0 [SlickSiwik]
+				[D_Lidz] 3-2 [tar]
+				[htcp] 3-1 [D_Lidz]
+				[Rayboyp] 3-0 [htcp]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Rayboyp
+		2nd|htcp
+		3rd|D_Lidz
+		4th|tar
+		5th|Jere541
+		5th|SlickSiwik
+		7th|Bairon
+		7th|Shoop
+		9th|KroKo
+		9th|riku
+		9th|Shandy
+		9th|Shellz
+		13th|asianeli
+		13th|Eddie
+	</placings>
+}
+
+{
+	name:"GameTime Melee #2 amateurs"
+	parent:"GameTime Melee #2"
+	url:https://smash.gg/tournament/gametime-melee-2/event/melee-am/brackets/982113/1552981
+	<sets>
+		<bracket>
+			<bo5>
+				[KroKo] 3-2 [Shandy]
+				[Eddie] 2-1 [asianeli]
+				[riku] 3-2 [KroKo]
+				[Eddie] 3-0 [Shellz]
+				[Eddie] 3-1 [riku]
+				[Shandy] 3-0 [Shellz]
+				[KroKo] 3-2 [asianeli]
+				[Shandy] 3-2 [KroKo]
+				[Shandy] 3-1 [riku]
+				[Eddie] 3-0 [Shandy]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Eddie
+		2nd|Shandy
+		3rd|riku
+		4th|KroKo
+		5th|asianeli
+		5th|Shellz
+	</placings>
+}
+
+{
+	name:"GameTime Melee #3"
+	date:8/26/2021
+	venue:"GameTime"
+	url:https://smash.gg/tournament/gametime-melee-3
+	<sets>
+		<bracket>
+			[Ginger] 2-0 [zombiebaran]
+			[SlickSiwik] 2-0 [tar]
+			[Hollow] 2-0 [KroKo]
+			[htcp] 2-0 [riku]
+			[Rayboyp] 2-0 [kotary]
+			[helm] 2-0 [Shoop]
+			[Nexic] 2-1 [Shandy]
+			[Wild Turkey] 2-0 [Eddie]
+			[Ginger] 2-0 [SlickSiwik]
+			[Hollow] 2-1 [htcp]
+			[Rayboyp] 2-0 [helm]
+			[Wild Turkey] 2-0 [Nexic]
+			[tar] 2-0 [zombiebaran]
+			[riku] 2-1 [KroKo]
+			[Shoop] 2-0 [kotary]
+			[Eddie] 2-1 [Shandy]
+			[Nexic] 2-1 [tar]
+			[helm] 2-0 [riku]
+			[htcp] 2-0 [Shoop]
+			[SlickSiwik] 2-0 [Eddie]
+			<bo5>
+				[Ginger] 3-0 [Hollow]
+				[Rayboyp] 3-0 [Wild Turkey]
+				[Ginger] 3-0 [Rayboyp]
+				[Nexic] 3-0 [helm]
+				[SlickSiwik] 3-0 [htcp]
+				[Nexic] 3-1 [Hollow]
+				[Wild Turkey] 3-1 [SlickSiwik]
+				[Nexic] 3-2 [Wild Turkey]
+				[Rayboyp] 3-1 [Nexic]
+				[Ginger] 3-0 [Rayboyp]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Ginger
+		2nd|Rayboyp
+		3rd|Nexic
+		4th|Wild Turkey
+		5th|Hollow
+		5th|SlickSiwik
+		7th|helm
+		7th|htcp
+		9th|Eddie
+		9th|riku
+		9th|Shoop
+		9th|tar
+		13th|kotary
+		13th|KroKo
+		13th|Shandy
+		13th|zombiebaran
+	</placings>
+}
+
+{
+	name:"GameTime Melee #3 amateurs"
+	parent:"GameTime Melee #3"
+	url:https://smash.gg/tournament/gametime-melee-3/event/melee-am/brackets/986514/1558845
+	<sets>
+		<bracket>
+			[Eledan] 2-0 [kotary]
+			[Gung] 2-1 [zombiebaran]
+			[tar] 2-0 [Eledan]
+			[riku] 2-0 [Shandy]
+			[Eddie] 2-0 [Gung]
+			[Shoop] 2-0 [KroKo]
+			[tar] 2-1 [riku]
+			[Eddie] 2-1 [Shoop]
+			[KroKo] 2-0 [kotary]
+			[Shandy] 2-0 [zombiebaran]
+			[KroKo] 2-1 [Gung]
+			[Shandy] 2-0 [Eledan]
+			[riku] 2-1 [KroKo]
+			[Shoop] 2-0 [Shandy]
+			[riku] 2-1 [Shoop]
+			<bo5>
+				[tar] 3-0 [Eddie]
+				[riku] 3-1 [Eddie]
+				[riku] 3-2 [tar]
+				[tar] 3-0 [riku]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|tar
+		2nd|riku
+		3rd|Eddie
+		4th|Shoop
+		5th|KroKo
+		5th|Shandy
+		7th|Eledan
+		7th|Gung
+		9th|kotary
+		9th|zombiebaran
+	</placings>
+}
+
+{
+	name:"GameTime Melee #4"
+	date:9/2/2021
+	venue:"GameTime"
+	url:https://smash.gg/tournament/gametime-melee-4/
+	<sets>
+		<rr>
+			[Ginger] 2-0 [D_Lidz]
+			[Ginger] 2-0 [helm]
+			[Ginger] 2-0 [JWinks]
+			[Ginger] 2-0 [KroKo]
+			[D_Lidz] 2-0 [helm]
+			[D_Lidz] 2-1 [JWinks]
+			[D_Lidz] 2-1 [KroKo]
+			[helm] 2-0 [JWinks]
+			[helm] 2-0 [KroKo]
+			[JWinks] 2-0 [KroKo]
+		</rr>
+		<rr>
+			[Rayboyp] 2-1 [gpie]
+			[Rayboyp] 2-0 [Zam]
+			[Rayboyp] 2-0 [Nexodus]
+			[Rayboyp] 2-0 [Chort Tortley]
+			[Zam] 2-1 [gpie]
+			[gpie] 2-0 [Nexodus]
+			[gpie] 2-0 [Chort Tortley]
+			[Zam] 2-0 [Nexodus]
+			[Zam] 2-0 [Chort Tortley]
+			[Chort Tortley] 2-1 [Nexodus]
+		</rr>
+		<rr>
+			[Hollow] 2-1 [Asiago]
+			[Asiago] 2-0 [htcp]
+			[Asiago] 2-0 [riku]
+			[Asiago] 2-0 [Kickflip]
+			[Asiago] 2-1 [Chickenzzzzzzzz]
+			[Hollow] 2-0 [htcp]
+			[Hollow] 2-0 [riku]
+			[Hollow] 2-0 [Kickflip]
+			[Chickenzzzzzzzz] 2-1 [Hollow]
+			[htcp] 2-0 [riku]
+			[htcp] 2-0 [Kickflip]
+			[Chickenzzzzzzzz] 2-0 [htcp]
+			[riku] 2-1 [Kickflip]
+			[Chickenzzzzzzzz] 2-1 [riku]
+			[Chickenzzzzzzzz] 2-0 [Kickflip]
+		</rr>
+		<rr>
+			[Vorporal] 2-0 [Mushu]
+			[Vorporal] 2-0 [tar]
+			[Vorporal] 2-0 [Eddie]
+			[Vorporal] 2-0 [BenMW]
+			[Vorporal] 2-0 [bonkers]
+			[Mushu] 2-0 [tar]
+			[Mushu] 2-0 [Eddie]
+			[Mushu] 2-0 [BenMW]
+			[Mushu] 2-0 [bonkers]
+			[tar] 2-0 [Eddie]
+			[tar] 2-0 [BenMW]
+			[tar] 2-0 [bonkers]
+			[Eddie] 2-0 [BenMW]
+			[Eddie] 2-1 [bonkers]
+			[BenMW] 2-0 [bonkers]
+		</rr>
+		<bracket>
+			[Ginger] 2-0 [Zam]
+			[Vorporal] 2-0 [Asiago]
+			[Rayboyp] 2-0 [D_Lidz]
+			[Mushu] 2-0 [Hollow]
+			[Asiago] 2-1 [Zam]
+			[Hollow] 2-0 [D_Lidz]
+			<bo5>
+				[Ginger] 3-1 [Vorporal]
+				[Rayboyp] 3-2 [Mushu]
+				[Asiago] 3-1 [Mushu]
+				[Vorporal] 3-1 [Hollow]
+				[Vorporal] 3-1 [Asiago]
+				[Vorporal] 3-2 [Rayboyp]
+				[Ginger] 3-2 [Vorporal]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Ginger
+		2nd|Vorporal
+		3rd|Rayboyp
+		4th|Asiago
+		5th|Hollow
+		5th|Mushu
+		7th|D_Lidz
+		7th|Zam
+		9th|Chickenzzzzzzzz
+		9th|helm
+		9th|gpie
+		9th|tar
+		13th|Chort Tortley
+		13th|Eddie
+		13th|htcp
+		13th|JWinks
+		17th|BenMW
+		17th|KroKo
+		17th|Nexodus
+		17th|riku
+		21st|bonkers
+		21st|Kickflip
+	</placings>
+}
+
+{
+	name:"GameTime Melee #4 amateurs"
+	parent:"GameTime Melee #4"
+	url:https://smash.gg/tournament/gametime-melee-4/event/melee-am/brackets/989602/1563026
+	<sets>
+		<bracket>
+			[BenMW] 2-0 [KroKo]
+			[Nexodus] 2-0 [Kickflip]
+			[htcp] 2-0 [bonkers]
+			[gpie] 2-1 [BenMW]
+			[JWinks] 2-0 [Chort Tortley]
+			[helm] 2-1 [Nexodus]
+			[htcp] 2-1 [Eddie]
+			[JWinks] 2-1 [gpie]
+			[htcp] 3-1 [helm]
+			[JWinks] 2-0 [htcp]
+			[Eddie] 2-0 [KroKo]
+			[Chort Tortley] 2-0 [Kickflip]
+			[bonkers] 2-1 [BenMW]
+			[Eddie] 2-0 [Nexodus]
+			[bonkers] 2-0 [Chort Tortley]
+			[Eddie] 2-0 [gpie]
+			[helm] 2-0 [bonkers]
+			[helm] 2-0 [Eddie]
+			[htcp] 2-1 [helm]
+			[JWinks] 2-1 [htcp]
+		</bracket>
+	</sets>
+	<placings>
+		1st|JWinks
+		2nd|htcp
+		3rd|helm
+		4th|Eddie
+		5th|bonkers
+		5th|gpie
+		7th|Chort Tortley
+		7th|Nexodus
+		9th|BenMW
+		9th|Kickflip
+		9th|KroKo
+	</placings>
+}
+
+{
+	name:"Retro Beatdown 2"
+	date:9/5/2021
+	venue:"Replay Cafe"
+	url:https://smash.gg/tournament/retro-beatdown-2
+	<sets>
+		<bo5>
+			<bracket>
+				[1luv] 3-2 [Shynx]
+				[Hollow] 3-0 [1luv]
+				[Chelo] 3-0 [kaputt]
+				[htcp] 3-0 [jacked-up-jason]
+				[Ushiou] 3-1 [Nexodus]
+				[Hollow] 3-0 [Chelo]
+				[htcp] 3-0 [Ushiou]
+				[Hollow] 3-0 [htcp]
+				[Nexodus] 3-2 [Shynx]
+				[jacked-up-jason] 3-1 [Nexodus]
+				[1luv] 3-2 [kaputt]
+				[Chelo] 3-0 [jacked-up-jason]
+				[1luv] 3-0 [Ushiou]
+				[Chelo] 3-0 [1luv]
+				[htcp] 3-0 [Chelo]
+				[Hollow] 3-0 [htcp]
+			</bracket>
+		</bo5>
+	</sets>
+	<placings>
+		1st|Hollow
+		2nd|htcp
+		3rd|Chelo
+		4th|1luv
+		5th|jacked-up-jason
+		5th|Ushiou
+		7th|kaputt
+		7th|Nexodus
+		9th|Shynx
+	</placings>
+}
+
+{
+	name:"Retro Beatdown 2.5"
+	date:9/12/2021
+	venue:"Replay Cafe"
+	url:https://smash.gg/tournament/retro-beatdown-2-5
+	<sets>
+		<bo5>
+			<bracket>
+				[tar] 3-0 [jacked-up-jason]
+				[Ushiou] 3-1 [kaputt]
+				[Shadez] 3-0 [tar]
+				[Chelo] 3-0 [1luv]
+				[htcp] 3-1 [Ushiou]
+				[riku] 3-0 [Shynx]
+				[Shadez] 3-0 [Chelo]
+				[htcp] 3-0 [riku]
+				[Shadez] 3-0 [htcp]
+				[Shynx] 3-1 [jacked-up-jason]
+				[1luv] 3-1 [kaputt]
+				[Shynx] 3-1 [Ushiou]
+				[tar] 3-0 [1luv]
+				[Chelo] 3-2 [Shynx]
+				[riku] 3-1 [tar]
+				[riku] 3-0 [Chelo]
+				[htcp] 3-1 [riku]
+				[Shadez] 3-2 [htcp]
+			</bracket>
+		</bo5>
+	</sets>
+	<placings>
+		1st|Shadez
+		2nd|htcp
+		3rd|riku
+		4th|Chelo
+		5th|Shynx
+		5th|tar
+		7th|1luv
+		7th|Ushiou
+		9th|jacked-up-jason
+		9th|kaputt
+	</placings>
+}
+
+{
+	name:"Victory Road Fall 2021 #1"
+	date:9/13/2021
+	venue:"Erikson Hall"
+	url:https://challonge.com/VRF1
+	<sets>
+		<bracket>
+			[Polak] 2-0 [Nicko]
+			[Elm] 2-1 [Capri]
+			[Neutral] 2-0 [LOOM]
+			[xatudrip] 2-0 [matricies]
+			[Jobo] 2-0 [Vexillion]
+			[Finn] 2-0 [RedSubject]
+			[Rayboyp] 2-0 [Polak]
+			[Korvus] 2-0 [HighDef]
+			[_Boots] 2-0 [Elm]
+			[Bus Fire] 2-0 [Neutral]
+			[Vorporal] 2-0 [xatudrip]
+			[Hooplah] 2-1 [BenMW]
+			[helm] 2-0 [Jobo]
+			[Other Danny] 2-0 [Finn]
+			[Rayboyp] 2-0 [Korvus]
+			[_Boots] 2-0 [Bus Fire]
+			[Vorporal] 2-0 [Hooplah]
+			[helm] 2-0 [Other Danny]
+			[Finn] 2-0 [Nicko]
+			[BenMW] 2-0 [Capri]
+			[xatudrip] 2-0 [LOOM]
+			[Neutral] 2-0 [matricies]
+			[HighDef] 2-0 [Vexillion]
+			[Polak] 2-0 [RedSubject]
+			[Finn] 2-0 [Jobo]
+			[xatudrip] 2-0 [BenMW]
+			[Elm] 2-1 [Neutral]
+			[Polak] 2-0 [HighDef]
+			[Bus Fire] 2-0 [Finn]
+			[Korvus] 2-1 [xatudrip]
+			[Other Danny] 2-0 [Elm]
+			[Polak] 2-0 [Hooplah]
+			<bo5>
+				[Rayboyp] 3-0 [_Boots]
+				[Vorporal] 3-0 [helm]
+				[Rayboyp] 3-2 [Vorporal]
+				[Korvus] 3-1 [Bus Fire]
+				[Other Danny] 3-2 [Polak]
+				[helm] 3-1 [Korvus]
+				[_Boots] 3-1 [Other Danny]
+				[helm] 3-1 [_Boots]
+				[Vorporal] 3-0 [helm]
+				[Vorporal] 3-1 [Rayboyp]
+				[Vorporal] 3-2 [Rayboyp]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Vorporal
+		2nd|Rayboyp
+		3rd|helm
+		4th|_Boots
+		5th|Korvus
+		5th|Other Danny
+		7th|Bus Fire
+		7th|Polak
+		9th|Elm
+		9th|Finn
+		9th|Hooplah
+		9th|xatudrip
+		13th|BenMW
+		13th|HighDef
+		13th|Jobo
+		13th|Neutral
+		17th|Capri
+		17th|LOOM
+		17th|matricies
+		17th|Nicko
+		17th|RedSubject
+		17th|Vexillion
+	</placings>
+}
+
+{
+	name:"Victory Road Fall 2021 #1 amateurs"
+	parent:"Victory Road Fall 2021 #1"
+	url:https://challonge.com/VRF1AM
+	<sets>
+		<bracket>
+			[BenMW] 2-0 [Elm]
+			[Finn] 2-0 [LOOM]
+			[BenMW] 2-0 [Nicko]
+			[Vexillion] 2-1 [xatudrip]
+			[Finn] 2-1 [Capri]
+			[Jobo] 2-1 [Neutral]
+			[BenMW] 2-0 [Vexillion]
+			[Jobo] 2-0 [Finn]
+			[Jobo] 2-1 [BenMW]
+			[Neutral] 2-1 [Elm]
+			[xatudrip] 2-0 [LOOM]
+			[Neutral] 2-1 [Capri]
+			[xatudrip] 2-0 [Nicko]
+			[Neutral] 2-0 [Vexillion]
+			[Finn] 2-0 [xatudrip]
+			[Finn] 2-0 [Neutral]
+			[BenMW] 2-1 [Finn]
+			<bo5>
+				[Jobo] 3-2 [BenMW]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Jobo
+		2nd|BenMW
+		3rd|Finn
+		4th|Neutral
+		5th|xatudrip
+		5th|Vexillion
+		7th|Capri
+		7th|Nicko
+		9th|Elm
+		9th|LOOM
+	</placings>
+}
+
+{
+	name:"F21 EMUSC Smash Melee Tournament 1"
+	date:9/15/2021
+	venue:"Sill Hall"
+	url:https://challonge.com/F21EMUSCM1
+	<sets>
+		<bracket>
+			[binglet0n] 2-0 [scrimbi]
+			[Mr. Monday] 2-0 [binglet0n]
+			[Ickist] 2-0 [bug spray]
+			[RIP_Bonk] 2-1 [Rose]
+			[JJV] 2-0 [mat]
+			[Mr. Monday] 2-0 [Ickist]
+			[RIP_Bonk] 2-0 [JJV]
+			[mat] 2-0 [scrimbi]
+			[Rose] 2-0 [mat]
+			[bug spray] 2-0 [binglet0n]
+			[Ickist] 2-1 [Rose]
+			[JJV] 2-0 [bug spray]
+			[Ickist] 2-1 [JJV]
+			<bo5>
+				[Mr. Monday] 3-0 [RIP_Bonk]
+				[RIP_Bonk] 3-1 [Ickist]
+				[Mr. Monday] 3-0 [RIP_Bonk]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Mr. Monday
+		2nd|RIP_Bonk
+		3rd|Ickist
+		4th|JJV
+		5th|bug spray
+		5th|Rose
+		7th|binglet0n
+		7th|mat
+		9th|scrimbi
+	</placings>
+}
+
+{
+	name:"GameTime Melee #5"
+	date:9/17/2021
+	venue:"GameTime"
+	url:https://smash.gg/tournament/gametime-melee-5-1
+	<sets>
+		<bracket>
+			[Shandy] 2-0 [Gung]
+			[Brazmonkey] 2-0 [Shandy]
+			[JWinks] 2-0 [Chia]
+			[Negat!ve] 2-0 [Eddie]
+			[stones] 2-1 [jakpox]
+			[Rayboyp] 2-1 [KroKo]
+			[htcp] 2-0 [Paco]
+			[Asiago] 2-0 [Shoop]
+			[Zam] 2-0 [Cynthwave]
+			[Brazmonkey] 2-0 [JWinks]
+			[Negat!ve] 2-0 [stones]
+			[Rayboyp] 2-1 [htcp]
+			[Asiago] 2-1 [Zam]
+			[Cynthwave] 2-0 [Gung]
+			[Shoop] 2-0 [Cynthwave]
+			[Paco] 2-0 [KroKo]
+			[jakpox] 2-0 [Eddie]
+			[Shandy] 2-1 [Chia]
+			[stones] 2-1 [Shoop]
+			[Paco] 2-1 [JWinks]
+			[Zam] 2-0 [jakpox]
+			[htcp] 2-1 [Shandy]
+			<bo5>
+				[Brazmonkey] 3-1 [Negat!ve]
+				[Rayboyp] 3-1 [Asiago]
+				[Brazmonkey] 3-1 [Rayboyp]
+				[Paco] 3-1 [stones]
+				[Zam] 3-0 [htcp]
+				[Asiago] 3-1 [Paco]
+				[Zam] 3-2 [Negat!ve]
+				[Asiago] 3-1 [Zam]
+				[Asiago] 3-1 [Rayboyp]
+				[Brazmonkey] 3-1 [Asiago]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Brazmonkey
+		2nd|Asiago
+		3rd|Rayboyp
+		4th|Zam
+		5th|Negat!ve
+		5th|Paco
+		7th|htcp
+		7th|stones
+		9th|jakpox
+		9th|JWinks
+		9th|Shandy
+		9th|Shoop
+		13th|Eddie
+		13th|Chia
+		13th|Cynthwave
+		13th|KroKo
+		17th|Gung
+	</placings>
+}
+
+{
+	name:"GameTime Melee #5 amateurs"
+	parent:"GameTime Melee #5"
+	url:https://smash.gg/tournament/gametime-melee-5-1/event/melee-am/brackets/997857/1575529
+	<sets>
+		<bracket>
+			[JWinks] 2-0 [Gung]
+			[Shandy] 2-0 [Eddie]
+			[Shoop] 2-0 [KroKo]
+			[Cynthwave] 2-1 [jakpox]
+			[JWinks] 2-1 [Shandy]
+			[Shoop] 2-1 [Cynthwave]
+			[Eddie] 2-0 [Gung]
+			[jakpox] 2-0 [KroKo]
+			[jakpox] 2-0 [Shandy]
+			[Eddie] 2-1 [jakpox]
+			<bo5>
+				[JWinks] 3-1 [Shoop]
+				[Eddie] 3-1 [Shoop]
+				[JWinks] 3-0 [Eddie]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|JWinks
+		2nd|Eddie
+		3rd|Shoop
+		4th|jakpox
+		5th|Cynthwave
+		5th|Shandy
+		7th|Gung
+		7th|KroKo
+	</placings>
+}
+
+{
+	name:"Malice At The Palace"
+	date:9/18/2021
+	venue:"GameTime"
+	url:https://smash.gg/tournament/malice-at-the-palace
+	<sets>
+		<rr>
+			[Asiago] 2-0 [Noshi]
+			[Asiago] 2-1 [tar]
+			[Asiago] 2-0 [Shoop]
+			[Asiago] 2-0 [Shandy]
+			[tar] 2-1 [Noshi]
+			[Shoop] 2-0 [Noshi]
+			[Noshi] 2-1 [Shandy]
+			[tar] 2-0 [Shoop]
+			[tar] 2-0 [Shandy]
+			[Shoop] 2-1 [Shandy]
+		</rr>
+		<rr>
+			[Vorporal] 2-0 [htcp]
+			[Vorporal] 2-0 [gpie]
+			[Vorporal] 2-0 [riku]
+			[Vorporal] 2-0 [Eddie]
+			[gpie] 2-0 [htcp]
+			[htcp] 2-0 [riku]
+			[htcp] 2-0 [Eddie]
+			[gpie] 2-0 [riku]
+			[gpie] 2-0 [Eddie]
+			[riku] 2-0 [Eddie]
+		</rr>
+		<rr>
+			[Mushu] 2-0 [helm]
+			[Mushu] 2-0 [Maclo4]
+			[Mushu] 2-0 [KroKo]
+			[Mushu] 2-0 [1luv]
+			[helm] 2-0 [Maclo4]
+			[helm] 2-0 [KroKo]
+			[helm] 2-0 [1luv]
+			[Maclo4] 2-0 [KroKo]
+			[Maclo4] 2-0 [1luv]
+			[KroKo] 2-0 [1luv]
+		</rr>
+		<rr>
+			[Rayboyp] 2-0 [Zam]
+			[Rayboyp] 2-0 [D_Lidz]
+			[Rayboyp] 2-0 [@Moocavo|Marth]
+			[Rayboyp] 2-0 [Shynx]
+			[Zam] 2-1 [D_Lidz]
+			[Zam] 2-0 [@Moocavo|Marth]
+			[Zam] 2-0 [Shynx]
+			[D_Lidz] 2-0 [@Moocavo|Marth]
+			[D_Lidz] 2-0 [Shynx]
+			[@Moocavo|Marth] 2-1 [Shynx]
+		</rr>
+		<bracket>
+			<bo5>
+				[Vorporal] 3-0 [tar]
+				[Mushu] 3-0 [Zam]
+				[Rayboyp] 3-1 [gpie]
+				[Asiago] 3-0 [helm]
+				[Vorporal] 3-0 [Mushu]
+				[Rayboyp] 3-2 [Asiago]
+				[Rayboyp] 3-1 [Vorporal]
+				[Maclo4] 3-0 [riku]
+				[Noshi] 3-0 [@Moocavo|Marth]
+				[htcp] 3-1 [Shoop]
+				[D_Lidz] 3-1 [KroKo]
+				[helm] 3-2 [Maclo4]
+				[Noshi] 3-1 [gpie]
+				[Zam] 3-1 [htcp]
+				[D_Lidz] 3-1 [tar]
+				[Noshi] 3-0 [helm]
+				[D_Lidz] 3-2 [Zam]
+				[Mushu] 3-2 [Noshi]
+				[Asiago] 3-1 [D_Lidz]
+				[Mushu] 3-2 [Asiago]
+				[Vorporal] 3-2 [Mushu]
+				[Rayboyp] 3-0 [Vorporal]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Rayboyp
+		2nd|Vorporal
+		3rd|Mushu
+		4th|Asiago
+		5th|D_Lidz
+		5th|Noshi
+		7th|helm
+		7th|Zam
+		9th|htcp
+		9th|gpie
+		9th|Maclo4
+		9th|tar
+		13th|KroKo
+		13th|@Moocavo
+		13th|riku
+		13th|Shoop
+		17th|1luv
+		17th|Eddie
+		17th|Shynx
+		17th|Shandy
+	</placings>
+}
+
+{
+	name:"Malice At The Palace amateurs"
+	parent:"Malice At The Palace"
+	url:https://smash.gg/tournament/malice-at-the-palace/event/melee-am/brackets/989606/1563031
+	<sets>
+		<bracket>
+			[Shandy] 2-0 [KroKo]
+			[htcp] 2-0 [1luv]
+			[@Moocavo|Marth] 2-0 [Shynx]
+			[gpie] 2-0 [Shandy]
+			[@Moocavo|Marth] 3-0 [htcp]
+			[1luv] 2-1 [Shynx]
+			[KroKo] 2-1 [htcp]
+			[Shandy] 2-0 [1luv]
+			[Shandy] 2-1 [KroKo]
+			<bo5>
+				[gpie] 3-1 [@Moocavo|Marth]
+			</bo5>
+				[Shandy] 2-0 [@Moocavo|Marth]
+			<bo5>
+				[gpie] 3-2 [Shandy]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|gpie
+		2nd|Shandy
+		3rd|@Moocavo
+		4th|KroKo
+		5th|1luv
+		5th|htcp
+		7th|Shynx
+	</placings>
+}
+
+{
+	name:"Victory Road Fall 2021 #2"
+	date:9/20/2021
+	venue:"Erikson Hall"
+	url:https://msu.challonge.com/vrf2
+	<sets>
+		<bracket>
+			[Finn] 2-0 [matricies]
+			[Bobo] 2-1 [Elm]
+			[xatudrip] 2-0 [Owlvado]
+			[Vorporal] 2-0 [Finn]
+			[squishy boi] 2-0 [Jobo]
+			[M.A.C.] 2-0 [Apollo]
+			[Korvus] 2-0 [Vexillion]
+			[Rayboyp] 2-0 [Bobo]
+			[Hooplah] 2-0 [Hotmama]
+			[jakpox] 2-0 [xatudrip]
+			[Bus Fire] 2-0 [LOOM]
+			[Vorporal] 2-0 [squishy boi]
+			[M.A.C.] 2-0 [Korvus]
+			[Rayboyp] 2-0 [Hooplah]
+			[jakpox] 2-0 [Bus Fire]
+			[xatudrip] 2-0 [matricies]
+			[Bobo] 2-1 [Hotmama]
+			[Apollo] 2-1 [Elm]
+			[Finn] 2-0 [Jobo]
+			[xatudrip] 2-1 [Korvus]
+			[squishy boi] 2-1 [Bobo]
+			[Bus Fire] 2-1 [Apollo]
+			[Hooplah] 2-1 [Finn]
+			<bo5>
+				[Vorporal] 3-0 [M.A.C.]
+				[jakpox] 3-1 [Rayboyp]
+				[jakpox] 3-2 [Vorporal]
+				[xatudrip] 3-2 [squishy boi]
+				[Bus Fire] 3-2 [Hooplah]
+				[Rayboyp] 3-0 [xatudrip]
+				[M.A.C.] 3-0 [Bus Fire]
+				[M.A.C.] 3-2 [Rayboyp]
+				[Vorporal] 3-0 [M.A.C.|Fox]
+				[Vorporal] 3-0 [jakpox]
+				[Vorporal] 3-1 [jakpox]
+			</bo5>
+		</bracket>
+		<placings>
+			1st|Vorporal
+			2nd|jakpox
+			3rd|M.A.C.
+			4th|Rayboyp
+			5th|Bus Fire
+			5th|xatudrip
+			7th|Hooplah
+			7th|squishy boi
+			9th|Apollo
+			9th|Bobo
+			9th|Finn
+			9th|Korvus
+			13th|Elm
+			13th|Hotmama
+			13th|Jobo
+			13th|matricies
+			17th|LOOM
+			17th|Owlvado
+			17th|Vexillion
+		</placings>
+	</sets>
+}
+
+{
+	name:"Victory Road Fall 2021 #2 amateurs"
+	parent:"Victory Road Fall 2021 #2"
+	url:https://challonge.com/VRF2AM
+	<sets>
+		<bracket>
+			[Jobo] 2-0 [matricies]
+			[Hotmama] 2-0 [LOOM]
+			[Apollo] 2-1 [Owlvado]
+			[Finn] 2-0 [Vexillion]
+			[Jobo] 2-0 [Hotmama]
+			[Finn] 2-0 [Apollo]
+			[LOOM] 2-1 [matricies]
+			[Owlvado] 2-0 [Vexillion]
+			[Apollo] 2-0 [LOOM]
+			[Owlvado] 2-0 [Hotmama]
+			[Apollo] 2-0 [Owlvado]
+			<bo5>
+				[Jobo] 3-0 [Finn]
+				[Apollo] 3-2 [Finn]
+				[Apollo] 3-1 [Jobo]
+				[Apollo] 3-1 [Jobo]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Apollo
+		2nd|Jobo
+		3rd|Finn
+		4th|Owlvado
+		5th|Hotmama
+		5th|LOOM
+		7th|matricies
+		7th|Vexillion
+	</placings>
+}
+
+{
+	name:"MEAT #1"
+	date:9/21/2021
+	venue:"Rackham Graduate School"
+	url:https://smash.gg/tournament/meat-1-1/
+	<sets>
+		<bracket>
+			[Polymath] 2-0 [Wendy]
+			[QBaby] 2-0 [TF]
+			[AlphaPancake] 2-0 [Shin]
+			[Sasha] 2-0 [shon]
+			[mathandsurf] 2-1 [HighDef]
+			[Negat!ve] 2-0 [Jiji]
+			[Baron] 2-0 [cleopatra was hot]
+			[J$] 2-1 [Ladies]
+			[jakpox] 2-0 [Gaussian]
+			[huh?] 2-0 [Cash Cow]
+			[Kuyashi] 2-0 [Polymath]
+			[AlphaPancake] 2-0 [QBaby]
+			[Sheep] 2-0 [Orbit]
+			[Brazmonkey] 2-0 [mathandsurf]
+			[Negat!ve] 2-0 [Baron]
+			[Asiago] 2-0 [J$]
+			[jakpox] 2-1 [huh?]
+			[Kuyashi] 2-1 [AlphaPancake]
+			[Sheep] 2-0 [Sasha]
+			[Brazmonkey] 2-0 [Negat!ve]
+			[Asiago] 2-0 [jakpox]
+			[Shin] 2-0 [TF]
+			[cleopatra was hot] 2-0 [Jiji]
+			[Cash Cow] 2-0 [Gaussian]
+			[huh?] 2-0 [Wendy]
+			[J$] 2-0 [Shin]
+			[mathandsurf] 2-0 [shon]
+			[Orbit] 2-0 [cleopatra was hot]
+			[QBaby] 2-0 [Ladies]
+			[Polymath] 2-0 [Cash Cow]
+			[J$] 2-1 [huh?]
+			[Baron] 2-1 [mathandsurf]
+			[Orbit] 2-1 [HighDef]
+			[QBaby] 2-0 [Polymath]
+			[J$] 2-0 [Sasha]
+			[AlphaPancake] 2-1 [Baron]
+			[jakpox] 2-0 [Orbit]
+			[Negat!ve] 2-0 [QBaby]
+			<bo5>
+				[Kuyashi] 3-0 [Sheep]
+				[Brazmonkey] 3-1 [Asiago]
+				[Brazmonkey] 3-1 [Kuyashi]
+				[AlphaPancake] 3-0 [J$]
+				[jakpox] 3-2 [Negat!ve]
+				[AlphaPancake] 3-1 [Asiago]
+				[Sheep] 3-1 [jakpox]
+				[Sheep] 3-0 [AlphaPancake]
+				[Kuyashi] 3-1 [Sheep]
+				[Kuyashi] 3-1 [Brazmonkey]
+				[Kuyashi] 3-0 [Brazmonkey]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Kuyashi
+		2nd|Brazmonkey
+		3rd|Sheep
+		4th|AlphaPancake
+		5th|Asiago
+		5th|jakpox
+		7th|J$
+		7th|Negat!ve
+		9th|Baron
+		9th|Orbit
+		9th|QBaby
+		9th|Sasha
+		13th|HighDef
+		13th|huh?
+		13th|mathandsurf
+		13th|Polymath
+		17th|Cash Cow
+		17th|cleopatra was hot
+		17th|Ladies
+		17th|Wendy
+		17th|Shin
+		17th|shon
+		25th|Gaussian
+		25th|Jiji
+		25th|TF
+	</placings>
+}
+
+{
+	name:"F21 EMUSC Smash Melee Tournament 2"
+	date:9/22/2021
+	venue:"Sill Hall"
+	url:https://challonge.com/F21EMUSCM2
+	<sets>
+		<bracket>
+			[Rose] 2-0 [binglet0n]
+			[bug spray] 2-0 [mat]
+			[Artemis Peach] 2-0 [Rose]
+			[Ickist] 2-0 [Betus]
+			[HAM] 2-0 [bug spray]
+			[RIP_Bonk] 2-0 [JJV]
+			[Artemis Peach] 2-0 [Ickist]
+			[HAM] 2-0 [RIP_Bonk]
+			[JJV] 2-1 [binglet0n]
+			[mat] 2-1 [Betus]
+			[JJV] 2-0 [bug spray]
+			[Rose] 2-0 [mat]
+			[Ickist] 2-0 [JJV]
+			[RIP_Bonk] 2-0 [Rose]
+			[RIP_Bonk] 2-0 [Ickist]
+			<bo5>
+				[Artemis Peach] 3-1 [HAM]
+				[HAM] 3-0 [RIP_Bonk]
+				[Artemis Peach] 3-0 [HAM]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Artemis Peach
+		2nd|HAM
+		3rd|RIP_Bonk
+		4th|Ickist
+		5th|JJV
+		5th|Rose
+		7th|bug spray
+		7th|mat
+		9th|Betus
+		9th|binglet0n
+	</placings>
+}
+
+{
+	name:"GameTime Melee #6"
+	date:9/24/2021
+	venue:"GameTime"
+	url:https://smash.gg/tournament/gametime-melee-6
+	<sets>
+		<rr>
+			[Ossify] 2-0 [Rayboyp]
+			[Rayboyp] 2-1 [Paco]
+			[Rayboyp] 2-0 [KroKo]
+			[Rayboyp] 2-0 [Gattsu]
+			[Ossify] 2-0 [Paco]
+			[Ossify] 2-0 [KroKo]
+			[Paco] 2-0 [KroKo]
+			[Paco] 2-0 [Gattsu]
+			[KroKo] 2-0 [Gattsu]
+		</rr>
+		<rr>
+			[Brazmonkey] 2-0 [Nexic]
+			[Brazmonkey] 2-0 [helm]
+			[Brazmonkey] 2-0 [Shandy]
+			[Nexic] 2-1 [helm]
+			[Nexic] 2-0 [Shandy]
+			[helm] 2-1 [Shandy]
+		</rr>
+		<rr>
+			[Kuyashi] 2-0 [Mushu]
+			[Artemis Peach] 2-0 [Kuyashi]
+			[Kuyashi] 2-0 [Eddie]
+			[Artemis Peach] 2-0 [Mushu]
+			[Mushu] 2-0 [Eddie]
+			[Artemis Peach] 2-0 [Eddie]
+		</rr>
+		<rr>
+			[Ginger] 2-0 [Negat!ve]
+			[Ginger] 2-0 [Astro]
+			[Ginger] 2-0 [tar]
+			[Negat!ve] 2-0 [Astro]
+			[Negat!ve] 2-0 [tar]
+			[Astro] 2-1 [tar]
+		</rr>
+		<bracket>
+			<bo5>
+				[Ginger] 3-0 [Nexic]
+				[Artemis Peach] 3-0 [Negat!ve]
+				[Brazmonkey] 3-0 [Rayboyp]
+				[Kuyashi] 3-1 [Ossify]
+				[Ginger] 3-0 [Artemis Peach]
+				[Kuyashi] 3-0 [Brazmonkey]
+				[Ginger] 3-0 [Kuyashi]
+				[Ossify] 3-0 [helm]
+				[Rayboyp] 3-1 [Astro]
+				[Negat!ve] 3-0 [Paco]
+				[Nexic] 3-1 [Mushu]
+				[Ossify] 3-0 [Rayboyp]
+				[Negat!ve] 3-0 [Nexic]
+				[Ossify] 3-0 [Artemis Peach]
+				[Brazmonkey] 3-1 [Negat!ve]
+				[Ossify] 3-1 [Brazmonkey]
+				[Ossify] 3-0 [Kuyashi]
+				[Ginger] 3-0 [Ossify]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Ginger
+		2nd|Ossify
+		3rd|Kuyashi
+		4th|Brazmonkey
+		5th|Artemis Peach
+		5th|Negat!ve
+		7th|Nexic
+		7th|Rayboyp
+		9th|Astro
+		9th|helm
+		9th|Mushu
+		9th|Paco
+		13th|Eddie
+		13th|KroKo
+		13th|Shandy
+		13th|tar
+		17th|Gattsu
+	</placings>
+}
+
+{
+	name:"GameTime Melee #6 amateurs"
+	parent:"GameTime Melee #6"
+	url:https://smash.gg/tournament/gametime-melee-6/event/melee-am/overview
+	<sets>
+		<bracket>
+			[tar] 2-0 [Shandy]
+			[Astro] 2-0 [Gattsu]
+			[helm] 2-0 [KroKo]
+			[Paco] 2-0 [tar]
+			[Astro] 2-1 [helm]
+			[KroKo] 2-0 [Gattsu]
+			[helm] 2-0 [Shandy]
+			[tar] 2-0 [KroKo]
+			[helm] 2-0 [tar]
+			<bo5>
+				[Astro] 3-0 [Paco]
+				[Paco] 3-2 [helm]
+				[Astro] 3-2 [Paco]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Astro
+		2nd|Paco
+		3rd|helm
+		4th|tar
+		5th|KroKo
+		5th|Shandy
+		7th|Gattsu
+	</placings>
+}
+
+{
+	name:"Retro Beatdown 3"
+	date:9/26/2021
+	venue:"Replay Cafe"
+	url:https://smash.gg/tournament/retro-beatdown-3/event/melee-singles/brackets/1002127/1581501
+	<sets>
+		<bracket>
+			[huh?] 2-1 [tar]
+			[riku] 2-1 [Nexodus]
+			[Chelo] 2-0 [kaputt]
+			[Maclo4] 2-0 [1luv]
+			[stones] 2-0 [Shynx]
+			[Artemis Peach] 2-0 [jacked-up-jason]
+			[Ushiou] 2-0 [Papa Pigs]
+			[Shadez] 2-0 [huh?]
+			[riku] 2-1 [Chelo]
+			[Maclo4] 2-1 [stones]
+			[Artemis Peach] 2-0 [Ushiou]
+			[Nexodus] 2-0 [kaputt]
+			[1luv] 2-1 [Shynx]
+			[jacked-up-jason] 2-0 [Papa Pigs]
+			[tar] 2-0 [Ushiou]
+			[stones] 2-0 [Nexodus]
+			[1luv] 2-1 [Chelo]
+			[huh?] 2-0 [jacked-up-jason]
+			[tar] 2-0 [stones]
+			[huh?] 2-0 [1luv]
+			<bo5>
+				[Shadez] 3-0 [riku]
+				[Artemis Peach] 3-1 [Maclo4]
+				[Artemis Peach] 3-1 [Shadez]
+				[tar] 3-0 [riku]
+				[huh?] 3-2 [Maclo4]
+				[huh?] 3-0 [tar]
+				[Shadez] 3-0 [huh?]
+				[Artemis Peach] 3-1 [Shadez]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Artemis Peach
+		2nd|Shadez
+		3rd|huh?
+		4th|tar
+		5th|Maclo4
+		5th|riku
+		7th|1luv
+		7th|stones
+		9th|Chelo
+		9th|jacked-up-jason
+		9th|Nexodus
+		9th|Ushiou
+		13th|Shynx
+		13th|kaputt
+		13th|Papa Pigs
+	</placings>
+}
+
+{
+	name:"Victory Road Fall 2021 #3"
+	date:9/27/2021
+	venue:"Erikson Hall"
+	url:https://msu.challonge.com/vrf3
+	<sets>
+		<bracket>
+			[Okoru] 2-0 [Onyx]
+			[Vorporal] 2-0 [Okoru]
+			[BenMW] 2-0 [xatudrip]
+			[Noshi] 2-0 [Bobo]
+			[helm] 2-0 [Elm]
+			[Rayboyp] 2-1 [JBas]
+			[HAM] 2-0 [Apollo]
+			[Artemis Peach] 2-0 [Owlvado]
+			[Daybreak] 2-1 [Kush]
+			[Vorporal] 2-0 [BenMW]
+			[Noshi] 2-0 [helm]
+			[Rayboyp] 2-0 [HAM]
+			[Artemis Peach] 2-0 [Daybreak]
+			[Kush] 2-1 [Onyx]
+			[Kush] 2-0 [Owlvado]
+			[JBas|Sheik] 2-1 [Apollo]
+			[Elm] 2-0 [Bobo]
+			[Okoru] 2-1 [xatudrip]
+			[helm] 2-0 [Kush]
+			[JBas] 2-0 [BenMW]
+			[Elm] 2-0 [Daybreak]
+			[HAM] 2-0 [Okoru]
+			<bo5>
+				[Noshi] 3-0 [Vorporal]
+				[Rayboyp] 3-1 [Artemis Peach]
+				[Rayboyp] 3-1 [Noshi]
+				[JBas] 3-1 [helm]
+				[HAM] 3-0 [Elm]
+				[Artemis Peach] 3-1 [JBas]
+				[Vorporal] 3-1 [Artemis Peach]
+				[Noshi] 3-1 [Vorporal]
+				[Rayboyp] 3-0 [Noshi]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Rayboyp
+		2nd|Noshi
+		3rd|Vorporal
+		4th|Artemis Peach
+		5th|HAM
+		5th|JBas
+		7th|Elm
+		7th|helm
+		9th|BenMW
+		9th|Daybreak
+		9th|Kush
+		9th|Okoru
+		13th|Apollo
+		13th|Bobo
+		13th|Owlvado
+		13th|xatudrip
+		17th|Onyx
+	</placings>
+}
+
+{
+	name:"Victory Road Fall 2021 #3 amateurs"
+	parent:"Victory Road Fall 2021 #3"
+	url:https://challonge.com/VRF3AM
+	<sets>
+		<bracket>
+			[Owlvado] 2-0 [xatudrip]
+			[Kush] 2-0 [Okoru]
+			[BenMW] 2-0 [Daybreak]
+			[Apollo] 2-0 [Onyx]
+			[Kush] 2-1 [Owlvado]
+			[Apollo] 2-1 [BenMW]
+			[Okoru] 2-0 [xatudrip]
+			[Daybreak] 2-1 [Onyx]
+			[BenMW] 2-1 [Okoru]
+			[Owlvado] 2-0 [Daybreak]
+			[BenMW] 2-0 [Owlvado]
+			<bo5>
+				[Apollo] 3-0 [Kush]
+				[BenMW] 3-2 [Apollo]
+				[Apollo] 3-2 [BenMW]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Apollo
+		2nd|BenMW
+		3rd|Kush
+		4th|Owlvado
+		5th|Daybreak
+		5th|Okoru
+		7th|Onyx
+		7th|xatudrip
+	</placings>
+}
+
+{
+	name:"MEAT #2"
+	date:9/28/2021
+	venue:"Rackham Graduate School"
+	url:https://smash.gg/tournament/meat-2
+	<sets>
+		<bracket>
+			[Meth Rosenstock] 2-0 [Jiji]
+			[Brazmonkey] 2-0 [TF]
+			[QBaby] 2-0 [-Butterdonkey]
+			[Lowm0] 2-0 [Ladies]
+			[Sevan] 2-0 [swine]
+			[Joka] 2-0 [Opera]
+			[_Boots] 2-1 [Orbit]
+			[Mushu] 2-0 [Shin]
+			[Bosko] 2-0 [Polymath]
+			[Artemis Peach] 2-0 [Meth Rosenstock]
+			[Groovy] 2-0 [Wendy]
+			[Zam] 2-1 [mathandsurf]
+			[-Asiago|Fox] 2-0 [Gaussian]
+			[HAM] 2-0 [Sasha]
+			[jakpox] 2-0 [Cash Cow]
+			[Baron] 2-0 [HighDef]
+			[Brazmonkey] 2-0 [QBaby]
+			[Lowm0] 2-0 [Sevan]
+			[Joka] 2-0 [_Boots]
+			[Mushu] 2-0 [Bosko]
+			[Artemis Peach] 2-1 [J$]
+			[Zam] 2-0 [Groovy]
+			[-Asiago|Fox] 2-0 [HAM]
+			[jakpox] 2-1 [Baron]
+			[Brazmonkey] 2-0 [Lowm0]
+			[Mushu] 2-1 [Joka]
+			[Zam] 2-1 [Artemis Peach]
+			[-Asiago|Fox] 2-0 [jakpox]
+			[Polymath] 2-0 [Jiji]
+			[HighDef] 2-0 [Cash Cow]
+			[Sasha] 2-0 [Gaussian]
+			[Wendy] 2-1 [mathandsurf]
+			[Polymath] 2-0 [Shin]
+			[Orbit] 2-0 [Opera]
+			[-Butterdonkey] 2-0 [TF]
+			[Bosko] 2-0 [HighDef]
+			[_Boots] 2-0 [Sasha]
+			[Sevan] 2-0 [Wendy]
+			[QBaby] 2-0 [Meth Rosenstock]
+			[Baron] 2-0 [Polymath]
+			[HAM] 2-1 [Orbit]
+			[Groovy] 2-0 [Ladies]
+			[-Butterdonkey] 2-1 [J$]
+			[_Boots] 2-1 [Bosko]
+			[Sevan] 2-0 [QBaby]
+			[Baron] 2-1 [HAM]
+			[Groovy] 2-0 [-Butterdonkey]
+			[Artemis Peach] 2-1 [_Boots]
+			[Sevan] 2-1 [jakpox]
+			[Baron] 2-1 [Lowm0]
+			[Joka] 2-0 [Groovy]
+			<bo5>
+				[Brazmonkey] 3-2 [Mushu]
+				[-Asiago|Fox] 3-1 [Zam]
+				[Brazmonkey] 3-0 [-Asiago|Fox]
+				[Sevan] 3-2 [Artemis Peach]
+				[Baron] 3-1 [Joka]
+				[Sevan] 3-2 [Mushu]
+				[Baron] 3-1 [Zam]
+				[Sevan] 3-1 [Baron]
+				[Sevan] 3-0 [-Asiago|Fox]
+				[Brazmonkey] 3-0 [Sevan]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Brazmonkey
+		2nd|Sevan
+		3rd|-Asiago
+		4th|Baron
+		5th|Mushu
+		5th|Zam
+		7th|Artemis Peach
+		7th|Joka
+		9th|_Boots
+		9th|Groovy
+		9th|jakpox
+		9th|Lowm0
+		13th|Bosko
+		13th|-Butterdonkey
+		13th|HAM
+		13th|QBaby
+		17th|HighDef
+		17th|J$
+		17th|Ladies
+		17th|Meth Rosenstock
+		17th|Orbit
+		17th|Polymath
+		17th|Sasha
+		17th|Wendy
+		25th|Cash Cow
+		25th|Gaussian
+		25th|mathandsurf
+		25th|Opera
+		25th|Shin
+		25th|swine
+		25th|TF
+		33rd|Jiji
+	</placings>
+}
+
+{
+	name:"MEAT #2 amateurs"
+	parent:"MEAT #2"
+	url:https://challonge.com/meat2am
+	<sets>
+		<bracket>
+			[Opera] 2-0 [Jiji]
+			[J$] 2-1 [Opera]
+			[Wendy] 2-0 [HighDef|Fox]
+			[Orbit] 2-0 [Meth Rosenstock]
+			[Polymath] 2-0 [mathandsurf]
+			[J$] 2-1 [Wendy]
+			[Orbit] 2-0 [Polymath]
+			[mathandsurf] 2-0 [Jiji]
+			[mathandsurf] 2-0 [Meth Rosenstock]
+			[mathandsurf] 2-0 [Wendy]
+			[Polymath] 2-0 [Opera]
+			[Polymath] 2-1 [mathandsurf]
+			<bo5>
+				[J$] 3-2 [Orbit]
+				[Orbit] 3-0 [Polymath]
+				[J$] 3-2 [Orbit]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|J$
+		2nd|Orbit
+		3rd|Polymath
+		4th|mathandsurf
+		5th|Opera
+		5th|Wendy
+		7th|HighDef
+		7th|Meth Rosenstock
+		9th|Jiji
+	</placings>
+}
+
+{
+	name:"F21 EMUSC Smash Melee Tournament 3"
+	date:9/29/2021
+	venue:"Sill Hall"
+	url:https://challonge.com/F21EMUSCM3
+	<sets>
+		<bracket>
+			[bug spray] 2-0 [Phonic]
+			[CY] 2-0 [mat]
+			[RIP_Bonk] 2-0 [binglet0n]
+			[Joka] 2-0 [hazardz]
+			[JJV] 2-0 [Rose]
+			[Mr. Monday] 2-0 [Moyer1666]
+			[Shrub] 2-0 [JADO]
+			[Sheep] 2-0 [bug spray]
+			[RIP_Bonk] 2-0 [CY]
+			[Joka] 2-0 [JJV]
+			[Mr. Monday] 2-0 [Shrub]
+			[Sheep] 2-0 [RIP_Bonk]
+			[Joka] 2-1 [Mr. Monday]
+			[mat] 2-0 [binglet0n]
+			[hazardz] 2-0 [Rose]
+			[JADO] 2-0 [Moyer1666]
+			[Shrub] 2-1 [Phonic]
+			[JJV] 2-0 [mat]
+			[hazardz] 2-0 [CY]
+			[bug spray] 2-0 [JADO]
+			[Shrub] 2-0 [JJV]
+			[hazardz] 2-0 [bug spray]
+			[RIP_Bonk] 2-1 [Shrub]
+			[hazardz] 2-0 [Mr. Monday]
+			[hazardz] 2-0 [RIP_Bonk]	
+			<bo5>
+				[Sheep] 3-1 [Joka]
+				[Joka] 3-0 [hazardz]
+				[Sheep] 3-1 [Joka]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Sheep
+		2nd|Joka
+		3rd|hazardz
+		4th|RIP_Bonk
+		5th|Mr. Monday
+		5th|Shrub
+		7th|bug spray
+		7th|JJV
+		9th|CY
+		9th|JADO
+		9th|mat
+		9th|Phonic
+		13th|binglet0n
+		13th|Moyer1666
+		13th|Rose
+	</placings>
+}
+
+{
+	name:"GameTime Melee #7"
+	date:10/1/2021
+	venue:"GameTime"
+	url:https://smash.gg/tournament/gametime-melee-7
+	<sets>
+		<rr>
+			[Ossify] 2-0 [Artemis Peach]
+			[Ossify] 2-0 [Negat!ve]
+			[Ossify] 2-0 [Shandy]
+			[Ossify] 2-0 [KroKo]
+			[Artemis Peach] 2-1 [Negat!ve]
+			[Artemis Peach] 2-0 [Shandy]
+			[Artemis Peach] 2-0 [KroKo]
+			[Negat!ve] 2-0 [Shandy]
+			[Negat!ve] 2-0 [KroKo]
+			[Shandy] 2-0 [KroKo]
+		</rr>
+		<rr>
+			[Asiago] 2-1 [Kuyashi]
+			[Kuyashi] 2-0 [HAM]
+			[Kuyashi] 2-0 [htcp]
+			[Kuyashi] 2-0 [Non]
+			[HAM] 2-1 [Asiago]
+			[Asiago] 2-0 [htcp]
+			[Asiago] 2-0 [Non]
+			[htcp] 2-1 [HAM]
+			[HAM] 2-0 [Non]
+			[htcp] 2-0 [Non]
+		</rr>
+		<bo5>
+			<bracket>
+				[Ossify] 3-1 [Asiago]
+				[Kuyashi] 3-1 [Artemis Peach]
+				[Kuyashi] 3-0 [Asiago]
+				[Ossify] 3-1 [Kuyashi]
+			</bracket>
+		</bo5>
+	</sets>
+	<placings>
+		1st|Ossify
+		2nd|Kuyashi
+		3rd|Asiago
+		4th|Artemis Peach
+		5th|HAM
+		5th|Negat!ve
+		7th|htcp
+		7th|Shandy
+		9th|KroKo
+		9th|Non
+	</placings>
+}
+
+{
+	name:"GameTime Melee #7 amateurs"
+	parent:"GameTime Melee #7"
+	url:https://smash.gg/tournament/gametime-melee-7/event/melee-am/brackets/1006330/1587379
+	<sets>
+		<bracket>
+			[KroKo] 2-0 [Non]
+			[Negat!ve] 2-0 [KroKo]
+			[Shandy] 2-1 [htcp]
+			[Negat!ve] 2-0 [Shandy]
+			[htcp] 2-0 [Non]
+			[htcp] 2-1 [KroKo]
+			[htcp] 2-0 [Shandy]
+			<bo5>
+				[Negat!ve] 3-0 [htcp]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Negat!ve
+		2nd|htcp
+		3rd|Shandy
+		4th|KroKo
+		5th|Non
+	</placings>
+}
+
+{
+	name:"Victory Road Fall 2021 #4"
+	date:10/4/2021
+	venue:"Erikson Hall"
+	url:https://challonge.com/vrf4
+	<sets>
+		<bracket>
+			[Apollo] 2-0 [LOOM]
+			[Bus Fire] 2-0 [xatudrip]
+			[squishy boi] 2-0 [Capri]
+			[Noshi] 2-0 [emily]
+			[Paulo] 2-0 [BenMW]
+			[helm] 2-0 [Vexillion]
+			[Bobo] 2-0 [Jobo]
+			[Rayboyp] 2-1 [Apollo]
+			[Bus Fire] 2-0 [squishy boi]
+			[Noshi] 2-0 [Paulo]
+			[helm] 2-0 [Bobo]
+			[xatudrip] 2-1 [Capri]
+			[BenMW] 2-0 [emily]
+			[Jobo] 2-0 [Vexillion]
+			[Bobo] 2-0 [LOOM]
+			[Paulo] 2-0 [xatudrip]
+			[squishy boi] 2-1 [BenMW]
+			[Apollo] 2-0 [Jobo]
+			<bo5>
+				[Rayboyp] 3-1 [Bus Fire]
+				[Noshi] 3-0 [helm]
+				[Rayboyp] 3-1 [Noshi]
+				[Paulo] 3-1 [Bobo]
+				[squishy boi] 3-2 [Apollo]
+				[Paulo] 3-2 [Bus Fire]
+				[helm] 3-0 [squishy boi]
+				[helm] 3-0 [Paulo]
+				[Noshi] 3-0 [helm]
+				[Noshi] 3-1 [Rayboyp]
+				[Noshi] 3-2 [Rayboyp]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Noshi
+		2nd|Rayboyp
+		3rd|helm
+		4th|Paulo
+		5th|Bus Fire
+		5th|squishy boi
+		7th|Apollo
+		7th|Bobo
+		9th|BenMW
+		9th|LOOM
+		9th|Jobo
+		9th|xatudrip
+		13th|Capri
+		13th|emily
+		13th|Vexillion
+	</placings>
+}
+
+{
+	name:"Victory Road Fall 2021 #4 amateurs"
+	parent:"Victory Road Fall 2021 #4"
+	url:https://challonge.com/vrf4am
+	<sets>
+		<bracket>
+			[BenMW] 2-1 [xatudrip]
+			[Bobo] 2-1 [Capri]
+			[Apollo] 2-1 [BenMW]
+			[Bobo] 2-0 [LOOM]
+			[xatudrip] 2-0 [LOOM]
+			[BenMW] 2-0 [Capri]
+			[BenMW] 2-0 [xatudrip]
+			<bo5>
+				[Apollo] 3-1 [Bobo]
+				[Apollo] 3-2 [BenMW]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Apollo
+		2nd|BenMW
+		3rd|Bobo
+		4th|xatudrip
+		5th|BenMW
+		5th|LOOM
+	</placings>
+}
+
+{
+	name:"MEAT #3"
+	date:10/5/2021
+	venue:"Rackham Graduate School"
+	url:https://smash.gg/tournament/meat-3
+	<sets>
+		<bracket>
+			[cnqso] 2-0 [Shin]
+			[mathandsurf] 2-0 [Cash Cow]
+			[Orbit] 2-0 [Daddio]
+			[Brazmonkey] 2-0 [cnqso]
+			[jakpox] 2-0 [Baron]
+			[AlphaPancake] 2-0 [J$]
+			[Coin] 2-1 [htcp]
+			[Asiago] 2-1 [mathandsurf]
+			[Negat!ve] 2-0 [QBaby]
+			[Mushu] 2-1 [Orbit]
+			[swine] 2-0 [M.A.C.]
+			[Brazmonkey] 2-1 [jakpox]
+			[Coin] 2-1 [AlphaPancake]
+			[Asiago] 2-0 [Negat!ve]
+			[swine] 2-1 [Mushu]
+			[M.A.C.] 2-0 [Shin]
+			[htcp] 2-0 [Cash Cow]
+			[Baron] 2-0 [Daddio]
+			[M.A.C.] 2-0 [Orbit]
+			[QBaby] 2-0 [mathandsurf]
+			[htcp] 2-0 [J$]
+			[Baron] 2-0 [cnqso]
+			[AlphaPancake] 2-1 [M.A.C.]
+			[QBaby] 2-1 [jakpox]
+			[Mushu] 2-0 [htcp]
+			[Negat!ve] 2-0 [Baron]
+			<bo5>
+				[Coin] 3-0 [Brazmonkey]
+				[Asiago] 3-0 [swine]
+				[Coin] 3-1 [Asiago]
+				[AlphaPancake] 3-1 [QBaby]
+				[Mushu] 3-1 [Negat!ve]
+				[Brazmonkey] 3-0 [Mushu]
+				[AlphaPancake] 3-2 [Brazmonkey]
+				[Asiago] 3-1 [AlphaPancake]
+				[Coin] 3-2 [Asiago]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Coin
+		2nd|Asiago
+		3rd|AlphaPancake
+		4th|Brazmonkey
+		5th|Mushu
+		5th|swine
+		7th|Negat!ve
+		7th|QBaby
+		9th|Baron
+		9th|htcp
+		9th|jakpox
+		9th|M.A.C.
+		13th|cnqso
+		13th|J$
+		13th|mathandsurf
+		13th|Orbit
+		17th|Cash Cow
+		17th|Daddio
+		17th|Shin
+	</placings>
+}
+
+{
+	name:"MEAT #3 amateurs"
+	parent:"MEAT #3"
+	url:https://challonge.com/meat3am
+	<sets>
+		<bracket>
+			[shon] 2-0 [Daddio]
+			[htcp] 2-1 [shon]
+			[jakpox|Zelda] 2-1 [Orbit]
+			[J$] 2-0 [Cash Cow]
+			[mathandsurf] 2-0 [Shin]
+			[jakpox|Zelda] 2-1 [htcp]
+			[J$] 2-0 [mathandsurf]
+			[jakpox|Zelda] 2-1 [J$]
+			[Daddio] 2-0 [Shin]
+			[Daddio] 2-1 [Cash Cow]
+			[Orbit] 2-0 [shon]
+			[htcp] 2-0 [Daddio]
+			[htcp] 2-0 [mathandsurf]
+			[htcp] 2-0 [J$]
+			<bo5>
+				[jakpox|Zelda] 3-1 [htcp]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|jakpox
+		2nd|htcp
+		3rd|J$
+		4th|mathandsurf
+		5th|Daddio
+		7th|Cash Cow
+		7th|shon
+		9th|Shin
+	</placings>
+}
+
+{
+	name:"F21 EMUSC Smash Melee Tournament 4"
+	date:10/6/2021
+	venue:"Sill Hall"
+	url:https://challonge.com/F21EMUSCM4
+	<sets>
+		<bracket>
+			[Cassiopeia] 2-0 [Moyer1666]
+			[Sheep] 2-0 [Cassiopeia]
+			[JJV] 2-1 [bug spray]
+			[Mushu] 2-0 [mat]
+			[Artemis Sheik|Sheik] 2-0 [binglet0n]
+			[Joka] 2-0 [hello world]
+			[Mr. Monday] 2-0 [Rose]
+			[Riley] 2-0 [JADO]
+			[HAM] 2-0 [Betus]
+			[Sheep] 2-0 [JJV]
+			[Mushu] 2-0 [Artemis Sheik|Sheik]
+			[Joka] 2-0 [Mr. Monday]
+			[HAM] 2-1 [Riley]
+			[Betus] 2-0 [Moyer1666]
+			[Betus] 2-0 [JADO]
+			[hello world] 2-0 [Rose]
+			[mat] 2-0 [binglet0n]
+			[bug spray] 2-0 [Cassiopeia]
+			[Artemis Sheik|Sheik] 2-0 [Betus]
+			[hello world] 2-0 [JJV]
+			[Riley] 2-0 [mat]
+			[Mr. Monday] 2-0 [bug spray]
+			<bo5>
+				[Sheep] 3-0 [Mushu]
+				[Joka] 3-0 [HAM]
+				[Joka] 3-2 [Sheep]
+				[Artemis Sheik|Sheik] 2-0 [hello world]
+				[Riley] 3-0 [Mr. Monday]
+				[HAM] 3-1 [Artemis Sheik|Sheik]
+				[Mushu] 3-1 [Riley]
+				[Mushu] 3-0 [HAM]
+				[Sheep] 3-2 [Mushu]
+				[Sheep] 3-1 [Joka]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Sheep
+		2nd|Joka
+		3rd|Mushu
+		4th|HAM
+		5th|Artemis Sheik
+		5th|Riley
+		7th|hello world
+		7th|Mr. Monday
+		9th|Betus
+		9th|bug spray
+		9th|JJV
+		9th|mat
+		13th|binglet0n
+		13th|Cassiopeia
+		13th|JADO
+		13th|Rose
+		17th|Moyer1666
+	</placings>
+}
+
+{
+	name:"GameTime Melee #8"
+	date:10/8/2021
+	venue:"GameTime"
+	url:https://smash.gg/tournament/gametime-melee-8
+	<sets>
+		<rr>
+			[Ossify] 2-0 [Artemis Sheik|Sheik]
+			[Ossify] 2-0 [helm]
+			[Ossify] 2-0 [Shandy]
+			[Ossify] 2-0 [KroKo]
+			[helm] 2-1 [Artemis Sheik|Sheik]
+			[Artemis Sheik|Sheik] 2-1 [Shandy]
+			[Artemis Sheik|Sheik] 2-0 [KroKo]
+			[helm] 2-0 [Shandy]
+			[helm] 2-0 [KroKo]
+			[Shandy] 2-0 [KroKo]
+		</rr>
+		<rr>
+			[Vorporal] 2-0 [Sevan]
+			[Vorporal] 2-1 [htcp]
+			[Vorporal] 2-0 [Eddie]
+			[Vorporal] 2-0 [SuperStummy]
+			[Vorporal] 2-0 [Non]
+			[Sevan] 2-0 [htcp]
+			[Sevan] 2-0 [Eddie]
+			[Sevan] 2-0 [SuperStummy]
+			[Sevan] 2-0 [Non]
+			[htcp] 2-0 [SuperStummy]
+			[htcp] 2-0 [Non]
+			[SuperStummy] 2-0 [Non]
+		</rr>
+		<bracket>
+			<bo5>
+				[Ossify] 3-0 [Sevan]
+				[Vorporal] 3-0 [helm]
+				[Ossify] 3-1 [Vorporal]
+				[helm] 3-0 [Artemis Sheik|Sheik]
+				[Sevan] 3-1 [htcp]
+				[Sevan] 3-0 [helm]
+				[Vorporal] 3-0 [Sevan]
+				[Ossify] 3-0 [Vorporal]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Ossify
+		2nd|Vorporal
+		3rd|Sevan
+		4th|helm
+		5th|Artemis Sheik
+		5th|htcp
+		7th|Shandy
+		7th|SuperStummy
+		9th|KroKo
+		9th|Non
+		11th|Eddie
+	</placings>
+}
+
+{
+	name:"GameTime Melee #8 amateurs"
+	parent:"GameTime Melee #8"
+	url:https://smash.gg/tournament/gametime-melee-8/event/melee-am/brackets/1009425/1591333
+	<sets>
+		<bo5>
+			<rr>
+				[Shandy] 3-1 [KroKo]
+				[Shandy] 3-0 [SuperStummy]
+				[Shandy] 3-0 [Non]
+				[KroKo] 3-0 [SuperStummy]
+				[KroKo] 3-1 [Non]
+				[SuperStummy] 3-1 [Non]
+			</rr>
+		</bo5>
+	</sets>
+	<placings>
+		1st|Shandy
+		2nd|KroKo
+		3rd|SuperStummy
+		4th|Non
+	</placings>
+}
+
+{
+	name:"Retro Beatdown 4"
+	date:10/10/2021
+	venue:"Replay Cafe"
+	url:https://smash.gg/tournament/retro-beatdown-4
+	<sets>
+		<bracket>
+			[Shynx] 2-0 [jacked-up-jason]
+			[htcp] 2-0 [Papa Pigs]
+			[KroKo] 2-0 [Nexodus]
+			[Chelo] 2-0 [Gattsu]
+			[1luv] 2-0 [kaputt]
+			[Shadez] 2-0 [Shynx]
+			[htcp] 2-1 [KroKo]
+			[helm] 2-0 [Chelo]
+			[tar] 2-0 [1luv]
+			[Nexodus] 2-0 [Papa Pigs]
+			[1luv] 2-1 [jacked-up-jason]
+			[Nexodus] 2-1 [Chelo]
+			[KroKo] 2-0 [Gattsu]
+			[Shynx] 2-0 [kaputt]
+			[Nexodus] 2-1 [1luv]
+			[KroKo] 2-0 [Shynx]
+			<bo5>
+				[Shadez] 3-0 [htcp]
+				[helm] 3-2 [tar]
+				[Shadez] 3-2 [helm]
+				[htcp] 3-0 [Nexodus]
+				[tar] 3-0 [KroKo]
+				[tar] 3-0 [htcp]
+				[helm] 3-1 [tar]
+				[Shadez] 3-0 [helm]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Shadez
+		2nd|helm
+		3rd|tar
+		4th|htcp
+		5th|KroKo
+		5th|Nexodus
+		7th|1luv
+		7th|Shynx
+		9th|Chelo
+		9th|Gattsu
+		9th|jacked-up-jason
+		9th|kaputt
+		13th|Papa Pigs
+	</placings>
+}
+
+{
+	name:"Victory Road Fall 2021 #5"
+	date:10/11/2021
+	venue:"Erikson Hall"
+	url:https://challonge.com/VRF5
+	<sets>
+		<bracket>
+			[Owlvado] 2-0 [Bobo]
+			[BenMW] 2-0 [LOOM]
+			[Jobo] 2-0 [matricies]
+			[Rayboyp] 2-0 [Owlvado]
+			[helm] 2-0 [Hooplah]
+			[Vorporal] 2-0 [BenMW]
+			[Noshi] 2-0 [Jobo]
+			[Jobo] 2-0 [Bobo]
+			[Hooplah] 2-0 [LOOM]
+			[Owlvado] 2-0 [matricies]
+			<bo5>
+				[Rayboyp] 3-1 [helm]
+				[Noshi] 3-1 [Vorporal]
+				[Rayboyp] 3-1 [Noshi]
+				[BenMW] 3-1 [Jobo]
+				[Hooplah] 2-0 [Owlvado]
+				[helm] 3-1 [BenMW]
+				[Vorporal] 3-1 [Hooplah]
+				[Vorporal] 3-0 [helm]
+				[Noshi] 3-1 [Vorporal]
+				[Rayboyp] 3-1 [Noshi]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Rayboyp
+		2nd|Noshi
+		3rd|Vorporal
+		4th|helm
+		5th|BenMW
+		5th|Hooplah
+		7th|Jobo
+		7th|Owlvado
+		9th|Bobo
+		9th|LOOM
+		9th|matricies
+	</placings>
+}
+
+{
+	name:"Victory Road Fall 2021 #5 amateurs"
+	parent:"Victory Road Fall 2021 #5"
+	url:https://challonge.com/VRF5AM
+	<sets>	
+		<rr>
+			[Jobo] 2-0 [Owlvado]
+			[matricies] 2-1 [LOOM]
+			[Bobo] 2-0 [Jobo]
+			[Jobo] 2-0 [matricies]
+			[Owlvado] 2-1 [LOOM]
+			[Jobo] 2-0 [LOOM]
+			[Owlvado] 2-1 [matricies]
+			[Bobo] 2-1 [LOOM]
+			[Bobo] 2-0 [matricies]
+			[Bobo] 2-0 [Owlvado]
+		</rr>
+		<bracket>
+			<bo5>
+				[Bobo] 3-2 [Jobo]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Bobo
+		2nd|Jobo
+		3rd|Owlvado
+		4th|matricies
+		5th|LOOM
+	</placings>
+}
+
+{
+	name:"MEAT #4"
+	date:10/12/2021
+	venue:"Rackham Graduate School"
+	url:https://smash.gg/tournament/meat-4
+	<sets>
+		<bracket>
+			[Daddio] 2-0 [cnqso]
+			[mathandsurf] 2-0 [Shin]
+			[Bosko] 2-0 [Cage]
+			[Brazmonkey] 2-0 [Daddio]
+			[Groovy] 2-1 [Baron]
+			[AlphaPancake] 2-0 [noro]
+			[Mushu] 2-0 [QBaby]
+			[Sheep] 2-0 [mathandsurf]
+			[Negat!ve] 2-1 [ADKnight]
+			[Riley] 2-0 [Bosko]
+			[Joka] 2-0 [Robert]
+			[Brazmonkey] 2-1 [Groovy]
+			[AlphaPancake] 2-0 [Mushu]
+			[Negat!ve] 2-1 [Sheep]
+			[Riley] 2-0 [Joka]
+			[Robert] 2-0 [cnqso]
+			[QBaby] 2-0 [Shin]
+			[Baron] 2-0 [Cage]
+			[Bosko] 2-1 [Robert]
+			[ADKnight] 2-0 [mathandsurf]
+			[QBaby] 2-0 [noro]
+			[Baron] 2-0 [Daddio]
+			[Mushu] 2-0 [Bosko]
+			[Groovy] 2-1 [ADKnight]
+			[Joka] 2-0 [QBaby]
+			[Sheep] 2-0 [Baron]
+			<bo5>
+				[Brazmonkey] 3-2 [AlphaPancake]
+				[Riley] 3-1 [Negat!ve]
+				[Riley] 3-2 [Brazmonkey]
+				[Mushu] 3-1 [Groovy]
+				[Sheep] 3-2 [Joka]
+				[Negat!ve] 3-1 [Mushu]
+				[Sheep] 3-0 [AlphaPancake]
+				[Sheep] 3-2 [Negat!ve]
+				[Brazmonkey] 3-0 [Sheep]
+				[Brazmonkey] 3-0 [Riley]
+				[Brazmonkey] 3-0 [Riley]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Brazmonkey
+		2nd|Riley
+		3rd|Sheep
+		4th|Negat!ve
+		5th|AlphaPancake
+		5th|Mushu
+		7th|Groovy
+		7th|Joka
+		9th|ADKnight
+		9th|Baron
+		9th|Bosko
+		9th|QBaby
+		13th|Daddio
+		13th|mathandsurf
+		13th|noro
+		13th|Robert
+		17th|Cage
+		17th|cnqso
+		17th|Shin
+	</placings>
+}
+
+{
+	name:"F21 EMUSC Smash Melee Tournament 5"
+	date:10/13/2021
+	url:https://challonge.com/F21EMUSCM5
+	venue:"Sill Hall"
+	<sets>
+		<bracket>
+			[TS Popstar] 2-1 [bug spray]
+			[CY] 2-1 [mat]
+			[Joka] 2-0 [TS Popstar]
+			[-Sheep|Roy] 2-0 [RIP_Bonk]
+			[hello world] 2-0 [CY]
+			[Mr. Monday] 2-1 [JJV]
+			[Joka|Captain Falcon] 2-0 [-Sheep|Roy]
+			[hello world] 2-0 [Mr. Monday]
+			[JJV] 2-1 [bug spray]
+			[RIP_Bonk] 2-0 [mat]
+			[JJV] 2-1 [CY]
+			[TS Popstar] 2-0 [RIP_Bonk]
+			[-Sheep|Roy] 2-0 [JJV]
+			[TS Popstar] 2-0 [Mr. Monday]
+			[-Sheep|Roy] 2-1 [TS Popstar]
+			<bo5>
+				[Joka] 3-0 [hello world]
+				[-Sheep|Roy] 3-0 [hello world]
+				[Joka] 3-1 [-Sheep|Roy]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Joka
+		2nd|-Sheep
+		3rd|hello world
+		4th|TS Popstar
+		5th|JJV
+		5th|Mr. Monday
+		7th|CY
+		7th|RIP_Bonk
+		9th|bug spray
+		9th|mat
+	</placings>
+}
+
+{
+	name:"GameTime Melee #9"
+	date:10/15/2021
+	venue:"GameTime"
+	url:https://smash.gg/tournament/gametime-melee-9
+	<sets>
+		<rr>
+			[Kuyashi] 2-0 [Shandy]
+			[Kuyashi] 2-0 [blummbo]
+			[Kuyashi] 2-0 [Kickflip]
+			[Kuyashi] 2-0 [zombiebaran]
+			[Shandy] 2-0 [blummbo]
+			[Shandy] 2-0 [Kickflip]
+			[Shandy] 2-0 [zombiebaran]
+			[Kickflip] 2-0 [blummbo]
+			[zombiebaran] 2-0 [blummbo]
+			[Kickflip] 2-0 [zombiebaran]
+		</rr>
+		<rr>
+			[htcp] 2-0 [Artemis Sheik|Sheik]
+			[htcp] 2-0 [KroKo]
+			[htcp] 2-0 [Eddie]
+			[htcp] 2-0 [kotary]
+			[htcp] 2-0 [Non]
+			[Artemis Sheik|Sheik] 2-0 [KroKo]
+			[Artemis Sheik|Sheik] 2-1 [Eddie]
+			[Artemis Sheik|Sheik] 2-0 [kotary]
+			[Artemis Sheik|Sheik] 2-0 [Non]
+			[KroKo] 2-0 [Eddie]
+			[KroKo] 2-0 [kotary]
+			[KroKo] 2-0 [Non]
+			[Eddie] 2-0 [kotary]
+			[Eddie] 2-0 [Non]
+			[Non] 2-0 [kotary]
+		</rr>
+		<bracket>
+			<bo5>
+				[Kuyashi] 3-0 [Artemis Sheik|Sheik]
+				[Shandy] 3-0 [htcp]
+				[Kuyashi] 3-0 [Shandy]
+				[htcp] 3-0 [Kickflip]
+				[Artemis Sheik|Sheik] 3-2 [KroKo]
+				[Artemis Sheik|Sheik] 3-0 [htcp]
+				[Shandy] 3-1 [Artemis Sheik|Sheik]
+				[Kuyashi] 3-0 [Shandy]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Kuyashi
+		2nd|Shandy
+		3rd|Artemis Sheik
+		4th|htcp
+		5th|Kickflip
+		5th|KroKo
+		7th|Eddie
+		7th|zombiebaran
+		9th|blummbo
+		9th|Non
+		11th|kotary
+	</placings>
+}
+
+{
+	name:"GameTime Melee #9 amateurs"
+	parent:"GameTime Melee #9"
+	url:https://smash.gg/tournament/gametime-melee-9/event/melee-am/brackets/1013393/1596699
+	<sets>
+		<bo5>
+			<rr>
+				[Non] 3-0 [kotary]
+				[Non] 3-2 [zombiebaran]
+				[Non] 3-1 [blummbo]
+				[zombiebaran] 3-1 [kotary]
+				[blummbo] 3-0 [kotary]
+				[zombiebaran] 3-0 [blummbo]
+			</rr>
+		</bo5>
+	</sets>
+	<placings>
+		1st|Non
+		2nd|zombiebaran
+		3rd|blummbo
+		4th|kotary
+	</placings>
+}
+
+{
+	name:"Victory Road Fall 2021 #6"
+	date:10/18/2021
+	venue:"Erikson Hall"
+	url:https://challonge.com/VRF6
+	<sets>
+		<bracket>
+			[matricies] 2-0 [LOOM]
+			[Jobo] 2-0 [Capri]
+			[xatudrip] 2-0 [Vexillion]
+			[Rayboyp] 2-0 [matricies]
+			[squishy boi] 2-0 [helm]
+			[Noshi] 2-0 [Jobo]
+			[Vorporal] 2-0 [xatudrip]
+			[xatudrip] 2-1 [LOOM]
+			[helm] 2-0 [Capri]
+			[Vexillion] 2-0 [matricies]
+			<bo5>
+				[Rayboyp] 3-1 [squishy boi]
+				[Vorporal] 3-0 [Noshi]
+				[Rayboyp] 3-2 [Vorporal]
+				[xatudrip] 3-1 [Jobo]
+				[helm] 3-0 [Vexillion]
+				[squishy boi] 3-0 [xatudrip]
+				[Noshi] 3-1 [helm]
+				[Noshi] 3-0 [squishy boi]
+				[Noshi] 3-2 [Vorporal]
+				[Rayboyp] 3-0 [Noshi]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Rayboyp
+		2nd|Noshi
+		3rd|Vorporal
+		4th|squishy boi
+		5th|helm
+		5th|xatudrip
+		7th|Jobo
+		7th|Vexillion
+		9th|Capri
+		9th|LOOM
+		9th|matricies
+	</placings>
+}
+
+{
+	name:"MEAT #5"
+	date:10/19/2021
+	venue:"Rackham Graduate School"
+	url:https://smash.gg/tournament/meat-5/event/melee-singles/brackets/1015842/1600206
+	<sets>
+		<bracket>
+			[Cash Cow] 2-0 [A2Quizzy]
+			[morc] 2-1 [Daddio]
+			[Coin] 2-0 [Cash Cow]
+			[ADKnight] 2-0 [Polymath]
+			[AlphaPancake] 2-0 [shon]
+			[jakpox] 2-0 [Wendy]
+			[Brazmonkey] 2-0 [morc]
+			[GMAN] 2-1 [gpie]
+			[Asiago] 2-0 [HighDef]
+			[M.A.C.] 2-0 [mathandsurf]
+			[ADKnight] 2-0 [Coin]
+			[jakpox] 2-1 [AlphaPancake]
+			[Brazmonkey] 2-0 [GMAN]
+			[Asiago] 2-0 [M.A.C.]
+			[mathandsurf] 2-0 [A2Quizzy]
+			[Wendy] 2-0 [Daddio]
+			[mathandsurf] 2-1 [HighDef|Fox]
+			[morc] 2-1 [gpie]
+			[Wendy] 2-0 [shon]
+			[Polymath] 2-0 [Cash Cow]
+			[AlphaPancake] 2-0 [mathandsurf]
+			[Coin] 2-0 [morc]
+			[M.A.C.] 2-0 [Wendy]
+			[Polymath] 2-1 [GMAN]
+			<bo5>
+				[ADKnight] 3-2 [jakpox]
+				[Asiago] 3-1 [Brazmonkey]
+				[Asiago] 3-0 [ADKnight]
+				[Coin] 3-0 [AlphaPancake]
+				[M.A.C.] 3-0 [Polymath]
+				[Coin] 3-2 [Brazmonkey]
+				[jakpox] 3-0 [M.A.C.]
+				[Coin] 3-1 [jakpox]
+				[Coin] 3-1 [ADKnight]
+				[Coin] 3-0 [Asiago]
+				[Coin] 3-0 [Asiago]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Coin
+		2nd|Asiago
+		3rd|ADKnight
+		4th|jakpox
+		5th|Brazmonkey
+		5th|M.A.C.
+		7th|AlphaPancake
+		7th|Polymath
+		9th|GMAN
+		9th|mathandsurf
+		9th|morc
+		9th|Wendy
+		13th|Cash Cow
+		13th|HighDef
+		13th|gpie
+		13th|shon
+		17th|A2Quizzy
+		17th|Daddio
+	</placings>
+}
+
+{
+	name:"MEAT #5 amateurs"
+	parent:"MEAT #5"
+	url:https://challonge.com/meat5am
+	<sets>
+		<bracket>
+			[Daddio] 2-0 [A2Quizzy]
+			[morc] 2-0 [Daddio]
+			[gpie] 2-0 [mathandsurf]
+			[GMAN] 2-0 [HighDef|Fox]
+			[Polymath] 2-0 [Wendy]
+			[gpie] 2-0 [morc]
+			[GMAN] 2-1 [Polymath]
+			[GMAN] 2-1 [gpie]
+			[Wendy] 2-0 [A2Quizzy]
+			[Wendy] 2-1 [HighDef|Fox]
+			[mathandsurf] 2-0 [Daddio]
+			[morc] 2-0 [Wendy]
+			[morc] 2-0 [mathandsurf]
+			[gpie] 2-1 [morc]
+			[gpie] 2-1 [GMAN]
+			[gpie] 2-0 [GMAN]
+		</bracket>
+	</sets>
+	<placings>
+		1st|gpie
+		2nd|GMAN
+		3rd|morc
+		4th|mathandsurf
+		5th|Polymath
+		5th|Wendy
+		7th|Daddio
+		7th|HighDef
+	</placings>
+}
+
+{
+	name:"F21 EMUSC Smash Melee Tournament 6"
+	date:10/20/2021
+	venue:"Sill Hall"
+	url:https://challonge.com/F21EMUSCM6
+	<sets>
+		<bracket>
+			[CY] 2-1 [JJV]
+			[HAM] 2-0 [mat]
+			[Artemis Sheik|Sheik] 2-0 [Poi]
+			[Mr. Monday] 2-0 [Rose]
+			[D_Lidz] 2-0 [Gamer Boy]
+			[hello world] 2-0 [bug spray]
+			[Joka] 2-0 [CY]
+			[HAM] 2-1 [Artemis Sheik|Sheik]
+			[Zam] 2-0 [Mr. Monday]
+			[D_Lidz] 2-0 [hello world]
+			[Joka] 2-0 [HAM]
+			[Zam] 2-1 [D_Lidz]
+			[Poi] 2-1 [mat]
+			[bug spray] 2-0 [Gamer Boy]
+			[hello world] 2-0 [JJV]
+			[Mr. Monday] 2-0 [Poi]
+			[Artemis Sheik|Sheik] 2-0 [Rose]
+			[CY] 2-0 [bug spray]
+			[hello world] 3-0 [Mr. Monday]
+			[Artemis Sheik|Sheik] 2-0 [CY]
+			[HAM] 2-0 [hello world]
+			[Artemis Sheik|Sheik] 2-1 [D_Lidz]
+			[Artemis Sheik|Sheik] 2-1 [HAM]
+			<bo5>
+				[Joka] 3-0 [Zam]
+				[Zam] 3-1 [Artemis Sheik|Sheik]
+				[Zam] 3-2 [Joka]
+				[Joka] 3-1 [Zam]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Joka
+		2nd|Zam
+		3rd|Artemis Sheik
+		4th|HAM
+		5th|D_Lidz
+		5th|hello world
+		7th|CY
+		7th|Mr. Monday
+		9th|bug spray
+		9th|JJV
+		9th|Poi
+		9th|Rose
+		13th|Gamer Boy
+		13th|mat
+	</placings>
+}
+
+{
+	name:"GameTime Melee #10"
+	date:10/22/2021
+	venue:"GameTime"
+	url:https://smash.gg/tournament/gametime-melee-10
+	<sets>
+		<rr>
+			[Ossify] 2-0 [Shandy]
+			[Ossify] 2-0 [HAM]
+			[Ossify] 2-0 [KroKo]
+			[Ossify] 2-0 [Shoop]
+			[Ossify] 2-0 [kotary]
+			[HAM] 2-0 [Shandy]
+			[Shandy] 2-1 [KroKo]
+			[Shandy] 2-1 [Shoop]
+			[Shandy] 2-0 [kotary]
+			[HAM] 2-0 [KroKo]
+			[HAM] 2-0 [Shoop]
+			[HAM] 2-0 [kotary]
+			[Shoop] 2-0 [KroKo]
+			[KroKo] 2-0 [kotary]
+			[Shoop] 2-0 [kotary]
+		</rr>
+		<rr>
+			[Artemis Sheik|Sheik] 2-0 [-Kuyashi|Zelda]
+			[Robert] 2-0 [-Kuyashi|Zelda]
+			[-Kuyashi|Zelda] 2-0 [Bron]
+			[-Kuyashi|Zelda] 2-0 [zombiebaran]
+			[-Kuyashi|Zelda] 2-0 [Spikeawe]
+			[Robert] 2-1 [Artemis Sheik|Sheik]
+			[Artemis Sheik|Sheik] 2-0 [Bron]
+			[Artemis Sheik|Sheik] 2-0 [zombiebaran]
+			[Artemis Sheik|Sheik] 2-0 [Spikeawe]
+			[Robert] 2-0 [Bron]
+			[Robert] 2-0 [zombiebaran]
+			[Robert] 2-0 [Spikeawe]
+			[Bron] 2-1 [zombiebaran]
+			[Bron] 2-0 [Spikeawe]
+			[zombiebaran] 2-1 [Spikeawe]
+		</rr>
+		<bracket>
+			<bo5>
+				[Ossify] 3-0 [Artemis Sheik|Sheik]
+				[Robert] 3-2 [HAM]
+				[Ossify] 3-0 [Robert]
+				[-Kuyashi|Zelda] 3-0 [HAM]
+				[Artemis Sheik|Sheik] 3-1 [Shandy]
+				[Artemis Sheik|Sheik] 3-0 [-Kuyashi|Zelda]
+				[Robert] 3-1 [Artemis Sheik|Sheik]
+				[Ossify] 3-0 [Robert]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Ossify
+		2nd|Robert
+		3rd|Artemis Sheik
+		4th|-Kuyashi
+		5th|HAM
+		5th|Shandy
+		7th|Bron
+		7th|Shoop
+		9th|KroKo
+		9th|zombiebaran
+		11th|kotary
+		11th|Spikeawe
+	</placings>
+}
+
+{
+	name:"GameTime Melee #10 amateurs"
+	parent:"GameTime Melee #10"
+	url:https://smash.gg/tournament/gametime-melee-10/event/melee-am/brackets/1017332/1602061
+	<sets>
+		<bracket>
+			[Spikeawe] 2-1 [zombiebaran]
+			[KroKo] 2-0 [kotary]
+			[Shoop] 2-0 [Spikeawe]
+			[KroKo] 2-0 [Bron]
+			[Bron] 2-1 [zombiebaran]
+			[Spikeawe] 2-0 [kotary]
+			[Bron] 2-0 [Spikeawe]
+			<bo5>
+				[Shoop] 3-0 [KroKo]
+				[KroKo] 3-0 [Bron]
+				[Shoop] 3-0 [KroKo]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Shoop
+		2nd|KroKo
+		3rd|Bron
+		4th|Spikeawe
+		5th|kotary
+		5th|zombiebaran
+	</placings>
+}
+
+{
+	name:"Our House"
+	date:10/23/2021
+	venue:"GameTime"
+	url:https://smash.gg/tournament/our-house
+	<sets>
+		<rr>
+			[Ossify] 2-0 [Polak]
+			[Ossify] 2-0 [Maximus]
+			[Ossify] 2-0 [Ninja1167]
+			[Ossify] 2-0 [Soph]
+			[Maximus] 2-1 [Polak]
+			[Polak] 2-0 [Ninja1167]
+			[Polak] 2-0 [Soph]
+			[Maximus] 2-0 [Ninja1167]
+			[Maximus] 2-0 [Soph]
+			[Soph] 2-0 [Ninja1167]
+		</rr>
+		<rr>
+			[Kuyashi] 2-0 [Jere541]
+			[Kuyashi] 2-0 [KroKo]
+			[Kuyashi] 2-0 [Jobo]
+			[Jere541] 2-0 [KroKo]
+			[Jere541] 2-0 [Jobo]
+			[Jobo] 2-0 [KroKo]
+		</rr>
+		<rr>
+			[Vorporal] 2-0 [Shandy]
+			[Vorporal] 2-0 [Eddie]
+			[Vorporal] 2-0 [mathandsurf]
+			[Shandy] 2-0 [Eddie]
+			[Shandy] 2-0 [mathandsurf]
+			[mathandsurf] 2-1 [Eddie]
+		</rr>
+		<rr>
+			[helm] 2-1 [Artemis Sheik|Sheik]
+			[helm] 2-0 [Shoop]
+			[Nexodus] 2-1 [helm]
+			[Artemis Sheik|Sheik] 2-0 [Shoop]
+			[Artemis Sheik|Sheik] 2-1 [Nexodus]
+			[Shoop] 2-0 [Nexodus]
+		</rr>
+		<bracket>
+			<bo5>
+				[Ossify] 3-0 [Jere541]
+				[helm] 3-1 [Shandy]
+				[Kuyashi] 3-0 [Maximus]
+				[Vorporal] 3-1 [Artemis Sheik|Sheik]
+				[Ossify] 3-0 [helm]
+				[Kuyashi] 3-1 [Vorporal]
+				[Ossify] 3-1 [Kuyashi]
+				[Polak] 3-0 [KroKo]
+				[Eddie] 3-1 [Shoop]
+				[Jobo] 3-2 [Soph]
+				[mathandsurf] 3-0 [Nexodus]
+				[Artemis Sheik|Sheik] 3-1 [Polak]
+				[Maximus] 3-1 [Eddie]
+				[Shandy] 3-1 [Jobo]
+				[Jere541] 3-0 [mathandsurf]
+				[Artemis Sheik|Sheik] 3-1 [Maximus]
+				[Jere541] 3-1 [Shandy]
+				[Artemis Sheik|Sheik] 3-2 [helm]
+				[Vorporal] 3-1 [Jere541]
+				[Vorporal] 3-0 [Artemis Sheik|Sheik]
+				[Kuyashi] 3-0 [Vorporal]
+				[Ossify] 3-1 [Kuyashi]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Ossify
+		2nd|Kuyashi
+		3rd|Vorporal
+		4th|Artemis Sheik
+		5th|helm
+		5th|Jere541
+		7th|Maximus
+		7th|Shandy
+		9th|Eddie
+		9th|Jobo
+		9th|mathandsurf
+		9th|Polak
+		13th|KroKo
+		13th|Nexodus
+		13th|Shoop
+		13th|Soph
+		17th|Ninja1167
+	</placings>
+}
+
+{
+	name:"Our House amateurs"
+	parent:"Our House"
+	url:https://smash.gg/tournament/our-house/event/melee-am/brackets/1001946/1581257
+	<sets>
+		<bracket>
+			[Soph] 2-0 [Ninja1167]
+			[Polak] 2-0 [Soph]
+			[Shoop] 2-1 [Nexodus]
+			[mathandsurf] 2-0 [KroKo]
+			[Jobo] 2-1 [Eddie]
+			[Shoop] 2-1 [Polak]
+			[mathandsurf] 2-1 [Jobo]
+			[mathandsurf] 2-1 [Shoop]
+			[Eddie] 2-0 [Ninja1167]
+			[KroKo] 2-0 [Eddie]
+			[Soph] 2-1 [Nexodus]
+			[Polak] 2-0 [KroKo]
+			[Soph] 2-1 [Jobo]
+			[Polak] 2-0 [Soph]
+			[Polak] 2-1 [Shoop]
+			[mathandsurf] 2-1 [Polak]
+		</bracket>
+	</sets>
+	<placings>
+		1st|mathandsurf
+		2nd|Polak
+		3rd|Shoop
+		4th|Soph
+		5th|Jobo
+		5th|KroKo
+		7th|Eddie
+		7th|Nexodus
+		9th|Ninja1167
+	</placings>
+}
+
+{
+	name:"Victory Road Fall #7"
+	venue:"Erikson Hall"
+	date:10/25/2021
+	url:https://challonge.com/VRF7
+	<sets>
+		<bracket>
+			[Jobo] 2-0 [Capri]
+			[Rayboyp] 2-0 [Jobo]
+			[Vorporal] 2-1 [helm]
+			[Paz] 2-0 [xatudrip]
+			[Noshi] 2-1 [squishy boi]
+			[squishy boi] 2-0 [Capri]
+			<bo5>
+				[Rayboyp] 3-1 [Vorporal]
+				[Paz] 3-1 [Noshi]
+				[Paz] 3-2 [Rayboyp]
+				[squishy boi] 3-1 [xatudrip]
+				[helm] 3-0 [Jobo]
+				[Vorporal] 3-0 [squishy boi]
+				[Noshi] 3-2 [helm]
+				[Noshi] 3-0 [Vorporal]
+				[Rayboyp] 3-0 [Noshi]
+				[Paz] 3-1 [Rayboyp]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Paz
+		2nd|Rayboyp
+		3rd|Noshi
+		4th|Vorporal
+		5th|helm
+		5th|squishy boi
+		7th|helm
+		7th|xatudrip
+		9th|Capri
+	</placings>
+}
+
+{
+	name:"MEAT #6"
+	venue:"Rackham Graduate School"
+	date:10/26/2021
+	url:https://smash.gg/tournament/meat-6/event/melee-singles/brackets/1018550/1603890/
+	<sets>
+		<bracket>
+			[BenMW] 2-0 [Tangent]
+			[Maximus] 2-1 [A2Quizzy]
+			[HighDef] 2-0 [Jiji]
+			[HAM] 2-0 [Lord Laika]
+			[mathandsurf] 2-0 [JADO]
+			[GMAN] 2-0 [lemonademilk]
+			[Jobo] 2-0 [Cash Cow]
+			[drip] 2-1 [Polymath]
+			[Polak] 2-0 [Shin]
+			[Bleach] 2-0 [TF]
+			[morc] 2-1 [Soph]
+			[Ginger] 2-0 [BenMW]
+			[Baron] 2-0 [helm]
+			[AlphaPancake] 2-0 [Maximus]
+			[Vorporal] 2-0 [Paco]
+			[Brazmonkey] 2-0 [HighDef]
+			[jakpox] 2-0 [HAM]
+			[Sheep] 2-0 [mathandsurf]
+			[Sevan] 2-0 [GMAN]
+			[KJH] 2-0 [Jobo]
+			[Rayboyp] 2-0 [drip]
+			[Mushu] 2-0 [Robert]
+			[Ossify] 2-0 [Polak]
+			[Joka] 2-1 [QBaby]
+			[Asiago] 2-0 [Bleach]
+			[Whitemiles] 2-0 [morc]
+			[Ginger] 2-0 [Baron]
+			[Vorporal] 2-0 [AlphaPancake]
+			[Brazmonkey] 2-0 [jakpox|Falco]
+			[Sheep] 2-1 [Sevan]
+			[KJH] 2-0 [Zam]
+			[Rayboyp] 2-1 [Mushu]
+			[Ossify] 2-0 [Joka]
+			[Whitemiles] 2-1 [Asiago]
+			[Ginger] 2-0 [Vorporal]
+			[Brazmonkey] 2-1 [Sheep]
+			[KJH] 2-0 [Rayboyp]
+			[Ossify] 2-0 [Whitemiles]
+			[morc] 2-0 [Tangent]
+			[QBaby] 2-0 [A2Quizzy]
+			[Robert] 2-0 [Jiji]
+			[drip] 2-0 [Lord Laika]
+			[Jobo] 2-0 [lemonademilk]
+			[GMAN] 2-0 [Cash Cow]
+			[HAM] 2-0 [Polymath]
+			[Paco] 2-0 [Shin]
+			[helm] 2-0 [TF]
+			[Soph] 2-1 [BenMW]
+			[morc] 2-0 [Bleach]
+			[Polak] 2-0 [QBaby]
+			[drip] 2-0 [Robert]
+			[Jobo] 2-0 [JADO]
+			[GMAN] 2-0 [mathandsurf]
+			[HAM] 2-0 [HighDef]
+			[Paco] 2-1 [Maximus]
+			[helm] 2-0 [Soph]
+			[Sevan] 2-1 [morc]
+			[jakpox] 2-0 [Polak]
+			[AlphaPancake] 2-0 [drip]
+			[Baron] 2-0 [Jobo]
+			[Asiago] 2-0 [GMAN]
+			[Joka] 2-1 [HAM]
+			[Paco] 2-1 [Mushu]
+			[Zam] 2-0 [helm]
+			[Sevan] 2-0 [jakpox]
+			[AlphaPancake] 2-1 [Baron]
+			[Joka] 2-1 [Asiago]
+			[Paco] 2-0 [Zam]
+			[Rayboyp] 2-0 [Sevan]
+			[Whitemiles] 2-0 [AlphaPancake]
+			[Vorporal] 2-1 [Joka]
+			[Sheep] 2-0 [Paco]
+			<bo5>
+				[Ginger] 3-0 [Brazmonkey]
+				[KJH] 3-0 [Ossify]
+				[Ginger] 3-1 [KJH]
+				[Whitemiles] 3-2 [Rayboyp]
+				[Vorporal] 3-1 [Sheep]
+				[Brazmonkey] 3-0 [Whitemiles]
+				[Ossify] 3-1 [Vorporal]
+				[Ossify] 3-1 [Brazmonkey]
+				[KJH] 3-0 [Ossify]
+				[KJH] 3-0 [Ginger]
+				[KJH] 3-1 [Ginger]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|KJH
+		2nd|Ginger
+		3rd|Ossify
+		4th|Brazmonkey
+		5th|Vorporal
+		5th|Whitemiles
+		7th|Rayboyp
+		7th|Sheep
+		9th|AlphaPancake
+		9th|Joka
+		9th|Paco
+		9th|Sevan
+		13th|Asiago
+		13th|Baron
+		13th|jakpox
+		13th|Zam
+		17th|drip
+		17th|GMAN
+		17th|HAM
+		17th|helm
+		17th|Jobo
+		17th|morc
+		17th|Mushu
+		17th|Polak
+		25th|Bleach
+		25th|HighDef
+		25th|JADO
+		25th|mathandsurf
+		25th|Maximus
+		25th|QBaby
+		25th|Robert
+		25th|Soph
+		33rd|A2Quizzy
+		33rd|Cash Cow
+		33rd|BenMW
+		33rd|Jiji
+		33rd|lemonademilk
+		33rd|Lord Laika
+		33rd|Polymath
+		33rd|Shin
+		33rd|Tangent
+		33rd|TF
+	</placings>
+}
+
+{
+	name:"MEAT #6 amateurs"
+	parent:"MEAT #6"
+	url:https://challonge.com/meat6am
+	<sets>
+		<bracket>
+			<bo1>
+				[Cash Cow] 1-0 [Jiji]
+				[Polymath] 1-0 [lemonademilk]
+				[Jobo] 1-0 [JADO]
+				[HighDef|Fox] 1-0 [Tangent]
+				[helm] 1-0 [Cash Cow]
+				[A2Quizzy] 1-0 [BenMW]
+				[morc] 1-0 [Polymath]
+				[drip] 1-0 [mathandsurf]
+				[HAM] 1-0 [Jobo]
+				[Maximus] 1-0 [Soph]
+				[GMAN] 1-0 [HighDef|Fox]
+				[Polak] 1-0 [noro]
+				[helm] 1-0 [A2Quizzy]
+				[HAM] 1-0 [Maximus]
+				[GMAN] 1-0 [Polak]
+				[noro] 1-0 [Jiji]
+				[Soph] 1-0 [lemonademilk]
+				[BenMW] 1-0 [Tangent]
+				[noro] 1-0 [HighDef|Fox]
+				[Soph] 1-0 [Jobo]
+				[Polymath] 1-0 [mathandsurf]
+				[BenMW] 1-0 [Cash Cow]
+				[Soph] 1-0 [A2Quizzy]
+				[Polak] 1-0 [Polymath]
+				[Maximus] 1-0 [BenMW]
+			</bo1>
+				[morc] 2-0 [drip]
+				[helm] 2-1 [morc]
+				[GMAN] 2-1 [HAM]
+				[GMAN] 2-1 [helm]
+				[drip] 2-1 [noro]
+				[drip] 2-0 [Soph]
+				[Maximus] 2-0 [Polak]
+				[HAM] 2-1 [drip]
+				[Maximus] 2-0 [morc]
+				[HAM] 2-0 [Maximus]
+				[HAM] 2-1 [helm]
+				[HAM] 2-0 [GMAN]
+				[HAM] 2-0 [GMAN]
+		</bracket>
+	</sets>
+	<placings>
+		1st|HAM
+		2nd|GMAN
+		3rd|helm
+		4th|Maximus
+		5th|drip
+		5th|morc
+		7th|Polak
+		7th|Soph
+		9th|A2Quizzy
+		9th|BenMW
+		9th|noro
+		9th|Polymath
+		13th|Cash Cow
+		13th|HighDef
+		13th|Jobo
+		13th|mathandsurf
+	</placings>
+}
+
+{
+	name:"F21 EMUSC Smash Melee Tournament 7"
+	date:10/27/2021
+	venue:"Sill Hall"
+	url:https://challonge.com/F21EMUSCM7
+	<sets>
+		<bracket>
+			[Fox_Is_Trash] 2-0 [Moyer1666]
+			[RIP_Bonk] 2-1 [Drama]
+			[Levoamphetamine] 2-0 [CY]
+			[hello world] 2-0 [Dancer]
+			[bug spray] 2-1 [mat]
+			[Mr. Monday] 2-1 [BG4U]
+			[JJV] 2-0 [JADO]
+			[Joka] 2-0 [Fox_Is_Trash]
+			[Levoamphetamine] 2-1 [RIP_Bonk]
+			[hello world] 2-0 [bug spray]
+			[Mr. Monday] 2-0 [JJV]
+			[Joka] 2-0 [Levoamphetamine]
+			[hello world] 2-0 [Mr. Monday]
+			[Joka] 2-0 [hello world]
+			[Drama] 2-0 [CY]
+			[Dancer] 2-0 [mat]
+			[BG4U] 2-0 [JADO]
+			[JJV] 2-0 [Moyer1666]
+			[Drama] 2-1 [bug spray]
+			[RIP_Bonk] 2-0 [Dancer]
+			[BG4U] 2-0 [Fox_Is_Trash]
+			[Drama] 2-0 [JJV]
+			[BG4U] 2-0 [RIP_Bonk]
+			[Drama] 2-0 [Levoamphetamine]
+			[BG4U] 2-0 [Mr. Monday]
+			[Drama] 2-0 [BG4U]
+			<bo5>
+				[hello world] 3-2 [Drama]
+				[Joka] 3-0 [hello world]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Joka
+		2nd|hello world
+		3rd|Drama
+		4th|BG4U
+		5th|Levoamphetamine
+		5th|Mr. Monday
+		7th|JJV
+		7th|RIP_Bonk
+		9th|bug spray
+		9th|Dancer
+		9th|Fox_Is_Trash
+		9th|Moyer1666
+		13th|CY
+		13th|JADO
+		13th|mat
+	</placings>
+}
+
+{
+	name:"GameTime Melee #11"
+	venue:"GameTime"
+	date:10/29/2021
+	url:https://smash.gg/tournament/gametime-melee-11/event/melee-singles/brackets/1022627/1609728
+	<sets>
+		<bracket>
+			<bo5>
+				[htcp] 3-2 [Shandy]
+				[Artemis Sheik|Sheik] 3-0 [Non]
+				[Negat!ve] 3-0 [KroKo]
+				[JWinks] 3-2 [Shoop]
+				[Robert] 3-0 [Spikeawe]
+				[Paco] 3-0 [Shafournee]
+				[Ossify] 3-0 [htcp]
+				[Negat!ve] 3-1 [Artemis Sheik|Sheik]
+				[JCubez] 3-1 [JWinks]
+				[Paco] 3-2 [Robert]
+				[Ossify] 3-0 [Negat!ve]
+				[JCubez] 3-1 [Paco]
+				[JCubez] 3-1 [Ossify]
+				[KroKo] 3-2 [Non]
+				[Shafournee] 3-0 [Spikeawe]
+				[Robert] 3-1 [Shandy]
+				[JWinks] 3-1 [KroKo]
+				[Shoop] 3-2 [Artemis Sheik|Sheik]
+				[htcp] 3-0 [Shafournee]
+				[JWinks] 3-0 [Robert]
+				[htcp] 3-0 [Shoop]
+				[Negat!ve] 3-0 [JWinks]
+				[Paco] 3-0 [htcp]
+				[Negat!ve] 3-1 [Paco]
+				[Ossify] 3-0 [Negat!ve]
+				[Ossify] 3-0 [JCubez]
+				[Ossify] 3-1 [JCubez]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Ossify
+		2nd|JCubez
+		3rd|Negat!ve
+		4th|Paco
+		5th|htcp
+		5th|JWinks
+		7th|Robert
+		7th|Shoop
+		9th|Artemis Sheik
+		9th|KroKo
+		9th|Shafournee
+		9th|Shandy
+		13th|Non
+		13th|Spikeawe
+	</placings>
+}
+
+{
+	name:"GameTime Melee #11 amateurs"
+	parent:"GameTime Melee #11"
+	url:https://smash.gg/tournament/gametime-melee-11/event/melee-am/brackets/1022629/1609731
+	<sets>
+		<bracket>
+			[KroKo] 2-0 [Shafournee]
+			[Artemis Sheik|Sheik] 2-0 [Spikeawe]
+			[Shandy] 2-0 [Non]
+			[Shoop] 2-0 [KroKo]
+			[Artemis Sheik|Sheik] 2-1 [Shandy]
+			[Artemis Sheik|Sheik] 2-1 [Shoop]
+			[Non] 2-1 [Spikeawe]
+			[Shandy] 2-0 [Shafournee]
+			[KroKo] 2-0 [Non]
+			[Shandy] 2-1 [KroKo]
+			<bo5>
+				[Shandy] 3-2 [Shoop]
+				[Shandy] 3-1 [Artemis Sheik|Sheik]
+				[Artemis Sheik|Sheik] 3-0 [Shandy]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Artemis Sheik
+		2nd|Shandy
+		3rd|Shoop
+		4th|KroKo
+		5th|Non
+		5th|Shafournee
+		7th|Spikeawe
+	</placings>
+}
+
+{
+	name:"Ghoul Beatdown"
+	date:10/31/2021
+	venue:"Replay Cafe"
+	url:https://smash.gg/tournament/ghoul-beatdown/event/melee-singles/brackets/1014096/1597767
+	<sets>
+		<bracket>
+			[jacked-up-jason] 2-0 [kaputt]
+			[tentpoles|Donkey Kong] 2-0 [jacked-up-jason]
+			[helm] 2-0 [neo]
+			[htcp] 2-1 [KroKo]
+			[Hollow] 2-0 [Papa Pigs]
+			[tar] 2-0 [Shynx]
+			[Shadez] 2-0 [Draco]
+			[riku] 2-0 [1luv]
+			[tentpoles|Donkey Kong] 2-0 [Chelo]
+			[htcp] 2-1 [helm]
+			[tar] 2-1 [Hollow]
+			[Shadez] 2-0 [riku]
+			[1luv] 2-1 [kaputt]
+			[1luv] 2-0 [Draco]
+			[Shynx] 2-0 [Papa Pigs]
+			[KroKo] 2-0 [neo]
+			[helm] 2-0 [1luv]
+			[Chelo] 2-0 [Shynx]
+			[riku] 2-0 [KroKo]
+			[Hollow] 2-0 [jacked-up-jason]
+			<bo5>
+				[tentpoles|Donkey Kong] 3-0 [htcp]
+				[Shadez] 3-1 [tar]
+				[tentpoles|Donkey Kong] 3-0 [Shadez]
+				[helm] 3-1 [Chelo]
+				[Hollow] 3-0 [riku]
+				[helm] 3-1 [tar]
+				[Hollow] 3-1 [htcp]
+				[Hollow] 3-1 [helm]
+				[Hollow] 3-0 [Shadez]
+				[tentpoles|Donkey Kong] 3-0 [Hollow]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|tentpoles
+		2nd|Hollow
+		3rd|Shadez
+		4th|helm
+		5th|htcp
+		5th|tar
+		7th|Chelo
+		7th|riku
+		9th|1luv
+		9th|Shynx
+		9th|jacked-up-jason
+		9th|KroKo
+		13th|Draco
+		13th|neo
+		13th|Papa Pigs
+		17th|kaputt
+	</placings>
+}
+
+{
+	name:"Victory Road Fall #8"
+	date:11/1/2021
+	venue:"Erikson Hall"
+	url:https://challonge.com/VRF8/
+	<sets>
+		<bracket>
+			[Steez] 2-0 [JDQA]
+			[Rayboyp] 2-0 [Steez]
+			[BenMW] 2-0 [Jobo]
+			[Vorporal] 2-0 [Elm]
+			[squishy boi] 2-0 [LOOM]
+			[LOOM] 2-0 [JDQA]
+			[Elm] 2-0 [LOOM]
+			[Steez] 2-0 [Jobo]
+			<bo5>
+				[Rayboyp] 3-0 [BenMW]
+				[Vorporal] 3-0 [squishy boi]
+				[Rayboyp] 3-1 [Vorporal]
+				[BenMW] 3-1 [Elm]
+				[squishy boi] 3-0 [Steez]
+				[squishy boi] 3-0 [BenMW]
+				[Vorporal] 3-0 [squishy boi|Kirby]
+				[Rayboyp] 3-2 [Vorporal]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Rayboyp
+		2nd|Vorporal
+		3rd|squishy boi
+		4th|BenMW
+		5th|Elm
+		5th|Steez
+		7th|Jobo
+		7th|LOOM
+		9th|JDQA
+	</placings>
+}
+
+{
+	name:"MEAT #7"
+	date:11/2/2021
+	venue:"Rackham Graduate School"
+	url:https://smash.gg/tournament/meat-7/event/melee-singles/brackets/1024278/1611962
+	<sets>
+		<bracket>
+			[mathandsurf] 2-0 [HighDef]
+			[Robert] 2-0 [1luv]
+			[morc] 2-0 [Cash Cow]
+			[GMAN] 2-0 [J$]
+			[CAM] 2-0 [TF]
+			[Polymath] 2-1 [shon]
+			[tar] 2-1 [Maxo]
+			[Brazmonkey] 2-0 [mathandsurf]
+			[AlphaPancake] 2-0 [Robert]
+			[Negat!ve] 2-0 [morc]
+			[Asiago] 2-1 [GMAN]
+			[jakpox] 2-0 [Polymath]
+			[Nyte] 2-0 [tar]
+			[Brazmonkey] 2-0 [gpie]
+			[AlphaPancake] 2-0 [Negat!ve]
+			[Asiago] 2-1 [CAM]
+			[Nyte] 2-0 [jakpox]
+			[tar] 2-1 [HighDef]
+			[GMAN|Ganondorf] 2-0 [Cash Cow]
+			[morc] 2-0 [J$]
+			[Robert] 2-0 [TF]
+			[Maxo] 2-0 [mathandsurf]
+			[tar] 2-0 [Polymath]
+			[GMAN] 2-0 [1luv]
+			[morc] 2-0 [Robert]
+			[Maxo] 2-0 [shon]
+			[Negat!ve] 2-0 [tar]
+			[gpie] 2-0 [GMAN]
+			[jakpox] 2-0 [morc]
+			[Maxo] 2-1 [CAM]
+			<bo5>
+				[Brazmonkey] 3-0 [AlphaPancake]
+				[Nyte] 3-1 [Asiago|Fox]
+				[Brazmonkey] 3-0 [Nyte]
+				[Negat!ve] 3-2 [gpie]
+				[jakpox] 3-1 [Maxo]
+				[Negat!ve] 3-1 [Asiago]
+				[jakpox] 3-1 [AlphaPancake]
+				[Negat!ve] 3-1 [jakpox]
+				[Nyte] 3-0 [Negat!ve]
+				[Brazmonkey] 3-2 [Nyte]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Brazmonkey
+		2nd|Nyte
+		3rd|Negat!ve
+		4th|jakpox
+		5th|AlphaPancake
+		5th|Asiago
+		7th|gpie
+		7th|Maxo
+		9th|CAM
+		9th|GMAN
+		9th|morc
+		13th|1luv
+		13th|Polymath
+		13th|Robert
+		13th|shon
+		17th|Cash Cow
+		17th|HighDef
+		17th|J$
+		17th|mathandsurf
+		17th|TF
+	</placings>
+}
+
+{
+	name:"MEAT #7 amateurs"
+	parent:"MEAT #7"
+	url:https://challonge.com/meat7am
+	<sets>
+		<bracket>
+			[-ADKnight|Mario] 2-0 [Wendy]
+			[Robert] 2-0 [shon]
+			[HighDef|Fox] 2-1 [1luv]
+			[J$] 2-1 [Cash Cow]
+			[GMAN] 2-0 [-ADKnight|Mario]
+			[Robert] 2-1 [morc]
+			[Polymath] 2-0 [HighDef|Fox]
+			[mathandsurf] 2-1 [J$]
+			[Robert] 2-0 [GMAN]
+			[Polymath] 2-1 [mathandsurf]
+			[Robert] 2-1 [Polymath]
+			[J$] 2-1 [Wendy]
+			[HighDef|Fox] 2-0 [shon]
+			[morc] 2-0 [1luv]
+			[-ADKnight|Mario] 2-0 [Cash Cow]
+			[morc] 2-1 [-ADKnight|Mario]
+			[J$] 2-1 [GMAN]
+			[morc] 2-0 [mathandsurf]
+			[morc] 2-0 [J$]
+			[morc] 2-1 [Polymath]
+		</bracket>
+		<placings>
+			1st|morc
+			2nd|Robert
+			3rd|Polymath
+			4th|J$
+			5th|GMAN
+			5th|mathandsurf
+			7th|-ADKnight
+			7th|HighDef
+			9th|1luv
+			9th|Cash Cow
+			9th|shon
+			9th|Wendy
+		</placings>
+	</sets>
+}
+
+{
+	name:"F21 EMUSC Smash Melee Tournament 8"
+	date:11/3/2021
+	url:https://challonge.com/F21EMUSCM8
+	venue:"Sill Hall"
+	<sets>
+		<bracket>
+			[JJV] 2-1 [RIP_Bonk]
+			[Mr. Monday] 2-0 [JADO]
+			[Joka|Falco] 2-0 [JJV]
+			[hello world] 2-1 [Mr. Monday]
+			[Mr. Monday] 2-0 [RIP_Bonk]
+			[JJV] 2-0 [JADO]
+			[Mr. Monday] 2-0 [JJV]
+			<bo5>
+				[Joka|Falco] 3-0 [hello world]
+				[hello world] 3-2 [Mr. Monday]
+				[Joka|Falco] 3-0 [hello world]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Joka
+		2nd|hello world
+		3rd|Mr. Monday
+		4th|JJV
+		5th|JADO
+		5th|RIP_Bonk
+	</placings>
+}
+
+{
+	name:"GameTime Melee #12"
+	date:11/5/2021
+	venue:"GameTime"
+	url:https://smash.gg/tournament/gametime-melee-12/event/melee-singles/brackets/1027067/1615723
+	<sets>
+		<bracket>
+			[KroKo] 2-0 [Eddie]
+			[UsernameTaken] 2-1 [htcp]
+			[Bairon] 2-0 [LT1]
+			[Brazmonkey] 2-0 [Steez]
+			[PsychoWaffle] 2-1 [Saruto]
+			[Jere541] 2-0 [Spikeawe]
+			[Cucumber] 2-0 [Shafournee]
+			[Shandy] 2-0 [Non]
+			[KJH] 2-0 [KroKo]
+			[JWinks] 2-0 [UsernameTaken]
+			[Negat!ve] 2-0 [Bairon]
+			[Brazmonkey] 2-0 [Artemis Sheik|Sheik]
+			[Ginger] 2-0 [PsychoWaffle]
+			[Paco] 2-0 [Jere541]
+			[Kuyashi] 2-0 [Cucumber]
+			[Shandy] 2-0 [MajinJoseph]
+			[KJH] 2-0 [JWinks]
+			[Brazmonkey] 2-0 [Negat!ve]
+			[Ginger] 2-0 [Paco]
+			[Kuyashi] 2-0 [Shandy]
+			[Eddie] 2-0 [MajinJoseph]
+			[htcp] 2-0 [Cucumber]
+			[Jere541] 2-0 [LT1]
+			[Steez] 2-0 [PsychoWaffle]
+			[Artemis Sheik|Sheik] 2-0 [Saruto]
+			[Bairon] 2-1 [Spikeawe]
+			[UsernameTaken] 2-0 [Shafournee]
+			[KroKo] 2-1 [Non]
+			[htcp] 2-0 [Eddie]
+			[Jere541] 2-0 [Steez]
+			[Artemis Sheik|Sheik] 2-0 [Bairon]
+			[KroKo] 2-0 [UsernameTaken]
+			[htcp] 2-1 [Negat!ve]
+			[Jere541] 2-1 [JWinks]
+			[Artemis Sheik|Sheik] 2-0 [Shandy]
+			[Paco] 2-0 [KroKo]
+			[htcp] 2-0 [Jere541]
+			[Paco] 2-1 [Artemis Sheik|Sheik]
+			<bo5>
+				[KJH] 3-2 [Brazmonkey]
+				[Ginger] 3-1 [Kuyashi]
+				[KJH] 3-2 [Ginger]
+				[Kuyashi] 3-0 [htcp]
+				[Brazmonkey] 3-0 [Paco]
+				[Brazmonkey] 3-1 [Kuyashi]
+				[Ginger] 3-1 [Brazmonkey]
+				[KJH] 3-1 [Ginger]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|KJH
+		2nd|Ginger
+		3rd|Brazmonkey
+		4th|Kuyashi
+		5th|htcp
+		5th|Paco
+		7th|Artemis Sheik
+		7th|Jere541
+		9th|JWinks
+		9th|KroKo
+		9th|Negat!ve
+		9th|Shandy
+		13th|Bairon
+		13th|Eddie
+		13th|Steez
+		13th|UsernameTaken
+		17th|Cucumber
+		17th|LT1
+		17th|MajinJoseph
+		17th|Non
+		17th|PsychoWaffle
+		17th|Saruto
+		17th|Shafournee
+		17th|Spikeawe
+	</placings>
+}
+
+{
+	name:"GameTime Melee #12 amateurs"
+	parent:"GameTime Melee #12"
+	url:https://smash.gg/tournament/gametime-melee-12/event/melee-am/brackets/1027068/1615724
+	<sets>
+		<bracket>
+			[Non] 2-1 [Spikeawe]
+			[Bairon] 2-0 [Non]
+			[Cucumber] 2-1 [Saruto]
+			[Steez] 2-0 [LT1]
+			[Shafournee] 2-0 [PsychoWaffle]
+			[Cucumber] 2-0 [Bairon]
+			[Shafournee] 2-0 [Steez]
+			[Cucumber] 2-1 [Shafournee]
+			[PsychoWaffle] 2-0 [Spikeawe]
+			[Non] 2-0 [Saruto]
+			[Bairon] 2-0 [PsychoWaffle]
+			[Steez] 2-0 [Non]
+			[Steez] 2-0 [Bairon]
+			[Shafournee] 2-1 [Steez]
+			[Cucumber] 2-0 [Shafournee]
+		</bracket>
+	</sets>
+	<placings>
+		1st|Cucumber
+		2nd|Shafournee
+		3rd|Steez
+		4th|Bairon
+		5th|Non
+		5th|PsychoWaffle
+		7th|LT1
+		7th|Saruto
+		9th|Spikeawe
+	</placings>
+}
+
+{
+	name:"MSU Melee at LAN"
+	date:11/6/2021
+	venue:"MSU College of Communication Arts and Sciences"
+	url:https://smash.gg/tournament/msu-melee-at-lan/event/melee-singles/brackets/1026632/1615029
+	<sets>
+		<bracket>
+			<bo5>
+				[Elm] 3-0 [xatudrip]
+				[helm] 3-0 [Vexillion]
+				[Rayboyp] 3-0 [Elm]
+				[Vorporal] 3-0 [helm]
+				[Rayboyp] 3-1 [Vorporal]
+				[helm] 3-0 [xatudrip]
+				[Elm] 3-2 [Vexillion]
+				[helm] 3-0 [Elm]
+				[Vorporal] 3-0 [helm]
+				[Rayboyp] 3-1 [Vorporal]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Rayboyp
+		2nd|Vorporal
+		3rd|helm
+		4th|Elm
+		5th|xatudrip
+		5th|Vexillion
+	</placings>
+}
+
+{
+	name:"Victory Road Fall 2021 #9"
+	date:11/8/2021
+	venue:"Erikson Hall"
+	url:https://challonge.com/vrf9
+	<sets>
+		<bracket>
+			[Vexillion] 2-1 [LOOM]
+			[BenMW] 2-0 [Steez]
+			[Elm] 2-0 [matricies]
+			[Jobo] 2-0 [JDQA]
+			[Rayboyp] 2-0 [Vexillion]
+			[helm] 2-0 [BenMW]
+			[Noshi] 2-0 [Elm]
+			[Vorporal] 2-0 [Jobo]
+			[Jobo] 2-0 [LOOM]
+			[Steez] 2-1 [Elm]
+			[BenMW] 2-0 [matricies]
+			[Vexillion] 2-0 [JDQA]
+			[Steez] 2-1 [Jobo]
+			<bo5>
+				[Rayboyp] 3-0 [helm]
+				[Noshi] 3-2 [Vorporal]
+				[Rayboyp] 3-0 [Noshi]
+				[BenMW] 3-1 [Vexillion]
+				[helm] 3-1 [Steez]
+				[Vorporal] 3-0 [BenMW]
+				[Vorporal] 3-1 [helm]
+				[Noshi] 3-1 [Vorporal]
+				[Rayboyp] 3-1 [Noshi]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Rayboyp
+		2nd|Noshi
+		3rd|Vorporal
+		4th|helm
+		5th|BenMW
+		5th|Steez
+		7th|Jobo
+		7th|Vexillion
+		9th|Elm
+		9th|JDQA
+		9th|LOOM
+		9th|matricies
+	</placings>
+}
+
+{
+	name:"Victory Road Fall 2021 #9 amateurs"
+	parent:"Victory Road Fall 2021 #9"
+	url:https://challonge.com/VRF9AM
+	<sets>
+		<bracket>
+			[BenMW] 2-1 [Vexillion]
+			[Steez] 2-1 [LOOM]
+			[Elm] 2-0 [JDQA]
+			[Jobo] 2-0 [matricies]
+			[BenMW] 2-0 [Steez]
+			[Elm] 2-1 [Jobo]
+			[Vexillion] 2-0 [LOOM]
+			[matricies] 2-0 [JDQA]
+			[Jobo] 2-0 [Vexillion]
+			[Steez] 2-1 [matricies]
+			[Steez] 2-1 [Jobo]
+			<bo5>
+				[Elm] 3-1 [BenMW]
+				[BenMW] 3-2 [Steez]
+				[BenMW] 3-1 [Elm]
+				[Elm] 3-2 [BenMW]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Elm
+		2nd|BenMW
+		3rd|Steez
+		4th|Jobo
+		5th|matricies
+		5th|Vexillion
+		7th|JDQA
+		7th|LOOM
+	</placings>
+}
+
+{
+	name:"MEAT #8"
+	date:11/9/2021
+	venue:"Rackham Graduate School"
+	url:https://smash.gg/tournament/meat-8/event/melee-singles/brackets/1028012/1617266
+	<sets>
+		<bracket>
+			[morc] 2-0 [Robert]
+			[Joka] 2-0 [Shin]
+			[Paco] 2-0 [Cash Cow]
+			[htcp] 2-0 [Wavy]
+			[Mushu] 2-0 [NERDSTOMPER]
+			[GMAN] 2-0 [HighDef]
+			[CAM] 2-0 [riku]
+			[jakpox] 2-0 [A2Quizzy]
+			[QBaby] 2-1 [Shynx]
+			[mathandsurf] 2-1 [tar]
+			[Sevan] 2-0 [Windy]
+			[Baron] 2-0 [1luv]
+			[Brazmonkey] 2-0 [morc]
+			[Joka] 2-1 [Paco]
+			[Negat!ve] 2-0 [htcp]
+			[Mushu] 2-0 [GMAN]
+			[Sheep] 2-0 [CAM]
+			[jakpox] 2-1 [QBaby]
+			[Nyte] 2-0 [mathandsurf]
+			[Sevan] 2-1 [Baron]
+			[Brazmonkey] 2-0 [Joka]
+			[Negat!ve] 2-0 [Mushu]
+			[Sheep] 2-0 [jakpox]
+			[Nyte] 2-0 [Sevan]
+			[Cash Cow] 2-0 [Shin]
+			[HighDef] 2-0 [NERDSTOMPER]
+			[Shynx] 2-0 [A2Quizzy]
+			[Windy] 2-0 [1luv]
+			[Baron] 2-0 [Robert]
+			[mathandsurf] 2-0 [Cash Cow]
+			[Wavy] 2-1 [QBaby]
+			[CAM] 2-0 [HighDef]
+			[GMAN] 2-0 [riku]
+			[htcp] 2-0 [Shynx]
+			[Paco] 2-0 [tar]
+			[morc] 2-0 [Windy]
+			[mathandsurf] 2-0 [Baron]
+			[CAM] 2-0 [Wavy]
+			[GMAN|Ganondorf] 2-0 [htcp]
+			[Paco] 2-1 [morc]
+			[Mushu] 2-0 [mathandsurf]
+			[Joka] 2-1 [CAM]
+			[Sevan] 2-0 [GMAN]
+			[Paco] 2-0 [jakpox]
+			<bo5>
+				[Brazmonkey] 3-0 [Negat!ve]
+				[Sheep] 3-0 [Nyte]
+				[Brazmonkey] 3-1 [Sheep]
+				[Joka] 3-2 [Mushu]
+				[Paco] 3-1 [Sevan]
+				[Nyte] 3-0 [Joka]
+				[Negat!ve] 3-0 [Paco]
+				[Nyte] 3-1 [Negat!ve]
+				[Nyte] 3-0 [Sheep]
+				[Brazmonkey] 3-2 [Nyte]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Brazmonkey
+		2nd|Nyte
+		3rd|Sheep
+		4th|Negat!ve
+		5th|Joka
+		5th|Paco
+		7th|Mushu
+		7th|Sevan
+		9th|CAM
+		9th|GMAN
+		9th|jakpox
+		9th|mathandsurf
+		13th|Baron
+		13th|htcp
+		13th|morc
+		13th|Wavy
+		17th|Cash Cow
+		17th|HighDef
+		17th|QBaby
+		17th|riku
+		17th|Robert
+		17th|Shynx
+		17th|tar
+		17th|Windy
+		25th|1luv
+		25th|A2Quizzy
+		25th|NERDSTOMPER
+		25th|Shin
+	</placings>
+}
+
+{
+	name:"MEAT #8 amateurs"
+	parent:"MEAT #8"
+	url:https://challonge.com/meat8am
+	<sets>
+		<bracket>
+			[HighDef|Fox] 2-0 [Cash Cow]
+			[1luv] 2-1 [NERDSTOMPER]
+			[Shynx] 2-0 [Shin]
+			[riku] 2-0 [A2Quizzy]
+			[tar] 2-0 [HighDef|Fox]
+			[Wavy] 2-0 [1luv]
+			[htcp] 2-0 [Shynx]
+			[morc] 2-1 [riku]
+			[tar] 2-0 [Wavy]
+			[htcp] 2-0 [morc]
+			[tar] 2-1 [htcp]
+			[riku] 2-0 [Cash Cow]
+			[Shynx] 2-0 [NERDSTOMPER]
+			[1luv] 2-1 [Shin]
+			[HighDef|Fox] 2-0 [A2Quizzy]
+			[riku] 2-0 [Shynx]
+			[Wavy] 2-1 [riku]
+			[morc] 2-0 [1luv]
+			[Wavy] 2-1 [morc]
+		</bracket>
+	</sets>
+	<placings>
+		2nd|tar
+		3rd|htcp
+		3rd|Wavy
+		4th|morc
+		5th|1luv
+		5th|riku
+		7th|HighDef
+		7th|Shynx
+		9th|A2Quizzy
+		9th|Cash Cow
+		9th|NERDSTOMPER
+		9th|Shin
+	</placings>
+}
+
+{
+	name:"F21 EMUSC Smash Melee Tournament 9"
+	date:11/10/2021
+	venue:"Sill Hall"
+	url:https://challonge.com/F21EMUSCM9
+	<sets>
+		<bracket>
+			[Dancer] 2-1 [mat]
+			[Drama] 2-0 [Raisin]
+			[RIP_Bonk] 2-0 [Oakhearts]
+			[bug spray] 2-0 [Ocean]
+			[Mr. Win] 2-0 [KYS]
+			[JJV] 2-0 [Smogephine]
+			[Joka] 2-0 [Dancer]
+			[Drama] 2-1 [RIP_Bonk]
+			[bug spray] 2-1 [hello world]
+			[Mr. Win] 2-0 [JJV]
+			[Joka] 2-0 [Drama]
+			[Mr. Win] 2-0 [bug spray]
+			[Oakhearts] 2-1 [Raisin]
+			[JJV] 2-0 [mat]
+			[RIP_Bonk] 2-0 [Ocean]
+			[Dancer] 2-1 [KYS]
+			[JJV] 2-0 [hello world]
+			[RIP_Bonk] 2-0 [Dancer]
+			[Drama] 2-0 [JJV]
+			[Drama] 2-0 [RIP_Bonk]
+			<bo5>
+				[Joka] 3-0 [Mr. Win]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Joka
+		2nd|Drama
+		3rd|Mr. Win
+		4th|RIP_Bonk
+		5th|bug spray
+		5th|JJV
+		7th|Dancer
+		7th|hello world
+		9th|KYS
+		9th|mat
+		9th|Oakhearts
+		9th|Ocean
+		13th|Raisin
+		13th|Smogephine
+	</placings>
+}
+
+{
+	name:"GameTime Melee #13"
+	date:11/12/2021
+	venue:"GameTime"
+	url:https://smash.gg/tournament/gametime-melee-13/event/melee-singles/brackets/1029828/1619578
+	<sets>
+		<bracket>
+			[JDQA] 2-0 [JQ3]
+			[Kuyashi] 2-0 [JDQA]
+			[helm] 2-0 [SlickSiwik]
+			[Hollow] 2-0 [Steez]
+			[Paco] 2-0 [PsychoWaffle]
+			[Negat!ve] 2-0 [Non]
+			[JWinks] 2-0 [Robert]
+			[Zam] 2-0 [Squizz]
+			[htcp] 2-0 [Shandy]
+			[Kuyashi] 2-0 [helm]
+			[Hollow] 2-1 [Paco]
+			[Negat!ve] 2-1 [JWinks]
+			[Zam] 2-1 [htcp]
+			[Shandy] 2-0 [JQ3]
+			[Shandy] 2-0 [Squizz]
+			[Robert] 2-0 [Non]
+			[Steez] 2-1 [PsychoWaffle]
+			[SlickSiwik] 2-0 [JDQA]
+			[Paco] 2-0 [Shandy]
+			[Robert] 2-1 [helm]
+			[htcp] 2-0 [Steez]
+			[JWinks] 2-0 [SlickSiwik]
+			<bo5>
+				[Kuyashi] 3-0 [Hollow]
+				[Negat!ve] 3-1 [Zam]
+				[Kuyashi] 3-1 [Negat!ve]
+				[Paco] 3-2 [Robert]
+				[JWinks] 3-1 [htcp]
+				[Paco] 3-0 [Zam]
+				[Hollow] 3-0 [JWinks]
+				[Hollow] 3-2 [Paco]
+				[Hollow] 3-2 [Negat!ve]
+				[Kuyashi] 3-0 [Hollow]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Kuyashi
+		2nd|Hollow
+		3rd|Negat!ve
+		4th|Paco
+		5th|JWinks
+		5th|Zam
+		7th|htcp
+		7th|Robert
+		9th|helm
+		9th|Shandy
+		9th|SlickSiwik
+		9th|Steez
+		13th|JDQA
+		13th|Non
+		13th|PsychoWaffle
+		13th|Squizz
+		17th|JQ3
+	</placings>
+}
+
+{
+	name:"GameTime Melee #13 amateurs"
+	parent:"GameTime Melee #13"
+	url:https://smash.gg/tournament/gametime-melee-13/event/melee-am/brackets/1029829/1619579
+	<sets>
+		<bracket>
+			[Squizz] 2-0 [Non]
+			[helm] 2-0 [Squizz]
+			[Steez] 2-0 [JQ3]
+			[SlickSiwik] 2-0 [PsychoWaffle]
+			[Shandy] 2-0 [JDQA]
+			[helm] 2-0 [Steez]
+			[Shandy] 2-0 [SlickSiwik]
+			[helm] 2-0 [Shandy]
+			[Non] 2-0 [JDQA]
+			[PsychoWaffle] 2-0 [Non]
+			[Steez] 2-0 [PsychoWaffle]
+			[Squizz] 2-1 [PsychoWaffle]
+			[Squizz] 2-0 [Steez]
+			[Shandy] 2-1 [Squizz]
+			<bo5>
+				[helm] 3-0 [Shandy]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|helm
+		2nd|Shandy
+		3rd|Squizz
+		4th|Steez
+		5th|PsychoWaffle
+		5th|SlickSiwik
+		7th|JQ3
+		7th|Non
+		9th|JDQA
+	</placings>
+}
+
+{
+	name:"Victory Road Fall 2021 10"
+	date:11/15/2021
+	venue:"Erikson Hall"
+	url:https://challonge.com/vrf10
+	<sets>
+		<bracket>
+			[Jobo] 2-0 [Vexillion]
+			[Wild Turkey] 2-0 [JDQA]
+			[helm] 2-0 [LOOM]
+			[Steez] 2-0 [BenMW]
+			[squishy boi] 2-0 [matricies]
+			[Rayboyp] 2-0 [Jobo]
+			[helm] 2-0 [Wild Turkey]
+			[Noshi] 2-0 [Steez]
+			[Vorporal] 2-0 [squishy boi]
+			[LOOM] 2-0 [JDQA]
+			[squishy boi] 2-1 [Vexillion]
+			[Steez] 2-0 [LOOM]
+			[Wild Turkey] 2-0 [BenMW]
+			[Jobo] 2-0 [matricies]
+			[Wild Turkey] 2-1 [Jobo]
+			<bo5>
+				[Rayboyp] 3-0 [helm]
+				[Noshi] 3-0 [Vorporal]
+				[Noshi] 3-2 [Rayboyp]
+				[squishy boi] 3-1 [Steez]
+				[helm] 3-1 [squishy boi]
+				[Vorporal] 3-0 [Wild Turkey]
+				[Vorporal] 3-1 [helm]
+				[Vorporal] 3-2 [Rayboyp]
+				[Noshi] 3-0 [Vorporal]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Noshi
+		2nd|Vorporal
+		3rd|Rayboyp
+		4th|helm
+		5th|squishy boi
+		5th|Wild Turkey
+		7th|Jobo
+		7th|Steez
+		9th|BenMW
+		9th|LOOM
+		9th|matricies
+		9th|Vexillion
+		13th|JDQA
+	</placings>
+}
+
+{
+	name:"Victory Road Fall 2021 10 amateurs"
+	parent:"Victory Road Fall 2021 10"
+	url:https://challonge.com/VRF10AM
+	<sets>
+		<bracket>
+			[Vexillion] 2-0 [LOOM]
+			[Steez] 2-0 [Jobo]
+			[BenMW] 2-0 [matricies]
+			[Vexillion] 2-0 [JDQA]
+			[BenMW] 2-0 [Steez]
+			[Jobo] 2-0 [matricies]
+			[Steez] 2-0 [LOOM]
+			[Jobo] 2-0 [JDQA]
+			[Steez] 2-1 [Jobo]
+			<bo5>
+				[BenMW] 3-1 [Vexillion]
+				[Steez] 3-0 [Vexillion]
+				[Steez] 3-1 [BenMW]
+				[BenMW] 3-0 [Steez]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|BenMW
+		2nd|Steez
+		3rd|Vexillion
+		4th|Jobo
+		5th|JDQA
+		5th|LOOM
+		7th|matricies
+	</placings>
+}
+
+{
+	name:"MEAT #9"
+	date:11/16/2021
+	venue:"Rackham Graduate School"
+	url:https://smash.gg/tournament/meat-9/event/melee-singles/brackets/1032714/1623671
+	<sets>
+		<bracket>
+			[mathandsurf] 2-1 [Coleslaw]
+			[Mushu] 2-0 [TF]
+			[M.A.C.] 2-0 [Daddio|Link]
+			[GMAN] 2-0 [bonghands]
+			[htcp] 2-0 [PsychoWaffle]
+			[Shandy] 2-0 [morc]
+			[Joka] 2-0 [A2Quizzy]
+			[QBaby] 2-0 [Gaussian]
+			[Polymath] 2-0 [Cash Cow]
+			[HAM] 2-0 [Shin]
+			[Kuyashi] 2-0 [mathandsurf]
+			[Mushu] 2-0 [M.A.C.]
+			[Riley] 2-1 [GMAN|Ice Climbers]
+			[AlphaPancake] 2-1 [htcp]
+			[Coin] 2-0 [Shandy]
+			[Joka] 2-0 [QBaby]
+			[Asiago] 2-0 [Polymath]
+			[HAM] 2-0 [Paco]
+			[Kuyashi] 2-0 [Mushu]
+			[AlphaPancake] 2-1 [Riley]
+			[Coin] 2-0 [Joka]
+			[Asiago] 2-1 [HAM]
+			[Daddio] 2-0 [TF]
+			[Gaussian] 2-1 [A2Quizzy]
+			[Paco] 2-0 [Coleslaw]
+			[Polymath] 2-0 [Daddio]
+			[QBaby] 2-0 [bonghands]
+			[Shandy] 2-0 [PsychoWaffle]
+			[htcp] 2-1 [morc]
+			[GMAN] 2-0 [Gaussian]
+			[M.A.C.] 2-0 [Cash Cow]
+			[mathandsurf] 2-0 [Shin]
+			[Paco] 2-0 [Polymath]
+			[QBaby] 2-1 [Shandy]
+			[htcp] 2-0 [GMAN]
+			[M.A.C.] 2-0 [mathandsurf]
+			[Riley] 2-0 [Paco]
+			[Mushu] 2-1 [QBaby]
+			[HAM] 2-0 [htcp]
+			[Joka] 2-0 [M.A.C.]
+			<bo5>
+				[Kuyashi] 3-0 [AlphaPancake]
+				[Coin] 3-1 [Asiago]
+				[Kuyashi] 3-0 [Coin]
+				[Riley] 3-1 [Mushu]
+				[Joka] 3-0 [HAM]
+				[AlphaPancake] 3-2 [Joka]
+				[Riley] 3-2 [Asiago]
+				[AlphaPancake] 3-2 [Riley]
+				[Coin] 3-1 [AlphaPancake]
+				[Kuyashi] 3-1 [Coin]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Kuyashi
+		2nd|Coin
+		3rd|AlphaPancake
+		4th|Riley
+		5th|Asiago
+		5th|Joka
+		7th|HAM
+		7th|Mushu
+		9th|htcp
+		9th|M.A.C.
+		9th|Paco
+		9th|QBaby
+		13th|GMAN
+		13th|mathandsurf
+		13th|Polymath
+		13th|Shandy
+		17th|bonghands
+		17th|Cash Cow
+		17th|Coleslaw
+		17th|Daddio
+		17th|Gaussian
+		17th|morc
+		17th|PsychoWaffle
+		17th|Shin
+		25th|A2Quizzy
+		25th|TF
+	</placings>
+}
+
+{
+	name:"MEAT #9 amateurs"
+	parent:"MEAT #9"
+	url:https://challonge.com/meat9am
+	<sets>
+		<bracket>
+			[Cash Cow] 2-0 [PsychoWaffle]
+			[bonghands] 2-0 [A2Quizzy]
+			[mathandsurf] 2-0 [Gaussian]
+			[Coleslaw] 2-0 [Shin]
+			[morc] 2-0 [Daddio]
+			[Shandy] 2-0 [Cash Cow]
+			[mathandsurf] 2-0 [bonghands]
+			[Polymath] 2-1 [Coleslaw]
+			[morc] 2-1 [GMAN]
+			[mathandsurf] 2-1 [Shandy]
+			[morc] 2-1 [Polymath]
+			[morc] 2-1 [mathandsurf]
+			[Gaussian] 2-1 [A2Quizzy]
+			[GMAN] 2-0 [PsychoWaffle]
+			[Coleslaw] 2-0 [Gaussian]
+			[bonghands] 2-0 [Shin]
+			[Daddio] 2-0 [Cash Cow]
+			[Coleslaw] 2-0 [GMAN]
+			[bonghands] 2-1 [Daddio]
+			[Shandy] 2-0 [Coleslaw]
+			[Polymath] 2-0 [bonghands]
+			[Polymath] 2-0 [Shandy]
+			[mathandsurf] 2-0 [Polymath]
+		</bracket>
+	</sets>
+	<placings>
+		2nd|mathandsurf
+		2nd|morc
+		3rd|Polymath
+		4th|Shandy
+		5th|bonghands
+		5th|Coleslaw
+		7th|Daddio
+		7th|GMAN
+		9th|Cash Cow
+		9th|Gaussian
+		9th|PsychoWaffle
+		9th|Shin
+		13th|A2Quizzy
+	</placings>
+}
+
+{
+	name:"F21 EMUSC Smash Melee Tournament 10"
+	date:11/17/2021
+	venue:"Sill Hall"
+	url:https://challonge.com/F21EMUSCM10
+	<sets>
+		<bracket>
+			[CY] 2-0 [bug spray]
+			[Drama] 2-0 [KYS]
+			[JJV] 2-0 [mat]
+			[hello world] 2-0 [tiddy]
+			[Sheep] 2-0 [CY]
+			[Drama] 2-0 [Mr. Monday]
+			[Joka] 2-0 [JJV]
+			[Pops] 2-0 [hello world]
+			[Sheep] 2-0 [Drama]
+			[Pops] 2-1 [Joka]
+			[hello world] 2-1 [bug spray]
+			[JJV] 2-0 [KYS]
+			[Mr. Monday] 2-0 [mat]
+			[CY] 2-0 [tiddy]
+			[hello world] 2-1 [JJV]
+			[Mr. Monday] 2-0 [CY]
+			[hello world] 2-0 [Drama]
+			[hello world] 2-0 [Mr. Monday]
+			<bo5>
+				[Sheep] 3-0 [Pops]
+				[Pops] 3-0 [hello world]
+				[Sheep] 3-0 [Pops]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Sheep
+		2nd|Pops
+		3rd|hello world
+		4th|Mr. Monday
+		5th|Drama
+		5th|Joka
+		7th|CY
+		7th|JJV
+		9th|bug spray
+		9th|KYS
+		9th|mat
+		9th|tiddy
+	</placings>
+}
+
+{
+	name:"GameTime Melee #14"
+	date:11/19/2021
+	venue:"GameTime"
+	url:https://smash.gg/tournament/gametime-melee-14/event/melee-singles/overview
+	<sets>
+		<rr>
+			[Kuyashi] 2-0 [Artemis Sheik|Sheik]
+			[Kuyashi] 2-0 [Shandy]
+			[Kuyashi] 2-0 [htcp]
+			[Kuyashi] 2-0 [Nexodus]
+			[Kuyashi] 2-0 [Spikeawe]
+			[Artemis Sheik|Sheik] 2-1 [Shandy]
+			[htcp] 2-1 [Artemis Sheik|Sheik]
+			[Nexodus] 2-0 [Artemis Sheik|Sheik]
+			[Artemis Sheik|Sheik] 2-0 [Spikeawe]
+			[htcp] 2-0 [Shandy]
+			[Nexodus] 2-1 [Shandy]
+			[Shandy] 2-0 [Spikeawe]
+			[htcp] 2-0 [Nexodus]
+			[htcp] 2-0 [Spikeawe]
+			[Nexodus] 2-0 [Spikeawe]
+		</rr>
+		<rr>
+			[Sevan] 2-1 [Groovy]
+			[Sevan] 2-0 [JWinks]
+			[Sevan] 2-0 [KroKo]
+			[Sevan] 2-0 [PsychoWaffle]
+			[Sevan] 2-0 [ImTooWhite]
+			[JWinks] 2-0 [Groovy]
+			[Groovy] 2-0 [KroKo]
+			[Groovy] 2-0 [PsychoWaffle]
+			[Groovy] 2-1 [ImTooWhite]
+			[JWinks] 2-1 [KroKo]
+			[JWinks] 2-0 [PsychoWaffle]
+			[JWinks] 2-1 [ImTooWhite]
+			[KroKo] 2-0 [PsychoWaffle]
+			[KroKo] 2-1 [ImTooWhite]
+			[ImTooWhite] 2-1 [PsychoWaffle]
+		</rr>
+		<bracket>
+			<bo5>
+				[Kuyashi] 3-0 [Sevan]
+				[JWinks] 3-1 [Nexodus]
+				[Groovy] 3-0 [htcp]
+				[JWinks] 3-2 [Groovy]
+				[JWinks] 3-1 [Sevan]
+				[Kuyashi] 3-1 [JWinks]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Kuyashi
+		2nd|JWinks
+		3rd|Sevan
+		4th|Groovy
+		5th|htcp
+		5th|Nexodus
+		7th|Artemis Sheik
+		7th|KroKo
+		9th|ImTooWhite
+		9th|Shandy
+		11th|PsychoWaffle
+		11th|Spikeawe
+	</placings>
+}
+
+{
+	name:"GameTime Melee #14 amateurs"
+	parent:"GameTime Melee #14"
+	url:https://smash.gg/tournament/gametime-melee-14/event/melee-am/brackets/1034685/1626293
+	<sets>
+		<bracket>
+			[ImTooWhite] 2-0 [Spikeawe]
+			[PsychoWaffle] 2-0 [KroKo]
+			[Artemis Sheik|Sheik] 2-0 [ImTooWhite]
+			[Shandy] 2-0 [PsychoWaffle]
+			[Artemis Sheik|Sheik] 2-1 [Shandy]
+			[PsychoWaffle] 2-0 [Spikeawe]
+			[ImTooWhite] 2-0 [KroKo]
+			[ImTooWhite] 2-0 [PsychoWaffle]
+			[Shandy] 2-0 [ImTooWhite]
+			[Artemis Sheik|Sheik] 2-0 [Shandy]
+		</bracket>
+	</sets>
+	<placings>
+		1st|Artemis Sheik
+		2nd|Shandy
+		3rd|ImTooWhite
+		4th|PsychoWaffle
+		5th|KroKo
+		5th|Spikeawe
+	</placings>
+}
+
+{
+	name:"Turkey Bag Tussle"
+	venue:"GameTime"
+	date:11/20/2021
+	url:https://smash.gg/tournament/turkey-bag-tussle/event/melee-singles/overview
+	<sets>
+		<rr>
+			[Kuyashi] 2-0 [Paco]
+			[Kuyashi] 2-0 [Shandy]
+			[Kuyashi] 2-0 [huh?]
+			[Kuyashi] 2-0 [Bairon]
+			[Paco] 2-0 [Shandy]
+			[Paco] 2-1 [huh?]
+			[Paco] 2-0 [Bairon]
+			[huh?] 2-0 [Shandy]
+			[Shandy] 2-0 [Bairon]
+			[huh?] 2-0 [Bairon]
+		</rr>
+		<rr>
+			[tentpoles|Donkey Kong] 2-0 [Artemis Sheik|Sheik]
+			[tentpoles|Donkey Kong] 2-0 [swine]
+			[tentpoles|Donkey Kong] 2-0 [Squizz]
+			[tentpoles|Donkey Kong] 2-0 [KroKo]
+			[swine] 2-0 [Artemis Sheik|Sheik]
+			[Artemis Sheik|Sheik] 2-0 [Squizz]
+			[Artemis Sheik|Sheik] 2-0 [KroKo]
+			[swine] 2-0 [Squizz]
+			[swine] 2-1 [KroKo]
+			[Squizz] 2-1 [KroKo]
+		</rr>
+		<rr>
+			[CDay] 2-0 [htcp]
+			[gpie] 2-1 [CDay]
+			[CDay] 2-0 [Cucumber]
+			[CDay] 2-0 [Saruto]
+			[gpie] 2-0 [htcp]
+			[htcp] 2-1 [Cucumber]
+			[htcp] 2-0 [Saruto]
+			[gpie] 2-0 [Cucumber]
+			[gpie] 2-0 [Saruto]
+			[Cucumber] 2-0 [Saruto]
+		</rr>
+		<rr>
+			[Negat!ve] 2-1 [Baron]
+			[Negat!ve] 2-0 [Oven]
+			[Negat!ve] 2-0 [Jere541]
+			[Negat!ve] 2-0 [Shafournee]
+			[Negat!ve] 2-0 [PsychoWaffle]
+			[Oven] 2-0 [Baron]
+			[Baron] 2-1 [Jere541]
+			[Baron] 2-0 [Shafournee]
+			[Baron] 2-0 [PsychoWaffle]
+			[Jere541] 2-1 [Oven]
+			[Oven] 2-1 [Shafournee]
+			[Oven] 2-0 [PsychoWaffle]
+			[Jere541] 2-0 [Shafournee]
+			[Jere541] 2-0 [PsychoWaffle]
+			[Shafournee] 2-0 [PsychoWaffle]
+		</rr>
+		<bracket>
+			[huh?] 2-0 [Squizz]
+			[Baron] 2-0 [Cucumber]
+			[Shandy] 2-0 [htcp]
+			[Artemis Sheik|Sheik] 2-1 [Jere541]
+			<bo5>
+				[Kuyashi] 3-0 [swine]
+				[CDay] 3-1 [Negat!ve]
+				[tentpoles|Donkey Kong] 3-1 [Paco]
+				[gpie] 3-1 [Oven]
+				[Kuyashi] 3-0 [CDay]
+				[tentpoles|Donkey Kong] 3-1 [gpie]
+				[tentpoles|Donkey Kong] 3-1 [Kuyashi]
+				[huh?] 3-2 [Oven]
+				[Paco] 3-2 [Baron]
+				[Negat!ve] 3-1 [Shandy]
+				[Artemis Sheik|Sheik] 3-1 [swine]
+				[Paco] 3-0 [huh?]
+				[Negat!ve] 3-0 [Artemis Sheik|Sheik]
+				[CDay] 3-0 [Paco]
+				[gpie] 3-2 [Negat!ve]
+				[CDay] 3-1 [gpie]
+				[Kuyashi] 3-1 [CDay]
+				[tentpoles|Donkey Kong] 3-1 [Kuyashi]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|tentpoles
+		2nd|Kuyashi
+		3rd|CDay
+		4th|gpie
+		5th|Negat!ve
+		5th|Paco
+		7th|Artemis Sheik
+		7th|huh?
+		9th|Baron
+		9th|Oven
+		9th|Shandy
+		9th|swine
+		13th|Cucumber
+		13th|htcp
+		13th|Jere541
+		13th|Squizz
+	</placings>
+}
+
+{
+	name:"Turkey Bag Tussle amateurs"
+	parent:"Turkey Bag Tussle"
+	url:https://smash.gg/tournament/turkey-bag-tussle/event/melee-am/brackets/1025617/1613579
+	<sets>
+		<bracket>
+			[Shafournee] 2-0 [PsychoWaffle]
+			[KroKo] 2-1 [Cucumber]
+			[Saruto] 2-1 [Squizz]
+			[htcp] 2-1 [Shafournee]
+			[KroKo] 2-0 [Saruto]
+			[htcp] 2-0 [KroKo]
+			[Cucumber] 2-1 [Squizz]
+			[PsychoWaffle] 2-1 [Saruto]
+			[Shafournee] 2-1 [Cucumber]
+			[Shafournee] 2-0 [PsychoWaffle]
+			[KroKo] 2-0 [Shafournee]
+			[KroKo] 2-0 [htcp]
+			[KroKo] 2-0 [htcp]
+		</bracket>
+	</sets>
+	<placings>
+		1st|KroKo
+		2nd|htcp
+		3rd|Shafournee
+		4th|PsychoWaffle
+		5th|Cucumber
+		5th|Saruto
+		7th|Squizz
+	</placings>
+}
+
+{
+	name:"Retro Beatdown 5"
+	date:11/21/2021
+	venue:"Replay Cafe"
+	url:https://smash.gg/tournament/retro-beatdown-5/event/melee-singles/brackets/1033466/1624539
+	<sets>
+		<bracket>
+			<bo5>
+				[jacked-up-jason] 3-1 [Hi C]
+				[tar] 3-0 [jacked-up-jason]
+				[Chelo] 3-0 [1luv]
+				[riku] 3-1 [Papa Pigs]
+				[KroKo] 3-0 [Nexodus]
+				[tar] 3-0 [Chelo]
+				[riku] 3-1 [KroKo]
+				[riku] 3-1 [tar]
+				[Nexodus] 3-0 [Hi C]
+				[Nexodus] 3-1 [Papa Pigs]
+				[1luv] 3-2 [jacked-up-jason]
+				[Chelo] 3-0 [Nexodus]
+				[KroKo] 3-0 [1luv]
+				[KroKo] 3-0 [Chelo]
+				[tar] 3-0 [KroKo]
+				[tar] 3-1 [riku]
+				[tar] 3-1 [riku]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|tar
+		2nd|riku
+		3rd|KroKo
+		4th|Chelo
+		5th|1luv
+		5th|Nexodus
+		7th|jacked-up-jason
+		7th|Papa Pigs
+		9th|Hi C
+	</placings>
+}
+
+{
+	name:"Victory Road Fall 2021 11"
+	date:11/22/2021
+	venue:"Erikson Hall"
+	url:https://challonge.com/VRF11
+	<sets>
+		<bracket>
+			[xatudrip] 2-0 [Elm]
+			[helm] 2-1 [JDQA]
+			[Korvus] 2-0 [Capri]
+			[Jobo] 2-0 [matricies]
+			[BenMW] 2-0 [LOOM]
+			[Rayboyp] 2-0 [xatudrip]
+			[helm] 2-1 [Korvus]
+			[Noshi] 2-0 [Jobo]
+			[Vorporal] 2-0 [BenMW]
+			[Capri] 2-0 [JDQA]
+			[BenMW] 2-0 [Elm]
+			[Jobo] 2-1 [Capri]
+			[Korvus] 2-0 [matricies]
+			[xatudrip] 2-0 [LOOM]
+			<bo5>
+				[Rayboyp] 3-0 [helm]
+				[Noshi] 3-1 [Vorporal]
+				[Rayboyp] 3-0 [Noshi]
+				[Jobo] 3-1 [BenMW]
+				[Korvus] 3-1 [xatudrip]
+				[helm] 3-1 [Jobo]
+				[Vorporal] 3-1 [Korvus]
+				[Vorporal] 3-0 [helm]
+				[Noshi] 3-0 [Vorporal]
+				[Rayboyp] 3-0 [Noshi]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Rayboyp
+		2nd|Noshi
+		3rd|Vorporal
+		4th|helm
+		5th|Jobo
+		5th|Korvus
+		7th|BenMW
+		7th|xatudrip
+		9th|Capri
+		9th|Elm
+		9th|LOOM
+		9th|matricies
+		13th|JDQA
+	</placings>
+}
+
+{
+	name:"Victory Road Fall 2021 11 amateurs"
+	parent:"Victory Road Fall 2021 11"
+	url:https://challonge.com/VRF11am
+	<sets>
+		<bracket>
+			[xatudrip] 2-0 [LOOM]
+			[BenMW] 2-0 [JDQA]
+			[Capri] 2-0 [matricies]
+			[xatudrip] 2-1 [Elm]
+			[BenMW] 2-0 [Capri]
+			[matricies] 2-0 [JDQA]
+			[Capri] 2-0 [LOOM]
+			[Elm] 2-0 [matricies]
+			[Capri] 2-0 [Elm]
+			<bo5>
+				[BenMW] 3-0 [xatudrip]
+				[xatudrip] 3-1 [Capri]
+				[xatudrip] 3-1 [BenMW]
+				[xatudrip] 3-1 [BenMW]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|xatudrip
+		2nd|BenMW
+		3rd|Capri
+		4th|Elm
+		5th|LOOM
+		5th|matricies
+		7th|JDQA
+	</placings>
+}
+
+{
+	name:"MEAT #10"
+	date:11/23/2021
+	url:https://smash.gg/tournament/meat-10/event/melee-singles/brackets/1034741/1626354
+	venue:"Rackham Graduate School"
+	<sets>
+		<bracket>
+			[KJH] 2-0 [ZrAcid]
+			[Groovy] 2-1 [gpie]
+			[AlphaPancake] 2-1 [GMAN]
+			[jakpox] 2-0 [Polymath]
+			[@Heartstrings|Sheik] 2-0 [Wendy]
+			[Robert] 2-1 [avo|Falco]
+			[Ginger] 2-0 [PsychoWaffle]
+			[Paco] 2-0 [helm]
+			[@Russell|Fox] 2-0 [Shandy]
+			[Asiago] 2-0 [Coleslaw]
+			[Morsecode762] 2-0 [HighDef]
+			[Bosko|Ice Climbers] 2-1 [Maxo]
+			[Brazmonkey] 2-0 [Ladies]
+			[Negat!ve] 2-0 [mathandsurf]
+			[KJH] 2-0 [Groovy]
+			[AlphaPancake] 2-0 [@Duo|Captain Falcon]
+			[Kuyashi] 2-0 [jakpox]
+			[@Heartstrings|Sheik] 2-0 [Robert]
+			[Ginger] 2-0 [Paco]
+			[@Russell|Fox] 2-0 [Asiago]
+			[Morsecode762] 2-0 [Bosko]
+			[Brazmonkey] 2-1 [Negat!ve]
+			[KJH] 2-0 [AlphaPancake]
+			[Kuyashi] 2-1 [@Heartstrings|Sheik]
+			[Ginger] 2-0 [@Russell|Fox]
+			[Morsecode762] 2-1 [Brazmonkey]
+			[gpie] 2-0 [ZrAcid]
+			[avo|Falco] 2-0 [Wendy]
+			[helm] 2-0 [PsychoWaffle]
+			[Coleslaw] 2-1 [Shandy]
+			[Maxo] 2-0 [HighDef]
+			[mathandsurf] 2-0 [Ladies]
+			[Negat!ve] 2-0 [gpie]
+			[Bosko] 2-0 [GMAN|Ganondorf]
+			[Asiago] 2-0 [Polymath]
+			[avo|Falco] 2-0 [Paco]
+			[helm] 2-1 [Robert]
+			[jakpox] 2-0 [Coleslaw]
+			[@Duo|Captain Falcon] 2-0 [Maxo]
+			[Groovy] 2-1 [mathandsurf]
+			[Negat!ve] 2-0 [Bosko]
+			[Asiago] 2-1 [avo]
+			[jakpox] 2-0 [helm]
+			[@Duo|Captain Falcon] 2-0 [Groovy]
+			[@Heartstrings|Sheik] 2-0 [Negat!ve]
+			[Asiago] 2-0 [AlphaPancake]
+			[Brazmonkey] 2-0 [jakpox]
+			[@Duo|Captain Falcon] 2-0 [@Russell|Fox]
+			<bo5>
+				[KJH] 3-1 [Kuyashi]
+				[Ginger] 3-2 [Morsecode762]
+				[KJH] 3-1 [Ginger]
+				[@Heartstrings|Sheik] 3-1 [Asiago]
+				[Brazmonkey] 3-0 [@Duo|Captain Falcon]
+				[Morsecode762] 3-2 [@Heartstrings|Sheik]
+				[Kuyashi] 3-0 [Brazmonkey]
+				[Morsecode762] 3-1 [Kuyashi]
+				[Ginger] 3-2 [Morsecode762]
+				[KJH] 3-0 [Ginger]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|KJH
+		2nd|Ginger
+		3rd|Morsecode762
+		4th|Kuyashi
+		5th|Brazmonkey
+		5th|@Heartstrings
+		7th|Asiago
+		7th|@Duo
+		9th|AlphaPancake
+		9th|jakpox
+		9th|Negat!ve
+		9th|@Russell
+		13th|avo
+		13th|Bosko
+		13th|Groovy
+		13th|helm
+		17th|Coleslaw
+		17th|GMAN
+		17th|gpie
+		17th|mathandsurf
+		17th|Maxo
+		17th|Paco
+		17th|Polymath
+		17th|Robert
+		25th|HighDef
+		25th|Ladies
+		25th|PsychoWaffle
+		25th|Shandy
+		25th|Wendy
+		25th|ZrAcid
+	</placings>
+}
+
+{
+	name:"MEAT #10 amateurs"
+	parent:"MEAT #10"
+	url:https://challonge.com/meat10am
+	<sets>
+		<bracket>
+			[GMAN] 2-0 [Shandy]
+			[Robert] 2-0 [HighDef]
+			[Coleslaw] 2-1 [PsychoWaffle]
+			[mathandsurf] 2-0 [Ladies]
+			[Polymath] 2-1 [Wendy]
+			[Groovy] 2-0 [GMAN]
+			[Robert] 2-0 [Coleslaw]
+			[Paco] 2-0 [mathandsurf]
+			[QBaby] 2-1 [Polymath]
+			[Groovy] 2-0 [Robert]
+			[QBaby] 2-0 [Paco]
+			[HighDef] 2-0 [PsychoWaffle]
+			[Shandy] 2-0 [Polymath]
+			[mathandsurf] 2-0 [HighDef]
+			[Coleslaw] 2-0 [Ladies]
+			[GMAN] 2-0 [Wendy]
+			[Shandy] 2-0 [mathandsurf]
+			[GMAN] 2-0 [Coleslaw]
+			<bo5>
+				[Groovy] 3-1 [Paco]
+				[Groovy] 3-2 [QBaby]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Groovy
+		2nd|QBaby
+		4th|Paco
+		5th|Robert
+		5th|Shandy
+		5th|GMAN
+		7th|Coleslaw
+		7th|mathandsurf
+		9th|HighDef
+		9th|Ladies
+		9th|Polymath
+		9th|Wendy
+		13th|PsychoWaffle
+	</placings>
+}
+
+{
+	name:"Wavedash Weekly 17"
+	date:11/23/2021
+	venue:"Fyber Gaming and Computer Repair"
+	url:https://smash.gg/tournament/wavedash-weekly-17/event/smash-melee-singles/brackets/1035117/1626875
+	<sets>
+		<bracket>
+			[ToonJay321|Sheik] 2-1 [ColossalMini|Mario]
+			[Havoc|Donkey Kong] 2-0 [Lilpurp|Mr. Game & Watch]
+			[Prod|Fox] 2-0 [ToonJay321|Sheik]
+			[Nickel|Captain Falcon] 2-0 [NinjaDog|Marth]
+			[Ceej|Sheik] 2-0 [Havoc|Captain Falcon]
+			[Arseneal|Marth] 2-0 [Socko|Luigi]
+			[Nickel|Captain Falcon] 2-1 [Prod|Fox]
+			[Ceej|Sheik] 3-0 [Arseneal|Marth]
+			[Ceej|Sheik] 2-0 [Nickel|Falco]
+			[ColossalMini|Mario] 2-0 [Socko|Luigi]
+			[NinjaDog|Dr. Mario] 2-0 [Lilpurp|Mr. Game & Watch]
+			[ToonJay321|Sheik] 2-1 [NinjaDog|Young Link]
+			[Prod|Fox] 2-0 [ColossalMini|Dr. Mario]
+			[ToonJay321|Sheik] 3-0 [Arseneal|Fox]
+			[Prod|Fox] 2-0 [ToonJay321|Sheik]
+			[Nickel|Captain Falcon] 2-0 [Prod|Fox]
+			[Ceej|Ganondorf] 2-0 [Nickel|Captain Falcon]
+		</bracket>
+	</sets>
+	<placings>
+		1st|Ceej
+		2nd|Nickel
+		3rd|Prod
+		4th|ToonJay321
+		5th|Arseneal
+		5th|ColossalMini
+		7th|Havoc
+		7th|NinjaDog
+		9th|Lilpurp
+		9th|Socko
+	</placings>
+}
+
+{
+	name:"GameTime Melee #X"
+	date:11/26/2021
+	venue:"GameTime"
+	url:https://smash.gg/tournament/gametime-melee-x/event/melee-singles/overview
+	<sets>
+		<rr>
+			[@Heartstrings] 2-0 [Hollow]
+			[@Heartstrings] 2-0 [-Butterdonkey]
+			[@Heartstrings] 2-0 [PsychoWaffle]
+			[@Heartstrings] 2-0 [Spikeawe]
+			[Hollow] 2-1 [-Butterdonkey]
+			[Hollow] 2-0 [PsychoWaffle]
+			[Hollow] 2-0 [Spikeawe]
+			[-Butterdonkey] 2-0 [PsychoWaffle]
+			[-Butterdonkey] 2-0 [Spikeawe]
+			[PsychoWaffle] 2-1 [Spikeawe]
+		</rr>
+		<rr>
+			[Kuyashi] 2-0 [Zam]
+			[Kuyashi] 2-0 [avo]
+			[Kuyashi] 2-0 [KroKo]
+			[Kuyashi] 2-0 [Saruto]
+			[avo] 2-1 [Zam]
+			[Zam] 2-0 [KroKo]
+			[Zam] 2-0 [Saruto]
+			[avo] 2-0 [KroKo]
+			[avo] 2-0 [Saruto]
+			[KroKo] 2-0 [Saruto]
+		</rr>
+		<rr>
+			[Riley] 2-0 [htcp]
+			[Riley] 2-0 [Artemis Sheik|Sheik]
+			[Riley] 2-0 [xatudrip]
+			[Riley] 2-0 [denpa]
+			[Artemis Sheik|Sheik] 2-0 [htcp]
+			[htcp] 2-0 [xatudrip]
+			[htcp] 2-0 [denpa]
+			[Artemis Sheik|Sheik] 2-0 [xatudrip]
+			[Artemis Sheik|Sheik] 2-0 [denpa]
+			[denpa] 2-0 [xatudrip]
+		</rr>
+		<rr>
+			[Sheep] 2-1 [Asiago]
+			[Sheep] 2-0 [Shandy]
+			[Sheep] 2-0 [Eddie]
+			[Sheep] 2-0 [Shafournee]
+			[Asiago] 2-0 [Shandy]
+			[Asiago] 2-1 [Eddie]
+			[Asiago] 2-0 [Shafournee]
+			[Shandy] 2-0 [Eddie]
+			[Shandy] 2-0 [Shafournee]
+			[Shafournee] 2-0 [Eddie]
+		</rr>
+		<bracket>
+			<bo5>
+				[@Heartstrings] 3-2 [Sheep]
+				[Kuyashi] 3-0 [Riley]
+				[Kuyashi] 3-1 [@Heartstrings]
+				[Artemis Sheik|Sheik] 3-1 [-Butterdonkey]
+				[avo] 3-0 [Shandy]
+				[Asiago] 3-1 [Zam]
+				[Hollow] 3-2 [htcp]
+				[avo] 3-0 [Artemis Sheik|Sheik]
+				[Asiago] 3-2 [Hollow]
+				[Sheep] 3-1 [avo]
+				[Asiago] 3-0 [Riley]
+				[Sheep] 3-1 [Asiago]
+				[@Heartstrings] 3-1 [Sheep]
+				[@Heartstrings] 3-1 [Kuyashi]
+				[@Heartstrings] 3-2 [Kuyashi]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|@Heartstrings
+		2nd|Kuyashi
+		3rd|Sheep
+		4th|Asiago
+		5th|avo
+		5th|Riley
+		7th|Artemis Sheik
+		7th|Hollow
+		9th|-Butterdonkey
+		9th|htcp
+		9th|Shandy
+		9th|Zam
+		13th|denpa
+		13th|KroKo
+		13th|Shafournee
+		13th|PsychoWaffle
+		17th|Eddie
+		17th|Saruto
+		17th|Spikeawe
+		17th|xatudrip
+	</placings>
+}
+
+{
+	name:"GameTime Melee #X amateurs"
+	parent:"GameTime Melee #X"
+	url:https://smash.gg/tournament/gametime-melee-x/event/melee-am/brackets/1036029/1628483
+	<sets>
+		<bracket>
+			[KroKo] 2-0 [Spikeawe]
+			[xatudrip] 2-1 [Shafournee]
+			[Eddie] 2-0 [PsychoWaffle]
+			[Saruto] 2-1 [denpa]
+			[KroKo] 2-0 [xatudrip]
+			[Saruto] 2-1 [Eddie]
+			[KroKo] 2-0 [Saruto]
+			[Shafournee] 2-0 [Spikeawe]
+			[denpa] 2-0 [PsychoWaffle]
+			[Eddie] 2-1 [Shafournee]
+			[xatudrip] 2-1 [denpa]
+			[xatudrip] 2-1 [Eddie]
+			[Saruto] 2-1 [xatudrip]
+			<bo5>
+				[KroKo] 3-0 [Saruto]
+			</bo5>
+		</bracket>
+	</sets>
+}
+
+{
+	name:"LFG Project Plus & Melee 11/27/21"
+	date:11/27/2021
+	venue:"LFG Gaming Bar"
+	url:https://smash.gg/tournament/lfg-project-plus-melee-11-27-21/event/melee-singles/brackets/1026497/1614876
+	<sets>
+		<bracket>
+			[Jawsome] 2-1 [Papa Pigs]
+			[Demoraler] 2-1 [Benji]
+			[Party Poison] 2-0 [DHS7]
+			[Zen] 2-0 [Brendog]
+			[Den] 2-0 [Jon Jones]
+			[Dirtboy] 2-0 [Jawsome]
+			[Party Poison] 2-0 [Demoraler]
+			[Captain Crack] 2-1 [Zen]
+			[Perry] 2-0 [Den]
+			[Dirtboy] 2-0 [Party Poison]
+			[Captain Crack] 2-0 [Perry]
+			[Benji] 2-0 [DHS7]
+			[Den] 2-0 [Papa Pigs]
+			[Benji] 2-1 [Zen]
+			[Demoraler] 2-0 [Brendog]
+			[Jawsome] 2-0 [Jon Jones]
+			[Benji] 2-1 [Den]
+			[Demoraler] 2-0 [Jawsome]
+			[Party Poison] 2-1 [Benji]
+			[Demoraler] 2-0 [Perry]
+			[Demoraler] 2-1 [Party Poison]
+			<bo5>
+				[Dirtboy] 3-2 [Captain Crack]
+				[Captain Crack] 3-0 [Demoraler]
+				[Dirtboy] 3-0 [Captain Crack]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Dirtboy
+		2nd|Captain Crack
+		3rd|Demoraler
+		4th|Party Poison
+		5th|Benji
+		5th|Perry
+		7th|Den
+		7th|Jawsome
+		9th|Brendog
+		9th|Jon Jones
+		9th|Papa Pigs
+		9th|Zen
+		13th|DHS7
+	</placings>
+}
+
+{
+	name:"Victory Road Fall #12"
+	date:11/29/2021
+	venue:"Erikson Hall"
+	url:https://challonge.com/VRF12
+	<sets>
+		<bracket>
+			[Jarebear] 2-0 [Saky]
+			[Noshi] 2-0 [Jarebear]
+			[BenMW] 2-0 [Steez]
+			[helm] 2-0 [matricies]
+			[Korvus] 2-0 [Capri]
+			[Rayboyp] 2-0 [JDQA|Fox]
+			[xatudrip] 2-0 [LOOM]
+			[Vorporal] 2-0 [Vexillion]
+			[Jobo] 2-0 [Elm]
+			[Noshi] 2-0 [BenMW]
+			[helm] 2-1 [Korvus]
+			[Rayboyp] 2-0 [xatudrip]
+			[Vorporal] 2-0 [Jobo]
+			[Elm] 2-0 [Saky]
+			[Vexillion] 2-0 [Elm]
+			[LOOM] 2-0 [JDQA|Fox]
+			[Capri] 2-0 [matricies]
+			[Steez] 2-0 [Jarebear]
+			[Korvus] 2-0 [Vexillion]
+			[BenMW] 2-0 [LOOM]
+			[Jobo] 2-0 [Capri]
+			[xatudrip] 2-1 [Steez]
+			<bo5>
+				[helm] 3-2 [Noshi]
+				[Rayboyp] 3-0 [Vorporal]
+				[Rayboyp] 3-1 [helm]
+				[BenMW] 3-0 [Korvus]
+				[xatudrip] 3-2 [Jobo]
+				[Vorporal] 3-0 [BenMW]
+				[Noshi] 3-0 [xatudrip]
+				[Vorporal] 3-0 [Noshi]
+				[Vorporal] 3-2 [helm]
+				[Vorporal] 3-2 [Rayboyp]
+				[Rayboyp] 3-1 [Vorporal]
+			</bo5>
+		</bracket>
+		<placings>
+			1st|Rayboyp
+			2nd|Vorporal
+			3rd|helm
+			4th|Noshi
+			5th|BenMW
+			5th|xatudrip
+			7th|Jobo
+			7th|Korvus
+			9th|Capri
+			9th|LOOM
+			9th|Steez
+			9th|Vexillion
+			13th|Elm
+			13th|Jarebear
+			13th|JDQA
+			13th|matricies
+			17th|Saky
+		</placings>
+	</sets>
+}
+
+{
+	name:"Victory Road Fall #12 amateurs"
+	parent:"Victory Road Fall #12"
+	url:https://challonge.com/VRF12AM
+	<sets>
+		<bracket>
+			[Steez] 2-0 [Elm]
+			[Steez] 2-0 [Jarebear]
+			[Capri] 2-0 [JDQA|Fox]
+			[Vexillion] 2-0 [Saky]
+			[LOOM] 2-0 [matricies]
+			[Steez] 2-1 [Capri]
+			[Vexillion] 2-0 [LOOM]
+			[Elm] 2-0 [matricies]
+			[Elm] 2-0 [Saky]
+			[Jarebear] 2-0 [JDQA]
+			[Capri] 2-0 [Elm]
+			[LOOM] 2-1 [Jarebear]
+			[Capri] 2-0 [LOOM]
+			<bo5>
+				[Steez] 3-0 [Vexillion]
+				[Capri] 3-1 [Vexillion]
+				[Steez] 3-2 [Capri]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Steez
+		2nd|Capri
+		3rd|Vexillion
+		4th|LOOM
+		5th|Elm
+		5th|Jarebear
+		7th|JDQA
+		7th|Saky
+		9th|matricies
+	</placings>
+}
+
+{
+	name:"MEAT #11"
+	date:11/30/2021
+	venue:"Rackham Graduate School"
+	url:https://smash.gg/tournament/meat-11/event/melee-singles/brackets/1039484/1633167
+	<sets>
+		<bracket>
+			[Wendy] 2-1 [Cash Cow]
+			[Senseovernet] 2-0 [Shin]
+			[mathandsurf] 2-0 [TF]
+			[Nexodus] 2-1 [HighDef]
+			[Brazmonkey] 2-0 [Wendy]
+			[Maxo] 2-0 [Robert]
+			[Negat!ve] 2-0 [Senseovernet]
+			[Baron] 2-0 [mathandsurf]
+			[Sheep] 2-0 [Nexodus]
+			[HAM] 2-0 [-Butterdonkey]
+			[Asiago] 2-0 [Coleslaw]
+			[Paco] 2-1 [GMAN]
+			[Brazmonkey] 2-0 [Maxo]
+			[Negat!ve] 2-1 [Baron]
+			[Sheep] 2-0 [HAM]
+			[Asiago] 2-1 [Paco]
+			[GMAN] 2-0 [Cash Cow]
+			[-Butterdonkey] 2-0 [Shin]
+			[Nexodus] 2-0 [TF]
+			[mathandsurf] 2-0 [HighDef]
+			[Coleslaw] 2-1 [GMAN]
+			[-Butterdonkey] 2-1 [Nexodus]
+			[mathandsurf] 2-0 [Senseovernet]
+			[Robert] 2-0 [Wendy]
+			[Baron] 2-0 [Coleslaw]
+			[Maxo] 2-1 [-Butterdonkey]
+			[Paco] 2-1 [mathandsurf]
+			[HAM] 2-1 [Robert]
+			<bo5>
+				[Brazmonkey] 3-1 [Negat!ve]
+				[Asiago] 3-1 [Sheep]
+				[Asiago] 3-0 [Brazmonkey]
+				[Maxo] 3-2 [Baron]
+				[Paco] 3-1 [HAM]
+				[Sheep] 3-0 [Maxo]
+				[Negat!ve] 3-0 [Paco]
+				[Sheep] 3-2 [Negat!ve]
+				[Brazmonkey] 3-2 [Sheep]
+				[Brazmonkey] 3-1 [Asiago]
+				[Brazmonkey] 3-1 [Asiago]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Brazmonkey
+		2nd|Asiago
+		3rd|Sheep
+		4th|Negat!ve
+		5th|Maxo
+		5th|Paco
+		7th|Baron
+		7th|HAM
+		9th|-Butterdonkey
+		9th|Coleslaw
+		9th|mathandsurf
+		9th|Robert
+		13th|GMAN
+		13th|Nexodus
+		13th|Senseovernet
+		13th|Wendy
+		17th|Cash Cow
+		17th|HighDef
+		17th|Shin
+		17th|TF
+	</placings>
+}
+
+{
+	name:"MEAT #11 amateurs"
+	parent:"MEAT #11"
+	url:https://challonge.com/meat11am
+	<sets>
+		<bracket>
+			<bo1>
+				[Cash Cow] 1-0 [mathandsurf]
+				[Senseovernet] 1-0 [Nexodus]
+				[Coleslaw] 1-0 [HighDef]
+				[GMAN] 1-0 [Wendy]
+				[Senseovernet] 1-0 [Cash Cow]
+				[Coleslaw] 1-0 [GMAN]
+				[Coleslaw] 1-0 [Senseovernet]
+				[mathandsurf] 1-0 [Nexodus]
+				[Wendy] 1-0 [HighDef]
+				[GMAN] 1-0 [mathandsurf]
+				[Cash Cow] 1-0 [Wendy]
+				[GMAN] 1-0 [Cash Cow]
+			</bo1>
+			[GMAN] 2-0 [Senseovernet]
+			<bo5>
+				[GMAN] 3-0 [Coleslaw]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|GMAN
+		2nd|Coleslaw
+		3rd|Senseovernet
+		4th|Cash Cow
+		5th|mathandsurf
+		5th|Wendy
+		7th|HighDef
+		7th|Nexodus
+	</placings>
+}
+
+{
+	name:"Wavedash Weekly 18"
+	date:11/30/2021
+	url:https://smash.gg/tournament/wavedash-weekly-18/event/smash-melee-singles/brackets/1040099/1633944
+	venue:"Fyber Gaming and Computer Repair"
+	<sets>
+		<bracket>
+			[M.i.B.|Luigi] 2-0 [DeadBeatDad|Jigglypuff]
+			[NinjaDog] 2-1 [ColossalMini]
+			<bo5>
+				[Nugget|Sheik] 3-0 [Arseneal|Marth]
+				[Havoc|Captain Falcon] 3-0 [DeadBeatDad|Jigglypuff]
+				[Nugget] 3-0 [NinjaDog]
+				[Havoc] 3-0 [Nugget]
+				[ColossalMini] 3-0 [Arseneal]
+				[NinjaDog] 3-0 [M.i.B.]
+				[ColossalMini] 3-0 [DeadBeatDad]
+				[ColossalMini] 3-1 [NinjaDog]
+				[Nugget] 3-1 [ColossalMini]
+				[Havoc] 3-0 [Nugget]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Havoc
+		2nd|Nugget
+		3rd|ColossalMini
+		4th|NinjaDog
+		5th|DeadBeatDad
+		5th|M.i.B.
+		7th|Arseneal
+	</placings>
+}
+
+{
+	name:"F21 EMUSC Smash Melee Tournament 11"
+	date:12/1/2021
+	venue:"Sill Hall"
+	url:https://challonge.com/F21EMUSCM11
+	<sets>
+		<bracket>
+			[Dancer] 2-0 [mat]
+			[CY] 2-0 [Shortstop]
+			[Asiago] 2-0 [Dancer]
+			[Mr. Monday] 2-1 [RIP_Bonk]
+			[AlphaPancake] 2-0 [CY]
+			[Negat!ve] 2-0 [JJV]
+			[JJV] 2-1 [CY]
+			<bo5>
+				[Asiago] 3-0 [Mr. Monday]
+				[Negat!ve] 3-0 [AlphaPancake]
+				[Asiago] 3-2 [Negat!ve]
+				[RIP_Bonk] 3-0 [Dancer]
+				[Mr. Monday] 3-1 [JJV]
+				[AlphaPancake] 3-0 [RIP_Bonk]
+				[AlphaPancake] 3-0 [Mr. Monday]
+				[Negat!ve] 3-1 [AlphaPancake]
+				[Negat!ve] 3-2 [Asiago]
+				[Negat!ve] 3-0 [Asiago]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Negat!ve
+		2nd|Asiago
+		3rd|AlphaPancake
+		4th|Mr. Monday
+		5th|JJV
+		5th|RIP_Bonk
+		7th|CY
+		7th|Dancer
+		9th|mat
+		9th|Shortstop
+	</placings>
+}
+
+{
+	name:"GameTime Melee #15"
+	date:12/3/2021
+	venue:"GameTime"
+	url:https://smash.gg/tournament/gametime-melee-15/event/melee-singles/overview
+	<sets>
+		<rr>
+			[JWinks] 2-1 [Shandy]
+			[JWinks] 2-0 [denpa]
+			[JWinks] 2-0 [Spikeawe]
+			[JWinks] 2-0 [neokant]
+			[denpa] 2-1 [Shandy]
+			[Shandy] 2-0 [Spikeawe]
+			[Shandy] 2-0 [neokant]
+			[denpa] 2-0 [Spikeawe]
+			[denpa] 2-0 [neokant]
+			[neokant] 2-0 [Spikeawe]
+		</rr>
+		<rr>
+			[htcp] 2-1 [HAM]
+			[htcp] 2-0 [KroKo]
+			[htcp] 2-0 [Steez]
+			[htcp] 2-0 [matricies]
+			[HAM] 2-0 [KroKo]
+			[HAM] 2-0 [Steez]
+			[HAM] 2-0 [matricies]
+			[KroKo] 2-0 [Steez]
+			[KroKo] 2-0 [matricies]
+			[Steez] 2-0 [matricies]
+		</rr>
+		<bracket>
+			<bo5>
+				[JWinks] 3-1 [htcp]
+				[denpa] 3-0 [HAM]
+				[denpa] 3-2 [htcp]
+				[JWinks] 3-0 [denpa]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|JWinks
+		2nd|denpa
+		3rd|htcp
+		4th|HAM
+		5th|KroKo
+		5th|Shandy
+		7th|neokant
+		7th|Steez
+		9th|matricies
+		9th|Spikeawe
+	</placings>
+}
+
+{
+	name:"SUPER MEAT"
+	date:12/4/2021
+	url:https://smash.gg/tournament/super-meat/event/melee-singles/overview
+	venue:"Pierpont Commons"
+	<sets>
+		<rr>
+			[@Skerzo|Fox] 2-0 [AlphaPancake]
+			[@Skerzo|Fox] 2-0 [Lowm0]
+			[@Skerzo|Fox] 2-0 [dr tropical]
+			[@Skerzo|Fox] 2-0 [Bus Fire]
+			[@Skerzo|Fox] 2-0 [Senseovernet]
+			[@Skerzo|Fox] 2-0 [Windy]
+			[@Skerzo|Fox] 2-0 [Ju1ce]
+			[Lowm0] 2-1 [AlphaPancake]
+			[AlphaPancake] 2-0 [dr tropical]
+			[AlphaPancake] 2-0 [Bus Fire]
+			[AlphaPancake] 2-0 [Senseovernet]
+			[AlphaPancake] 2-0 [Windy]
+			[AlphaPancake] 2-0 [Ju1ce]
+			[Bus Fire] 2-1 [dr tropical]
+			[dr tropical] 2-0 [Senseovernet]
+			[dr tropical] 2-0 [Windy]
+			[dr tropical] 2-0 [Ju1ce]
+			[Bus Fire] 2-0 [Senseovernet]
+			[Bus Fire] 2-0 [Windy]
+			[Bus Fire] 2-0 [Ju1ce]
+			[Senseovernet] 2-0 [Windy]
+			[Ju1ce] 2-1 [Senseovernet]
+			[Ju1ce] 2-1 [Windy]
+		</rr>
+		<rr>
+			[Kuyashi] 2-0 [Whitemiles]
+			[Kuyashi] 2-1 [@Frost|Samus]
+			[Kuyashi] 2-0 [Nara]
+			[Kuyashi] 2-0 [Jackie]
+			[Kuyashi] 2-0 [HighDef|Sheik]
+			[Kuyashi] 2-0 [Soph]
+			[@Frost|Samus] 2-0 [Whitemiles]
+			[Nara] 2-1 [Whitemiles]
+			[Whitemiles] 2-0 [Jackie]
+			[Whitemiles|Falco] 2-0 [HighDef]
+			[Whitemiles] 2-1 [Soph]
+			[@Frost|Samus] 2-0 [Nara]
+			[@Frost|Samus] 2-0 [Jackie]
+			[@Frost|Samus] 2-0 [HighDef]
+			[@Frost|Samus] 2-0 [Soph]
+		</rr>
+		<rr>
+			[@Balloon Day|Fox] 2-1 [Vorporal]
+			[@Balloon Day|Fox] 2-0 [@Phalanx|Peach]
+			[@Balloon Day|Fox] 2-0 [QBaby]
+			[@Balloon Day|Fox] 2-0 [Wavy]
+			[@Balloon Day|Fox] 2-0 [Turkish Delight]
+			[@Balloon Day|Fox] 2-0 [FLASH]
+			[@Balloon Day|Fox] 2-0 [Tangent]
+			[Vorporal] 2-0 [@Phalanx|Peach]
+			[Vorporal] 2-0 [QBaby]
+			[Vorporal] 2-0 [Wavy]
+			[Vorporal] 2-0 [Turkish Delight]
+			[Vorporal] 2-0 [FLASH]
+			[Vorporal] 2-0 [Tangent]
+			[@Phalanx|Peach] 2-0 [QBaby]
+			[@Phalanx|Peach] 2-1 [Wavy]
+			[@Phalanx|Peach] 2-0 [Turkish Delight]
+			[@Phalanx|Peach] 2-0 [FLASH]
+			[@Phalanx|Peach] 2-0 [Tangent]
+			[QBaby] 2-1 [Wavy]
+			[QBaby] 2-0 [Turkish Delight]
+			[QBaby] 2-0 [FLASH]
+			[QBaby] 2-0 [Tangent]
+			[Wavy] 2-1 [Turkish Delight]
+			[Wavy] 2-0 [FLASH]
+			[Wavy] 2-0 [Tangent]
+			[Turkish Delight] 2-0 [FLASH]
+			[Turkish Delight] 2-0 [Tangent]
+			[FLASH] 2-0 [Tangent]
+		</rr>
+		<rr>
+			[JCubez] 2-0 [@Azzu|Falco]
+			[JCubez] 2-0 [Baron]
+			[JCubez] 2-0 [HAM]
+			[JCubez] 2-0 [@Coral|Fox]
+			[JCubez] 2-0 [Shandy]
+			[JCubez] 2-0 [Cash Cow]
+			[JCubez] 2-0 [BenMW]
+			[@Azzu|Falco] 2-0 [Baron]
+			[@Azzu|Falco] 2-0 [HAM]
+			[@Azzu|Falco] 2-0 [@Coral|Fox]
+			[@Azzu|Falco] 2-0 [Shandy]
+			[@Azzu|Falco] 2-0 [Cash Cow]
+			[@Azzu|Falco] 2-0 [BenMW]
+			[HAM] 2-1 [Baron]
+			[Baron] 2-0 [@Coral|Fox]
+			[Baron] 2-0 [Shandy]
+			[Baron] 2-0 [Cash Cow]
+			[Baron] 2-0 [BenMW]
+			[HAM] 2-0 [@Coral|Fox]
+			[HAM] 2-0 [Shandy]
+			[HAM] 2-0 [Cash Cow]
+			[HAM] 2-0 [BenMW]
+			[Shandy] 2-0 [@Coral|Fox]
+			[@Coral|Fox] 2-1 [Cash Cow]
+			[BenMW] 2-0 [@Coral|Fox]
+			[Shandy] 2-0 [Cash Cow]
+			[Shandy] 2-1 [BenMW]
+			[BenMW] 2-0 [Cash Cow]
+		</rr>
+		<rr>
+			[@Drephen|Sheik] 2-0 [Noshi]
+			[@Drephen|Sheik] 2-0 [Apples]
+			[@Drephen|Sheik] 2-0 [@phoenix]
+			[@Drephen|Sheik] 2-0 [Shin]
+			[@Drephen|Sheik] 2-0 [Creek]
+			[Noshi] 2-1 [Mushu]
+			[Noshi] 2-0 [Apples]
+			[Noshi] 2-0 [@phoenix]
+			[Noshi] 2-0 [Shin]
+			[Noshi] 2-0 [Creek]
+			[Apples] 2-1 [Mushu]
+			[Mushu] 2-0 [Shin]
+			[Mushu] 2-0 [Creek]
+			[Apples] 2-1 [@phoenix]
+			[Apples] 2-0 [Polymath]
+			[Apples] 2-0 [Creek]
+			[@phoenix] 2-1 [Shin]
+			[@phoenix] 2-0 [Creek]
+			[Creek] 2-0 [Shin]
+		</rr>
+		<rr>
+			[tentpoles|Donkey Kong] 2-0 [Wishblade]
+			[tentpoles|Donkey Kong] 2-0 [Shadez]
+			[tentpoles|Donkey Kong] 2-0 [Robert]
+			[tentpoles|Donkey Kong] 2-0 [mathandsurf]
+			[tentpoles|Donkey Kong] 2-0 [Starsoldier]
+			[Wishblade] 2-0 [Shadez]
+			[Wishblade] 2-0 [Robert]
+			[Wishblade] 2-1 [mathandsurf]
+			[Wishblade] 2-0 [Starsoldier]
+			[Robert] 2-0 [Shadez]
+			[Shadez] 2-0 [mathandsurf]
+			[Shadez] 2-0 [Starsoldier]
+			[Robert] 2-0 [mathandsurf]
+			[Robert] 2-0 [Starsoldier]
+			[mathandsurf] 2-0 [Starsoldier]
+		</rr>
+		<rr>
+			[@Free Palestine|Sheik] 2-0 [Woley]
+			[@Free Palestine|Sheik] 2-0 [Paco]
+			[@Free Palestine|Sheik] 2-0 [Maxo]
+			[@Free Palestine|Sheik] 2-0 [Lins]
+			[@Free Palestine|Sheik] 2-0 [Coleslaw]
+			[@Free Palestine|Sheik] 2-0 [Coolguy.com]
+			[Paco] 2-0 [Woley]
+			[Woley] 2-0 [Maxo]
+			[Woley] 2-0 [Lins]
+			[Woley] 2-1 [Coleslaw]
+			[Woley] 2-0 [Coolguy.com]
+			[Maxo] 2-0 [Paco]
+			[Paco] 2-1 [Lins]
+			[Paco] 2-0 [Coleslaw]
+			[Paco] 2-0 [Coolguy.com]
+			[Lins] 2-1 [Maxo]
+			[Maxo] 2-0 [Coleslaw]
+			[Maxo] 2-0 [Coolguy.com]
+			[Lins] 2-0 [Coleslaw]
+			[Lins] 2-0 [Coolguy.com]
+			[Coleslaw] 2-0 [Coolguy.com]
+		</rr>
+		<rr>
+			[@Ober|Falco] 2-0 [Negat!ve]
+			[@Ober|Falco] 2-0 [Pops]
+			[@Ober|Falco] 2-0 [Dubz]
+			[@Ober|Falco] 2-0 [Paulo]
+			[@Ober|Falco] 2-0 [TrialColt]
+			[@Ober|Falco] 2-0 [Gaussian]
+			[@Ober|Falco] 2-0 [Maxssiah]
+			[Negat!ve] 2-0 [Pops]
+			[Dubz] 2-1 [Negat!ve]
+			[Negat!ve] 2-0 [Paulo]
+			[Negat!ve] 2-0 [TrialColt]
+			[Negat!ve] 2-0 [Gaussian]
+			[Negat!ve] 2-0 [Maxssiah]
+			[Dubz] 2-0 [Pops]
+			[Pops] 2-0 [Paulo]
+			[Pops] 2-0 [TrialColt]
+			[Pops] 2-0 [Gaussian]
+			[Pops] 2-0 [Maxssiah]
+			[Dubz] 2-0 [Paulo]
+			[Dubz] 2-0 [TrialColt]
+			[Dubz] 2-0 [Gaussian]
+			[Dubz] 2-0 [Maxssiah]
+			[Paulo] 2-0 [TrialColt]
+			[Paulo] 2-0 [Gaussian]
+			[Paulo] 2-0 [Maxssiah]
+			[TrialColt] 2-0 [Gaussian]
+			[TrialColt] 2-0 [Maxssiah]
+			[Maxssiah] 2-1 [Gaussian]
+		</rr>
+		<rr>
+			[Coin] 2-1 [Asiago]
+			[Coin] 2-0 [@Ferriswheel|Falco]
+			[Coin] 2-0 [_Boots]
+			[Coin] 2-0 [Albino]
+			[Coin] 2-0 [KroKo]
+			[Coin] 2-0 [A2Quizzy]
+			[Coin] 2-0 [LOOM]
+			[Asiago] 2-1 [@Ferriswheel|Falco]
+			[Asiago] 2-0 [_Boots]
+			[Asiago] 2-0 [Albino]
+			[Asiago] 2-0 [KroKo]
+			[Asiago] 2-0 [A2Quizzy]
+			[Asiago] 2-0 [LOOM]
+			[@Ferriswheel|Falco] 2-0 [_Boots]
+			[@Ferriswheel|Falco] 2-0 [Albino]
+			[@Ferriswheel|Falco] 2-1 [KroKo]
+			[@Ferriswheel|Falco] 2-0 [A2Quizzy]
+			[@Ferriswheel|Falco] 2-0 [LOOM]
+			[_Boots] 2-1 [Albino]
+			[_Boots] 2-0 [KroKo]
+			[_Boots] 2-0 [A2Quizzy]
+			[_Boots] 2-0 [LOOM]
+			[KroKo] 2-1 [Albino]
+			[Albino] 2-0 [A2Quizzy]
+			[Albino] 2-0 [LOOM]
+			[KroKo] 2-0 [A2Quizzy]
+			[KroKo] 2-0 [LOOM]
+			[LOOM] 2-0 [A2Quizzy]
+		</rr>
+		<rr>
+			[Sheep] 2-0 [Brazmonkey]
+			[Brazmonkey] 2-0 [avo]
+			[Brazmonkey] 2-0 [Fancy]
+			[Brazmonkey] 2-0 [Colony]
+			[Brazmonkey] 2-0 [Jeo]
+			[Brazmonkey] 2-0 [neokant]
+			[Brazmonkey] 2-0 [@Coral's Friend]
+			[Sheep] 2-1 [avo]
+			[Sheep] 2-0 [Fancy]
+			[Sheep] 2-0 [Colony]
+			[Sheep] 2-0 [Jeo]
+			[Sheep] 2-0 [neokant]
+			[Sheep] 2-0 [@Coral's Friend]
+			[avo] 2-0 [Fancy]
+			[avo] 2-0 [Colony]
+			[avo] 2-0 [Jeo]
+			[avo] 2-0 [neokant]
+			[avo] 2-0 [@Coral's Friend]
+			[Fancy] 2-0 [Colony]
+			[Fancy] 2-0 [Jeo]
+			[Fancy] 2-0 [neokant]
+			[Fancy] 2-0 [@Coral's Friend]
+			[Jeo] 2-0 [Colony]
+			[neokant] 2-0 [Colony]
+			[Colony] 2-0 [@Coral's Friend]
+			[Jeo] 2-0 [neokant]
+			[Jeo] 2-0 [@Coral's Friend]
+			[neokant] 2-0 [@Coral's Friend]
+		</rr>
+		<rr>
+			[KJH] 2-0 [@Jopps|Captain Falcon]
+			[KJH] 2-0 [GMAN]
+			[KJH] 2-0 [htcp]
+			[KJH] 2-0 [Eddie]
+			[KJH] 2-0 [Squizz]
+			[@Jopps|Captain Falcon] 2-0 [GMAN]
+			[@Jopps|Captain Falcon] 2-0 [htcp]
+			[@Jopps|Captain Falcon] 2-0 [Eddie]
+			[@Jopps|Captain Falcon] 2-0 [Squizz]
+			[htcp] 2-1 [GMAN]
+			[GMAN] 2-0 [Eddie]
+			[GMAN] 2-0 [Squizz]
+			[htcp] 2-1 [Eddie]
+			[htcp] 2-0 [Squizz]
+			[Eddie] 2-0 [Squizz]
+		</rr>
+		<rr>
+			[Butterdonkey] 2-1 [@Unsure|Fox]
+			[Ferd] 2-0 [@Unsure|Fox]
+			[@Unsure|Fox] 2-0 [helm]
+			[@Unsure|Fox] 2-0 [Maximus]
+			[@Unsure|Fox] 2-0 [Jobo]
+			[@Unsure|Fox] 2-0 [matricies]
+			[@Unsure|Fox] 2-0 [PsychoWaffle]
+			[Butterdonkey] 2-0 [Ferd]
+			[Butterdonkey] 2-0 [helm]
+			[Butterdonkey] 2-0 [Maximus]
+			[Butterdonkey] 2-0 [Jobo]
+			[Butterdonkey] 2-0 [matricies]
+			[Butterdonkey] 2-0 [PsychoWaffle]
+			[Ferd] 2-0 [helm]
+			[Ferd] 2-0 [Maximus]
+			[Ferd] 2-0 [Jobo]
+			[Ferd] 2-0 [matricies]
+			[Ferd] 2-0 [PsychoWaffle]
+			[Maximus] 2-1 [helm]
+			[helm] 2-0 [Jobo]
+			[helm] 2-0 [matricies]
+			[helm] 2-1 [PsychoWaffle]
+			[Maximus] 2-0 [Jobo]
+			[Maximus] 2-0 [matricies]
+			[Maximus] 2-0 [PsychoWaffle]
+			[Jobo] 2-0 [matricies]
+			[Jobo] 2-0 [PsychoWaffle]
+			[PsychoWaffle] 2-0 [matricies]
+		</rr>
+		<bracket>
+			[Brazmonkey] 2-0 [Dubz]
+			[Butterdonkey] 2-0 [Noshi]
+			[Asiago] 2-0 [Wishblade]
+			[@Azzu|Falco] 2-0 [Lowm0]
+			[Vorporal] 2-0 [Ferd]
+			[Sheep] 2-0 [@Jopps|Captain Falcon]
+			[@Frost|Samus] 2-1 [JCubez]
+			[Coin] 2-0 [Paco]
+			[KJH] 2-0 [Brazmonkey]
+			[@Balloon Day|Fox] 2-0 [Butterdonkey]
+			[@Free Palestine|Sheik] 2-1 [Asiago]
+			[@Azzu|Falco] 2-1 [Kuyashi]
+			[@Drephen|Sheik] 2-0 [Vorporal]
+			[@Ober|Falco] 2-0 [Sheep]
+			[@Skerzo|Fox] 2-1 [@Frost|Samus]
+			[tentpoles|Donkey Kong] 2-0 [Coin]
+			[Paco] 2-1 [GMAN]
+			[@Phalanx|Peach] 2-0 [Fancy]
+			[JCubez] 2-0 [Apples]
+			[@Ferriswheel|Falco] 2-0 [QBaby]
+			[@Jopps|Captain Falcon] 2-0 [Bus Fire]
+			[HAM] 2-1 [_Boots]
+			[Ferd] 2-1 [AlphaPancake]
+			[Lowm0] 2-0 [@phoenix]
+			[avo] 2-0 [Pops]
+			[Wishblade] 2-0 [htcp]
+			[Negat!ve] 2-0 [Maximus]
+			[Maxo] 2-1 [Noshi]
+			[@Unsure|Fox] 2-0 [Baron]
+			[Woley] 2-1 [Dubz]
+			[Whitemiles] 2-1 [Robert]
+			[Paco] 2-0 [@Phalanx|Peach]
+			[JCubez] 2-0 [@Ferriswheel|Falco]
+			[@Jopps|Captain Falcon] 2-0 [HAM]
+			[Nara] 2-0 [Ferd]
+			[avo] 2-0 [Lowm0]
+			[Negat!ve] 2-0 [Wishblade]
+			[@Unsure|Fox] 2-0 [Maxo]
+			[Woley] 2-1 [Whitemiles]
+			[Kuyashi] 2-0 [Paco]
+			[JCubez] 2-1 [Asiago]
+			[Butterdonkey] 2-0 [@Jopps|Captain Falcon]
+			[Nara] 2-1 [Brazmonkey]
+			[Coin] 2-1 [avo]
+			[@Frost|Samus] 2-0 [Negat!ve]
+			[@Unsure|Fox] 2-1 [Sheep]
+			[Vorporal] 2-0 [Woley]
+			<bo5>
+				[KJH] 3-0 [@Balloon Day|Fox]
+				[@Free Palestine|Sheik] 3-0 [@Azzu|Falco]
+				[@Drephen|Sheik] 3-0 [@Ober|Falco]
+				[@Skerzo|Fox] 3-1 [tentpoles|Donkey Kong]
+				[KJH] 3-1 [@Free Palestine|Sheik]
+				[@Drephen|Sheik] 3-0 [@Skerzo|Fox]
+				[KJH] 3-0 [@Drephen|Sheik]
+				[JCubez] 3-1 [Kuyashi]
+				[Butterdonkey] 3-0 [Nara]
+				[Coin] 3-0 [@Frost|Samus]
+				[Vorporal] 3-2 [@Unsure|Fox]
+				[@Ober|Falco] 3-2 [JCubez]
+				[tentpoles|Donkey Kong] 3-0 [Butterdonkey]
+				[Coin] 3-2 [@Balloon Day|Fox]
+				[@Azzu|Falco] 3-0 [Vorporal]
+				[tentpoles|Donkey Kong] 3-1 [@Ober|Falco]
+				[@Azzu|Falco] 3-0 [Coin]
+				[@Free Palestine|Sheik] 3-0 [tentpoles|Donkey Kong]
+				[@Skerzo|Fox] 3-1 [@Azzu|Falco]
+				[@Skerzo|Fox] 3-0 [@Free Palestine|Sheik]
+				[@Drephen|Sheik] 3-1 [@Skerzo|Fox]
+				[KJH] 3-1 [@Drephen|Sheik]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|KJH
+		2nd|@Drephen
+		3rd|@Skerzo
+		4th|@Free Palestine
+		5th|@Azzu
+		5th|tentpoles
+		7th|Coin
+		7th|@Ober
+		9th|@Balloon Day
+		9th|Butterdonkey
+		9th|JCubez
+		9th|Vorporal
+		13th|@Frost
+		13th|Kuyashi
+		13th|Nara
+		13th|@Unsure
+		17th|Asiago
+		17th|avo
+		17th|Brazmonkey
+		17th|@Jopps
+		17th|Negat!ve
+		17th|Paco
+		17th|Sheep
+		17th|Woley
+		25th|Ferd
+		25th|@Ferriswheel
+		25th|HAM
+		25th|Lowm0
+		25th|Maxo
+		25th|@Phalanx
+		25th|Whitemiles
+		25th|Wishblade
+		33rd|_Boots
+		33rd|AlphaPancake
+		33rd|Apples
+		33rd|Baron
+		33rd|Bus Fire
+		33rd|Dubz
+		33rd|Fancy
+		33rd|GMAN
+		33rd|htcp
+		33rd|Maximus
+		33rd|Noshi
+		33rd|@phoenix
+		33rd|Pops
+		33rd|QBaby
+		33rd|Robert
+		33rd|Shadez
+		49th|dr tropical
+		49th|Eddie
+		49th|helm
+		49th|Jackie
+		49th|Jeo
+		49th|KroKo
+		49th|Lins
+		49th|mathandsurf
+		49th|Mushu
+		49th|Paulo
+		49th|Shandy
+		49th|Wavy
+		61st|Albino
+		61st|BenMW
+		61st|Coleslaw
+		61st|Creek
+		61st|Jobo
+		61st|Ju1ce
+		61st|neokant
+		61st|Soph
+		61st|Starsoldier
+		61st|Squizz
+		61st|TrialColt
+		61st|Turkish Delight
+		73rd|Colony
+		73rd|Coolguy.com
+		73rd|@Coral
+		73rd|FLASH
+		73rd|HighDef
+		73rd|LOOM
+		73rd|Maxssiah
+		73rd|PsychoWaffle
+		73rd|Senseovernet
+		73rd|Shin
+		85th|A2Quizzy
+		85th|Cash Cow
+		85th|@Coral's Friend
+		85th|Gaussian
+		85th|matricies
+		85th|Tangent
+		85th|Windy
+	</placings>
+}
+
+{
+	name:"SUPER MEAT amateurs"
+	parent:"SUPER MEAT"
+	url:https://challonge.com/supermeatam
+	<sets>
+		<bracket>
+			[LOOM] 2-1 [PsychoWaffle]
+			[Creek] 2-0 [Shin]
+			[BenMW] 2-0 [matricies]
+			[Cash Cow] 2-1 [Starsoldier]
+			[Gaussian] 2-1 [Maxssiah]
+			[Shandy] 2-0 [A2Quizzy]
+			[helm] 2-0 [LOOM]
+			[Coleslaw] 2-0 [Jobo]
+			[KroKo] 2-1 [Creek]
+			[BenMW] 2-1 [Paulo]
+			[Wavy] 2-0 [Cash Cow]
+			[Soph] 2-0 [Eddie]
+			[mathandsurf] 2-0 [Gaussian]
+			[Jeo] 2-1 [Shandy]
+			[helm] 2-0 [Coleslaw]
+			[KroKo] 2-0 [BenMW]
+			[Wavy] 2-1 [Soph]
+			[mathandsurf] 2-1 [Jeo]
+			[helm] 2-0 [KroKo]
+			[Wavy] 2-0 [mathandsurf]
+			[helm] 2-0 [Wavy]
+			[Shandy] 2-0 [PsychoWaffle]
+			[Eddie] 2-0 [Shin]
+			[Cash Cow] 2-1 [matricies]
+			[Paulo] 2-0 [Starsoldier]
+			[Jobo] 2-0 [Maxssiah]
+			[LOOM] 2-1 [A2Quizzy]
+			[Shandy] 2-0 [Gaussian]
+			[Eddie] 2-1 [Cash Cow]
+			[Creek] 2-0 [Paulo]
+			[Jobo] 2-0 [LOOM]
+			[Shandy] 2-0 [BenMW]
+			[Eddie] 2-0 [Coleslaw]
+			[Jeo] 2-0 [Creek]
+			[Jobo] 2-1 [Soph]
+			[Shandy] 2-1 [Eddie]
+			[Jeo] 2-1 [Jobo]
+			[Jeo] 2-0 [KroKo]
+			<bo5>
+				[Jeo] 3-1 [Shandy]
+				[Jeo] 3-2 [Wavy]
+				[helm] 3-1 [Jeo]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|helm
+		2nd|Jeo
+		3rd|Wavy
+		4th|Shandy
+		5th|KroKo
+		5th|mathandsurf
+		7th|Eddie
+		7th|Jobo
+		9th|BenMW
+		9th|Coleslaw
+		9th|Creek
+		9th|Soph
+		13th|Cash Cow
+		13th|Gaussian
+		13th|LOOM
+		13th|Paulo
+		17th|A2Quizzy
+		17th|matricies
+		17th|Maxssiah
+		17th|PsychoWaffle
+		17th|Shin
+		17th|Starsoldier
+	</placings>
+}
+
+{
+	name:"Retro Beatdown 6"
+	date:12/5/2021
+	venue:"Replay Cafe"
+	url:https://smash.gg/tournament/retro-beatdown-6/event/melee-singles/brackets/1042130/1636771
+	<sets>
+		<bracket>
+			[1luv] 2-1 [Papa Pigs]
+			[Chelo] 2-0 [Hi C]
+			[Shynx] 2-1 [zDanDaMan]
+			[jacked-up-jason] 2-1 [kaputt]
+			[Shadez] 2-0 [1luv]
+			[Maclo4] 2-1 [Chelo]
+			[htcp] 2-0 [Shynx]
+			[riku] 2-0 [jacked-up-jason]
+			[riku] 2-1 [htcp]
+			[jacked-up-jason] 2-0 [Papa Pigs]
+			[Shynx] 2-1 [Hi C]
+			[Chelo] 2-0 [zDanDaMan]
+			[1luv] 2-1 [kaputt]
+			[Shynx] 2-0 [jacked-up-jason]
+			[Chelo] 2-1 [1luv]
+			<bo5>
+				[Shadez] 3-0 [Maclo4]
+				[Shadez] 3-1 [riku]
+				[Maclo4] 3-0 [Shynx]
+				[htcp] 3-0 [Chelo]
+				[Maclo4] 3-0 [htcp]
+				[Maclo4] 3-0 [riku]
+				[Shadez] 3-1 [Maclo4]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Shadez
+		2nd|Maclo4
+		3rd|riku
+		4th|htcp
+		5th|Chelo
+		5th|Shynx
+		7th|1luv
+		7th|jacked-up-jason
+		9th|Hi C
+		9th|kaputt
+		9th|Papa Pigs
+		9th|zDanDaMan
+	</placings>
+}
+
+{
+	name:"Victory Road Fall 13"
+	date:12/6/2021
+	venue:"Erikson Hall"
+	url:https://challonge.com/VRF13
+	<sets>
+		<bracket>
+			[LOOM] 2-0 [JDQA]
+			[Vexillion] 2-0 [matricies]
+			[Rayboyp] 2-0 [LOOM]
+			[M.A.C.] 2-0 [Hooplah]
+			[helm] 2-0 [Steez]
+			[Korvus] 2-0 [BenMW]
+			[Noshi] 2-0 [Vexillion]
+			[Bus Fire] 2-1 [xatudrip]
+			[Vorporal] 2-0 [Capri]
+			[Lins] 2-0 [Jobo]
+			[Rayboyp] 2-0 [M.A.C.]
+			[helm] 2-0 [Korvus]
+			[Noshi] 2-0 [Bus Fire]
+			[Vorporal] 2-0 [Lins]
+			[Jobo] 2-0 [JDQA]
+			[BenMW] 2-0 [matricies]
+			[Jobo] 2-0 [Capri]
+			[xatudrip] 2-0 [Vexillion]
+			[Steez] 2-1 [BenMW]
+			[Hooplah] 2-0 [LOOM]
+			[Korvus] 2-1 [Jobo]
+			[M.A.C.] 2-0 [xatudrip|Peach]
+			[Lins] 2-0 [Steez]
+			[Hooplah] 2-0 [Bus Fire]
+			<bo5>
+				[Rayboyp] 3-0 [helm]
+				[Noshi] 3-0 [Vorporal]
+				[Rayboyp] 3-2 [Noshi]
+				[M.A.C.] 3-0 [Korvus]
+				[Lins] 3-1 [Hooplah]
+				[Vorporal] 3-1 [M.A.C.]
+				[Lins] 3-2 [helm]
+				[Vorporal] 3-0 [Lins]
+				[Noshi] 3-0 [Vorporal|Fox]
+				[Noshi] 3-0 [Rayboyp]
+				[Rayboyp] 3-2 [Noshi]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Rayboyp
+		2nd|Noshi
+		3rd|Vorporal
+		4th|Lins
+		5th|helm
+		5th|M.A.C.
+		7th|Hooplah
+		7th|Korvus
+		9th|Bus Fire
+		9th|Jobo
+		9th|Steez
+		9th|xatudrip
+		13th|BenMW
+		13th|Capri
+		13th|LOOM
+		13th|Vexillion
+		17th|JDQA
+		17th|matricies
+	</placings>
+}
+
+{
+	name:"Victory Road Fall 13 amateurs"
+	parent:"Victory Road Fall 13"
+	url:https://challonge.com/hn6bob68
+	<sets>
+		<bracket>
+			[BenMW] 2-1 [Jobo]
+			[Steez] 2-1 [Vexillion]
+			[matricies] 2-0 [JDQA]
+			[BenMW] 2-0 [LOOM]
+			[-xatudrip|Donkey Kong] 2-1 [Capri]
+			[-Bus Fire|Luigi] 2-0 [Steez]
+			[matricies] 2-0 [-Hooplah|Mario]
+			[-xatudrip|Donkey Kong] 2-1 [BenMW]
+			[-Bus Fire|Luigi] 2-0 [matricies]
+			[Jobo] 2-0 [-Hooplah|Mario]
+			[Capri] 2-0 [Vexillion]
+			[LOOM] 2-0 [JDQA]
+			[Jobo] 2-0 [Steez]
+			[Capri] 2-1 [LOOM]
+			[BenMW] 2-1 [Jobo]
+			[Capri] 2-0 [matricies]
+			[BenMW] 2-0 [Capri]
+			<bo5>
+				[-Bus Fire|Luigi] 3-0 [-xatudrip|Donkey Kong]
+				[-xatudrip|Donkey Kong] 3-2 [BenMW]
+				[-Bus Fire|Luigi] 3-1 [-xatudrip|Donkey Kong]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|-Bus Fire
+		2nd|-xatudrip
+		3rd|BenMW
+		4th|Capri
+		5th|Jobo
+		5th|matricies
+		7th|LOOM
+		7th|Steez
+		9th|Capri
+		9th|-Hooplah
+		9th|JDQA
+	</placings>
+}
+
+{
+	name:"MEAT #12"
+	date:12/7/2021
+	venue:"Rackham Graduate School"
+	url:https://smash.gg/tournament/meat-12/event/melee-singles/brackets/1043485/1638926
+	<sets>
+		<bracket>
+			[Cash Cow] 2-0 [shon]
+			[mathandsurf] 2-0 [Soup]
+			[HighDef] 2-0 [PsychoWaffle]
+			[Shandy] 2-0 [A2Quizzy]
+			[Kuyashi] 2-0 [Cash Cow]
+			[gpie] 2-0 [HAM]
+			[Negat!ve] 2-0 [mathandsurf]
+			[-Brazmonkey|Sheik] 2-0 [QBaby]
+			[Sheep] 2-1 [HighDef]
+			[Joka] 2-1 [Maxo]
+			[Asiago] 2-0 [Shandy]
+			[Sevan] 2-0 [Robert]
+			[Kuyashi] 2-1 [gpie]
+			[-Brazmonkey|Sheik] 2-0 [Negat!ve]
+			[Sheep] 2-0 [Joka]
+			[Asiago] 2-0 [Sevan]
+			[Robert] 2-0 [shon]
+			[Maxo] 2-0 [Soup]
+			[QBaby] 2-0 [PsychoWaffle]
+			[HAM] 2-0 [A2Quizzy]
+			[Robert] 2-1 [Shandy]
+			[Maxo] 2-1 [HighDef]
+			[QBaby] 2-0 [mathandsurf]
+			[HAM] 2-1 [Cash Cow]
+			[Negat!ve] 2-0 [Robert]
+			[gpie] 2-1 [Maxo]
+			[Sevan] 2-0 [QBaby]
+			[Joka] 2-0 [HAM]
+			<bo5>
+				[Kuyashi] 3-2 [-Brazmonkey|Sheik]
+				[Asiago] 3-2 [Sheep]
+				[Kuyashi] 3-2 [Asiago]
+				[Negat!ve] 3-1 [gpie]
+				[Joka] 3-2 [Sevan]
+				[Sheep] 3-0 [Negat!ve]
+				[Joka] 3-0 [-Brazmonkey|Sheik]
+				[Sheep] 3-2 [Joka]
+				[Sheep] 3-2 [Asiago]
+				[Sheep] 3-1 [Kuyashi]
+				[Kuyashi] 3-2 [Sheep]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Kuyashi
+		2nd|Sheep
+		3rd|Asiago
+		4th|Joka
+		5th|-Brazmonkey
+		5th|Negat!ve
+		7th|gpie
+		7th|Sevan
+		9th|HAM
+		9th|Maxo
+		9th|QBaby
+		9th|Robert
+		13th|Cash Cow
+		13th|HighDef
+		13th|mathandsurf
+		13th|Shandy
+		17th|A2Quizzy
+		17th|PsychoWaffle
+		17th|shon
+		17th|Soup
+	</placings>
+}
+
+{
+	name:"MEAT #12 amateurs"
+	parent:"MEAT #12"
+	url:https://challonge.com/meat12am
+	<sets>
+		<bracket>
+			[A2Quizzy] 2-0 [PsychoWaffle]
+			[shon] 2-0 [Soup]
+			[noro] 2-0 [A2Quizzy]
+			[mathandsurf] 2-0 [HighDef]
+			[QBaby] 2-0 [shon]
+			[Shandy] 2-1 [Cash Cow]
+			[mathandsurf] 2-1 [noro]
+			[QBaby] 2-1 [Shandy]
+			[mathandsurf] 2-1 [QBaby]
+			[PsychoWaffle] 2-1 [Cash Cow]
+			[HighDef] 2-1 [Soup]
+			[PsychoWaffle] 2-0 [shon]
+			[HighDef] 2-0 [A2Quizzy]
+			[noro] 2-0 [PsychoWaffle]
+			[Shandy] 2-1 [HighDef]
+			[noro] 2-0 [Shandy]
+			[QBaby] 2-1 [noro]
+			[mathandsurf] 2-0 [QBaby]
+		</bracket>
+	</sets>
+	<placings>
+		1st|mathandsurf
+		2nd|QBaby
+		3rd|noro
+		4th|Shandy
+		5th|HighDef
+		5th|PsychoWaffle
+		7th|A2Quizzy
+		7th|shon
+		9th|Cash Cow
+		9th|Soup
+	</placings>
+}
+
+{
+	name:"Wavedash Weekly 19"
+	date:12/7/2021
+	venue:"Fyber Gaming and Computer Repair"
+	url:https://smash.gg/tournament/wavedash-weekly-19/event/smash-melee-singles/brackets/1043750/1639244
+	<sets>
+		<bracket>
+			[ColossalMini|Marth] 2-0 [Arseneal|Marth]
+			[GringoStarr] 2-1 [ToonJay321]
+			[NinjaDog|Dr. Mario] 2-0 [M.i.B.|Luigi]
+			[Havoc|Captain Falcon] 2-0 [DeadBeatDad|Jigglypuff]
+			[GringoStarr|Marth] 2-0 [ColossalMini|Marth]
+			[Havoc|Captain Falcon] 2-0 [NinjaDog|Dr. Mario]
+			[Havoc|Captain Falcon] 2-0 [GringoStarr|Marth]
+			[ToonJay321|Sheik] 2-0 [Arseneal|Marth]
+			[DeadBeatDad] 2-0 [M.i.B.]
+			[ToonJay321] 2-1 [NinjaDog]
+			[ColossalMini] 2-1 [DeadBeatDad]
+			[ToonJay321] 2-0 [ColossalMini]
+			[GringoStarr] 2-0 [ToonJay321]
+			<bo5>
+				[Havoc] 3-0 [GringoStarr]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Havoc
+		2nd|GringoStarr
+		3rd|ToonJay321
+		4th|ColossalMini
+		5th|DeadBeatDad
+		5th|NinjaDog
+		7th|Arseneal
+		7th|M.i.B.
+	</placings>
+}
+
+{
+	name:"F21 EMUSC Smash Melee Tournament 12"
+	date:12/8/2021
+	venue:"Sill Hall"
+	url:https://challonge.com/F21EMUSCM12
+	<sets>
+		<bracket>
+			[The Noon] 2-1 [Rose]
+			[CY] 2-0 [Dancer]
+			[JJV] 2-0 [mat]
+			[-Joka|Captain Falcon] 2-0 [The Noon]
+			[-Sheep|Roy] 2-0 [RIP_Bonk]
+			[HAM] 2-0 [CY]
+			[Drama] 2-0 [JJV]
+			[JJV] 2-0 [Rose]
+			[RIP_Bonk] 2-1 [Dancer]
+			[The Noon] 2-0 [mat]
+			<bo5>
+				[-Joka|Captain Falcon] 3-2 [-Sheep|Roy]
+				[HAM] 3-1 [Drama]
+				[HAM] 3-1 [-Joka|Captain Falcon]
+				[JJV] 3-1 [CY]
+				[The Noon] 3-2 [RIP_Bonk]
+				[-Sheep|Roy] 3-0 [JJV]
+				[The Noon] 3-0 [Drama]
+				[-Sheep|Roy] 3-0 [The Noon]
+				[HAM] 3-1 [-Sheep|Roy]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|HAM
+		2nd|-Sheep
+		3rd|-Joka
+		4th|The Noon
+		5th|Drama
+		5th|JJV
+		7th|CY
+		7th|RIP_Bonk
+		9th|Dancer
+		9th|mat
+		9th|Rose
+	</placings>
+}
+
+{
+	name:"GameTime Melee #16"
+	date:12/9/2021
+	venue:"GameTime"
+	url:https://smash.gg/tournament/gametime-melee-16/event/melee-singles/overview
+	<sets>
+		<rr>
+			[Rayboyp] 2-0 [JWinks]
+			[Rayboyp] 2-0 [Artemis Sheik|Sheik]
+			[Rayboyp] 2-0 [Shoop]
+			[Rayboyp] 2-0 [Jobo]
+			[Rayboyp] 2-0 [Steez]
+			[Artemis Sheik|Sheik] 2-0 [JWinks]
+			[JWinks] 2-0 [Shoop]
+			[JWinks] 2-0 [Jobo]
+			[JWinks] 2-0 [Steez]
+			[Artemis Sheik|Sheik] 2-1 [Shoop]
+			[Artemis Sheik|Sheik] 2-0 [Jobo]
+			[Artemis Sheik|Sheik] 2-0 [Steez]
+			[Shoop] 2-0 [Jobo]
+			[Shoop] 2-0 [Steez]
+			[Jobo] 2-0 [Steez]
+		</rr>
+		<rr>
+			[Robert] 2-1 [Nexic]
+			[Nexic] 2-1 [denpa]
+			[Shandy] 2-0 [Nexic]
+			[Black Seal] 2-0 [Nexic]
+			[Nexic] 2-0 [matricies]
+			[Robert] 2-0 [denpa]
+			[Shandy] 2-0 [Robert]
+			[Robert] 2-1 [Black Seal]
+			[Robert] 2-0 [matricies]
+			[Shandy] 2-1 [denpa]
+			[Black Seal] 2-1 [denpa]
+			[denpa] 2-0 [matricies]
+			[Shandy] 2-1 [Black Seal]
+			[Shandy] 2-0 [matricies]
+			[Black Seal] 2-0 [matricies]
+		</rr>
+		<bracket>
+			<bo5>
+				[Rayboyp] 3-0 [Shandy]
+				[Artemis Sheik|Sheik] 3-1 [Robert]
+				[Artemis Sheik|Sheik] 3-0 [Shandy]
+				[Rayboyp] 3-0 [Artemis Sheik|Sheik]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Rayboyp
+		2nd|Artemis Sheik
+		3rd|Shandy
+		4th|Robert
+		5th|Black Seal
+		5th|JWinks
+		7th|Nexic
+		7th|Shoop
+		9th|denpa
+		9th|Jobo
+		11th|matricies
+		11th|Steez
+	</placings>
+}
+
+{
+	name:"GameTime Melee #16 amateurs"
+	parent:"GameTime Melee #16"
+	url:https://smash.gg/tournament/gametime-melee-16/event/melee-am/brackets/1045326/1641310
+	<sets>
+		<bracket>
+			[Nexic] 2-1 [Jobo]
+			[Steez] 2-0 [matricies]
+			[Nexic] 2-1 [JWinks]
+			[Black Seal] 2-0 [Steez]
+			[Nexic] 2-0 [Black Seal]
+			[Steez] 2-1 [Jobo]
+			[JWinks] 2-0 [matricies]
+			[JWinks] 2-0 [Steez]
+			[JWinks] 2-0 [Black Seal]
+			[JWinks] 2-0 [Nexic]
+			[JWinks] 2-1 [Nexic]
+		</bracket>
+	</sets>
+	<placings>
+		1st|JWinks
+		2nd|Nexic
+		3rd|Black Seal
+		4th|Steez
+		5th|Jobo
+		5th|matricies
+	</placings>
+}
+
+{
+	name:"MEAT #13"
+	date:12/14/2021
+	venue:"Rackham Graduate School"
+	url:https://smash.gg/tournament/meat-13/event/melee-singles/brackets/1047000/1643649
+	<sets>
+		<bracket>
+			[htcp] 2-1 [GMAN]
+			[Zam] 2-0 [A2Quizzy]
+			[Paco] 2-0 [Cash Cow]
+			[Rayboyp] 2-0 [r33nnn]
+			[Blow] 2-0 [Wendy]
+			[Joka] 2-0 [Lempo]
+			[helm] 2-0 [HighDef]
+			[Apples] 2-0 [mathandsurf]
+			[Sevan] 2-0 [Shin]
+			[jakpox] 2-0 [PsychoWaffle]
+			[QBaby] 2-1 [J$]
+			[AlphaPancake] 2-0 [Soup|Pikachu]
+			[Baron] 2-0 [xatudrip]
+			[Kuyashi] 2-0 [htcp]
+			[Paco] 2-0 [Zam]
+			[Rayboyp] 2-1 [Blow]
+			[Joka] 2-1 [helm]
+			[Brazmonkey] 2-0 [Apples]
+			[Sevan] 2-0 [jakpox]
+			[Asiago] 2-0 [QBaby]
+			[Baron] 2-1 [AlphaPancake]
+			[Kuyashi] 2-0 [Paco]
+			[Joka] 2-0 [Rayboyp]
+			[Brazmonkey] 2-1 [Sevan]
+			[Asiago] 2-0 [Baron]
+			[Cash Cow] 2-1 [A2Quizzy]
+			[Wendy] 2-0 [r33nnn|Fox]
+			[HighDef] 2-0 [Lempo]
+			[PsychoWaffle] 2-0 [Shin]
+			[xatudrip] 2-1 [Soup]
+			[AlphaPancake] 2-0 [GMAN]
+			[QBaby] 2-0 [Cash Cow]
+			[jakpox] 2-0 [Wendy]
+			[Apples] 2-0 [HighDef]
+			[helm] 2-0 [mathandsurf]
+			[Blow] 2-0 [PsychoWaffle]
+			[Zam] 2-0 [J$]
+			[xatudrip] 2-1 [htcp]
+			[AlphaPancake] 2-0 [QBaby]
+			[jakpox] 2-0 [Apples]
+			[Blow] 2-0 [helm]
+			[Zam] 2-0 [xatudrip]
+			[Rayboyp] 2-0 [AlphaPancake]
+			[Paco] 2-1 [jakpox]
+			[Blow] 2-1 [Baron]
+			[Sevan] 2-0 [Zam]
+			<bo5>
+				[Kuyashi] 3-1 [Joka]
+				[Brazmonkey] 3-0 [Asiago]
+				[Kuyashi] 3-2 [Brazmonkey]
+				[Rayboyp] 3-0 [Paco]
+				[Blow] 3-2 [Sevan]
+				[Rayboyp] 3-2 [Asiago]
+				[Joka] 3-1 [Blow]
+				[Joka] 3-0 [Rayboyp]
+				[Brazmonkey] 3-1 [Joka]
+				[Kuyashi] 3-0 [Brazmonkey]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Kuyashi
+		2nd|Brazmonkey
+		3rd|Joka
+		4th|Rayboyp
+		5th|Asiago
+		5th|Blow
+		7th|Paco
+		7th|Sevan
+		9th|AlphaPancake
+		9th|Baron
+		9th|jakpox
+		9th|Zam
+		13th|Apples
+		13th|helm
+		13th|QBaby
+		13th|xatudrip
+		17th|Cash Cow
+		17th|GMAN
+		17th|HighDef
+		17th|htcp
+		17th|J$
+		17th|mathandsurf
+		17th|PsychoWaffle
+		17th|Wendy
+		25th|A2Quizzy
+		25th|Lempo
+		25th|r33nnn
+		25th|Shin
+		25th|Soup
+	</placings>
+}
+
+{
+	name:"MEAT #13 amateurs"
+	parent:"MEAT #13"
+	url:https://challonge.com/meat13am
+	<sets>
+		<bracket>
+			[HighDef|Fox] 2-0 [A2Quizzy]
+			[htcp] 2-0 [Shin]
+			[mathandsurf] 2-0 [Soup]
+			[Wendy] 2-1 [PsychoWaffle]
+			[xatudrip] 2-0 [r33nnn]
+			[J$] 2-0 [Cash Cow]
+			[Apples] 2-0 [HighDef|Fox]
+			[htcp] 2-0 [mathandsurf]
+			[helm] 2-0 [Wendy]
+			[J$] 2-0 [xatudrip]
+			[htcp] 2-0 [Apples]
+			[helm] 2-0 [J$]
+			[helm] 2-1 [htcp]
+			[Soup] 2-0 [Shin]
+			[Cash Cow] 2-0 [r33nnn]
+			[xatudrip] 2-1 [A2Quizzy]
+			[Wendy] 2-0 [Soup]
+			[mathandsurf] 2-0 [PsychoWaffle]
+			[HighDef|Fox] 2-1 [Cash Cow]
+			[xatudrip] 2-0 [Wendy]
+			[mathandsurf] 2-0 [HighDef|Fox]
+			[Apples] 2-0 [xatudrip]
+			[mathandsurf] 2-1 [J$]
+			[Apples] 2-0 [mathandsurf]
+			[Apples] 2-0 [htcp]
+			<bo5>
+				[Apples] 3-1 [helm]
+				[Apples] 3-0 [helm]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Apples
+		2nd|helm
+		3rd|htcp
+		4th|mathandsurf
+		5th|J$
+		5th|xatudrip
+		7th|HighDef
+		7th|Wendy
+		9th|A2Quizzy
+		9th|Cash Cow
+		9th|PsychoWaffle
+		9th|Soup
+		13th|r33nnn
+		13th|Shin
+	</placings>
+}
+
+{
+	name:"Wavedash Weekly 20"
+	date:12/14/2021
+	venue:"Fyber Gaming and Computer Repair"
+	url:https://smash.gg/tournament/wavedash-weekly-20/event/smash-melee-singles/brackets/1047458/1644188
+	<sets>
+		<bracket>
+			[ToonJay321|Sheik] 2-0 [DeadBeatDad|Jigglypuff]
+			[Kovu|Fox] 2-0 [Lilpurp|Jigglypuff]
+			[ColossalMini|Marth] 2-0 [NinjaDog|Young Link]
+			[GringoStarr|Marth] 2-1 [ToonJay321|Sheik]
+			[Kovu|Fox] 2-1 [ColossalMini|Marth]
+			[Kovu|Fox] 2-0 [GringoStarr|Marth]
+			[NinjaDog|Young Link] 2-0 [Lilpurp|Jigglypuff]
+			[ToonJay321|Sheik] 2-0 [NinjaDog|Young Link]
+			[ToonJay321|Sheik] 2-1 [ColossalMini|Marth]
+			[GringoStarr|Marth] 2-0 [ToonJay321|Sheik]
+			<bo5>
+				[GringoStarr|Marth] 3-2 [Kovu|Fox]
+				[Kovu|Fox] 3-1 [GringoStarr|Marth]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Kovu
+		2nd|GringoStarr
+		3rd|ToonJay321
+		4th|ColossalMini
+		5th|DeadBeatDad
+		5th|NinjaDog
+		7th|Lilpurp
+	</placings>
+}
+
+{
+	name:"GameTime Melee #17"
+	date:12/17/2021
+	venue:"GameTime"
+	url:https://smash.gg/tournament/gametime-melee-17/event/melee-singles/brackets/1048157/1645079
+	<sets>
+		<bracket>
+			[Shandy] 2-1 [Nexodus]
+			[gpie] 2-0 [Spikeawe]
+			[Sevan] 2-0 [Shoop]
+			[htcp] 2-0 [PsychoWaffle]
+			[Pops] 2-0 [matricies]
+			[Maxo] 2-0 [Steez]
+			[Kuyashi] 2-0 [Shandy]
+			[Sevan] 2-0 [gpie]
+			[Sheep] 2-0 [htcp]
+			[Pops] 2-1 [Maxo]
+			[Shoop] 2-0 [Spikeawe]
+			[Steez] 2-0 [matricies]
+			[Maxo] 2-0 [Nexodus]
+			[htcp] 2-0 [Shoop]
+			[gpie] 2-0 [PsychoWaffle]
+			[Shandy] 2-0 [Steez]
+			<bo5>
+				[Kuyashi] 3-1 [Sevan]
+				[Sheep] 3-2 [Pops]
+				[Kuyashi] 3-1 [Sheep]
+				[Maxo] 3-0 [htcp]
+				[gpie] 3-0 [Shandy]
+				[Sevan] 3-1 [Maxo]
+				[gpie] 3-1 [Pops]
+				[Sevan] 3-2 [gpie]
+				[Sevan] 3-1 [Sheep]
+				[Kuyashi] 3-0 [Sevan]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Kuyashi
+		2nd|Sevan
+		3rd|Sheep
+		4th|gpie
+		5th|Maxo
+		5th|Pops
+		7th|htcp
+		7th|Shandy
+		9th|Nexodus
+		9th|PsychoWaffle
+		9th|Shoop
+		9th|Steez
+		13th|matricies
+		13th|Spikeawe
+	</placings>
+}
+
+{
+	name:"GameTime Melee #17 amateurs"
+	parent:"GameTime Melee #17"
+	url:https://smash.gg/tournament/gametime-melee-17/event/melee-am/brackets/1048159/1645082
+	<sets>
+		<bracket>
+			[Steez] 2-0 [Spikeawe]
+			[Shoop] 2-0 [matricies]
+			[PsychoWaffle] 2-0 [Steez]
+			[Nexodus] 2-0 [Shoop]
+			[PsychoWaffle] 2-1 [Nexodus]
+			[Shoop] 2-0 [Spikeawe]
+			[Steez] 2-1 [matricies]
+			[Steez] 2-1 [Shoop]
+			[Nexodus] 2-1 [Steez]
+			[PsychoWaffle] 2-0 [Nexodus]
+		</bracket>
+	</sets>
+	<placings>
+		1st|PsychoWaffle
+		2nd|Nexodus
+		3rd|Steez
+		4th|Shoop
+		5th|matricies
+		5th|Spikeawe
+	</placings>
+}
+
+{
+	name:"Holiday Beatdown"
+	date:12/19/2021
+	venue:"Replay Cafe"
+	url:https://smash.gg/tournament/holiday-beatdown/event/melee-singles/brackets/1047220/1643892
+	<sets>
+		<bracket>
+			[Nexodus] 2-0 [kaputt]
+			[helm] 2-0 [Gunshy]
+			[tar] 2-1 [Shoop]
+			[Chelo] 2-0 [yourlocalsheriff]
+			[htcp] 2-0 [jacked-up-jason]
+			[mathandsurf] 2-0 [Papa Pigs]
+			[Shadez] 2-0 [Nexodus]
+			[helm] 2-1 [tar]
+			[Cobb] 2-0 [Chelo]
+			[htcp] 2-0 [mathandsurf]
+			[Shadez] 2-1 [helm]
+			[Cobb] 2-0 [htcp]
+			[Shoop] 2-0 [Gunshy]
+			[Papa Pigs] 2-1 [jacked-up-jason]
+			[mathandsurf] 2-1 [kaputt]
+			[Shoop] 2-0 [Chelo]
+			[tar] 2-0 [yourlocalsheriff]
+			[Nexodus] 2-0 [Papa Pigs]
+			[Shoop] 2-0 [mathandsurf]
+			[tar] 2-0 [Nexodus]
+			<bo5>
+				[Cobb] 3-1 [Shadez]
+				[helm] 3-2 [Shoop]
+				[tar] 3-0 [htcp]
+				[helm] 3-1 [tar]
+				[Shadez] 3-0 [helm]
+				[Cobb] 3-1 [Shadez]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Cobb
+		2nd|Shadez
+		3rd|helm
+		4th|tar
+		5th|htcp
+		5th|Shoop
+		7th|mathandsurf
+		7th|Nexodus
+		9th|Chelo
+		9th|kaputt
+		9th|Papa Pigs
+		9th|yourlocalsheriff
+		13th|Gunshy
+		13th|jacked-up-jason
+	</placings>
+}
+
+{
+	name:"(IMPOSSIBLE) MEAT #14"
+	date:12/21/2021
+	venue:"Rackham Graduate School"
+	url:https://smash.gg/tournament/impossible-meat-14/event/melee-singles/brackets/1050755/1648470
+	<sets>
+		<bracket>
+			[Joka] 2-0 [GMAN]
+			[mathandsurf] 2-1 [BenMW]
+			[Joka] 2-0 [mathandsurf]
+			[BenMW] 2-0 [GMAN]
+			[GMAN] 2-0 [mathandsurf]
+			[Joka] 2-0 [BenMW]
+		</bracket>
+		<bracket>
+			[Asiago] 2-0 [Polymath]
+			[Karils] 2-0 [JJV]
+			[Asiago] 2-0 [Karils]
+			[Polymath] 2-1 [JJV]
+			[Asiago] 2-1 [JJV]
+			[Polymath] 2-1 [Karils]
+		</bracket>
+		<bracket>
+			[AlphaPancake] 2-0 [HighDef]
+			[Apples] 2-0 [Cagnar]
+			[AlphaPancake] 2-1 [Apples]
+			[HighDef] 2-1 [Cagnar]
+			[Apples] 2-0 [HighDef]
+			[AlphaPancake] 2-0 [Cagnar]
+		</bracket>
+		<bracket>
+			[JJV] 2-0 [Cagnar]
+			[GMAN] 2-1 [Polymath]
+			[HighDef] 2-1 [mathandsurf]
+			[BenMW] 2-0 [Karils]
+			[Joka] 2-0 [JJV]
+			[Apples] 2-0 [GMAN]
+			[Asiago] 2-1 [HighDef]
+			[AlphaPancake] 2-0 [BenMW]
+			[Joka] 2-0 [Apples]
+			[BenMW] 2-0 [Cagnar]
+			[Polymath] 2-0 [HighDef]
+			[GMAN] 2-0 [mathandsurf]
+			[Karils] 2-0 [JJV]
+			[GMAN] 2-0 [Karils]
+			<bo5>
+				[Asiago] 3-2 [AlphaPancake]
+				[Asiago] 3-2 [Joka]
+				[Polymath] 3-0 [BenMW]
+				[Apples] 3-0 [Polymath]
+				[AlphaPancake] 3-0 [GMAN]
+				[AlphaPancake] 3-0 [Apples]
+				[AlphaPancake] 3-1 [Joka]
+				[AlphaPancake] 3-2 [Asiago]
+				[Asiago] 3-0 [AlphaPancake]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Asiago
+		2nd|AlphaPancake
+		3rd|Joka
+		4th|Apples
+		5th|GMAN
+		5th|Polymath
+		7th|BenMW
+		7th|Karils
+		9th|Cagnar
+		9th|HighDef
+		9th|JJV
+		9th|mathandsurf
+	</placings>
+}
+
+{
+	name:"Wavedash Weekly 21"
+	date:12/21/2021
+	url:https://smash.gg/tournament/wavedash-weekly-21/event/smash-melee-singles/brackets/1050284/1647898
+	venue:"Fyber Gaming and Computer Repair"
+	<sets>
+		<bracket>
+			[Kovu|Fox] 2-0 [GOT_CHU_FAM|Sheik]
+			[Hjarta|Marth] 2-0 [ColossalMini|Dr. Mario]
+			[GringoStarr|Sheik] 2-0 [Arseneal|Marth]
+			[ToonJay321|Sheik] 2-1 [NinjaDog|Marth]
+			[Kovu|Fox] 2-1 [Hjarta|Sheik]
+			[GringoStarr|Marth] 2-0 [ToonJay321|Sheik]
+			[GringoStarr|Sheik] 2-1 [Kovu|Fox]
+			[GOT_CHU_FAM] 2-0 [ColossalMini]
+			[NinjaDog|Captain Falcon] 2-1 [Arseneal|Fox]
+			[ToonJay321|Sheik] 2-0 [GOT_CHU_FAM|Sheik]
+			[Hjarta|Marth] 2-0 [NinjaDog|Marth]
+			[ToonJay321|Sheik] 2-0 [Hjarta|Mr. Game & Watch]
+			[Kovu|Fox] 2-0 [ToonJay321|Sheik]
+			<bo5>
+				[Kovu|Fox] 3-2 [GringoStarr|Sheik]
+				[GringoStarr|Sheik] 3-2 [Kovu|Fox]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|GringoStarr
+		2nd|Kovu
+		3rd|ToonJay321
+		4th|Hjarta
+		5th|GOT_CHU_FAM
+		5th|NinjaDog
+		7th|Arseneal
+		7th|ColossalMini
+	</placings>
+}
+
+{
+	name:"Wavedash Weekly 22"
+	date:12/28/2021
+	url:https://smash.gg/tournament/wavedash-weekly-22/event/smash-melee-singles/brackets/1052472/1650680
+	venue:"Fyber Gaming and Computer Repair"
+	<sets>
+		<bracket>
+			[GOT_CHU_FAM|Sheik] 2-0 [NinjaDog|Marth]
+			[ToonJay321|Sheik] 2-1 [ColossalMini|Marth]
+			[Chuckwagon|Falco] 2-1 [GringoStarr|Sheik]
+			[ToonJay321|Sheik] 2-0 [GOT_CHU_FAM|Sheik]
+			[Chuckwagon|Falco] 2-0 [Arseneal|Marth]
+			[ToonJay321|Sheik] 2-0 [Chuckwagon|Falco]
+			[NinjaDog|Captain Falcon] 2-0 [ColossalMini|Ness]
+			[NinjaDog|Captain Falcon] 2-0 [Arseneal|Marth]
+			[GringoStarr|Marth] 2-0 [GOT_CHU_FAM|Sheik]
+			[GringoStarr|Marth] 2-0 [NinjaDog|Captain Falcon]
+			[GringoStarr|Marth] 2-0 [Chuckwagon|Falco]
+			<bo5>
+				[GringoStarr] 3-0 [ToonJay321|Sheik]
+				[GringoStarr] 3-0 [ToonJay321|Sheik]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|GringoStarr
+		2nd|ToonJay321
+		3rd|Chuckwagon
+		4th|NinjaDog
+		5th|Arseneal
+		5th|GOT_CHU_FAM
+		7th|ColossalMini
+	</placings>
+}
+
+{
+	name:"Wavedash Weekly 23"
+	date:1/4/2022
+	url:https://smash.gg/tournament/wavedash-weekly-23/event/smash-melee-singles/brackets/1054944/1653950
+	venue:"Fyber Gaming and Computer Repair"
+	<sets>
+		<bracket>
+			[Kush] 2-0 [NinjaDog]
+			[Kush|Captain Falcon] 2-1 [GringoStarr|Marth]
+			[Havoc] 2-0 [Chuckwagon]
+			[Kovu] 2-0 [GOT_CHU_FAM]
+			[Kush] 2-1 [Havoc]
+			[Kovu] 2-0 [ToonJay321]
+			[Chuckwagon] 2-0 [GringoStarr]
+			[Havoc] 2-0 [GOT_CHU_FAM]
+			[Chuckwagon] 2-1 [ToonJay321]
+			[Havoc] 2-0 [Chuckwagon]
+			<bo5>
+				[Kush] 3-0 [Kovu]
+			</bo5>
+			[Havoc] 2-0 [Kovu]
+			<bo5>
+				[Kush] 3-1 [Havoc]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Kush
+		2nd|Havoc
+		3rd|Kovu
+		4th|Chuckwagon
+		5th|GOT_CHU_FAM
+		5th|ToonJay321
+		7th|GringoStarr
+	</placings>
+}
+
+{
+	name:"Wavedash Weekly 24"
+	date:1/11/2021
+	url:https://smash.gg/tournament/wavedash-weekly-24/event/smash-melee-singles/brackets/1058218/1658824
+	venue:"Fyber Gaming and Computer Repair"
+	<sets>
+		<bracket>
+			[ColossalMini] 2-0 [GOT_CHU_FAM]
+			[GringoStarr|Marth] 2-0 [ColossalMini|Marth]
+			[Nickel|Captain Falcon] 2-0 [NinjaDog|Marth]
+			[Nickel] 2-0 [GringoStarr]
+			[GOT_CHU_FAM|Sheik] 2-0 [NinjaDog|Roy]
+			[GOT_CHU_FAM] 2-0 [ColossalMini]
+			[GringoStarr] 2-1 [GOT_CHU_FAM]
+			<bo5>
+				[Nickel|Captain Falcon] 3-1 [GringoStarr|Marth]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Nickel
+		2nd|GringoStarr
+		3rd|GOT_CHU_FAM
+		4th|ColossalMini
+		5th|NinjaDog
+	</placings>
+}
+
+{
+	name:"Victory Road Spring 2022 #1"
+	date:1/17/2022
+	venue:"Erikson Hall"
+	url:https://smash.gg/tournament/victory-road-spring-2022-1/event/melee-singles/brackets/1060390/1661685
+	<sets>
+		<bracket>
+			[Steez] 2-1 [Capri]
+			[xatudrip] 2-0 [Huck]
+			[Jobo] 2-0 [LOOM]
+			[Korvus] 2-0 [matricies]
+			[Rayboyp] 2-0 [Steez]
+			[Captain Crack|Marth] 2-1 [xatudrip]
+			[Noshi] 2-0 [Jobo]
+			[Vorporal] 2-0 [Korvus]
+			<bo5>
+				[Rayboyp] 3-1 [Captain Crack|Fox]
+				[Noshi] 3-1 [Vorporal]
+				[Rayboyp] 3-1 [Noshi]
+				[Korvus] 3-1 [Jobo]
+				[xatudrip] 3-1 [Steez]
+				[Captain Crack|Fox] 3-0 [Korvus]
+				[Vorporal] 3-0 [xatudrip]
+				[Captain Crack|Fox] 3-1 [Vorporal]
+				[Noshi] 3-0 [Captain Crack|Captain Falcon]
+				[Rayboyp] 3-1 [Noshi]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Rayboyp
+		2nd|Noshi
+		3rd|Captain Crack
+		4th|Vorporal
+		5th|Korvus
+		5th|xatudrip
+		7th|Jobo
+		7th|Steez
+		9th|Capri
+		9th|Huck
+		9th|LOOM
+		9th|matricies
+	</placings>
+}
+
+{
+	name:"Victory Road Spring 2022 #1 amateurs"
+	parent:"Victory Road Spring 2022 #1"
+	url:https://smash.gg/tournament/victory-road-spring-2022-1/event/melee-singles/brackets/1060398/1661696
+	<sets>
+		<bracket>
+			[matricies] 2-0 [LOOM]
+			[Capri] 2-0 [matricies]
+			[Steez] 2-0 [Huck]
+			[LOOM] 2-0 [Huck]
+			[LOOM] 2-0 [matricies]
+			<bo5>
+				[Steez] 3-1 [Capri]
+				[Capri] 3-0 [LOOM]
+				[Capri] 3-2 [Steez]
+				[Steez] 3-0 [Capri]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Steez
+		2nd|Capri
+		3rd|LOOM
+		4th|matricies
+		5th|Huck
+	</placings>
+}
+
+{
+	name:"MEAT #15"
+	date:1/18/2022
+	venue:"Rackham Graduate School"
+	url:https://smash.gg/tournament/meat-15/event/melee-singles/brackets/1056506/1655967
+	<sets>
+		<bracket>
+			[BenMW] 2-0 [Wendy]
+			[helm] 2-0 [TF]
+			[AlphaPancake] 2-0 [P0WERPANDA]
+			[Karils] 2-0 [Cash Cow]
+			[Paco] 2-0 [LOOM]
+			[mathandsurf] 2-0 [Gaussian]
+			[Negat!ve] 3-0 [r33nnn]
+			[HighDef] 2-0 [Squizz]
+			[Zam] 2-0 [shon]
+			[Shandy] 2-0 [matricies]
+			[Asiago] 2-0 [hello world]
+			[Polymath] 2-1 [PsychoWaffle]
+			[Baron] 2-0 [JJV]
+			[_Boots] 2-0 [A2Quizzy]
+			[-Kuyashi|Sheik] 2-0 [BenMW]
+			[helm] 2-0 [SlickSiwik]
+			[AlphaPancake] 2-0 [Karils]
+			[Paco] 2-1 [mathandsurf]
+			[Negat!ve] 2-0 [HighDef]
+			[Zam] 2-1 [Shandy]
+			[Asiago] 2-0 [Polymath]
+			[Baron] 2-1 [_Boots]
+			[-Kuyashi|Sheik] 2-1 [helm]
+			[AlphaPancake] 2-0 [Paco]
+			[Zam] 2-0 [Negat!ve]
+			[Asiago] 2-0 [Baron]
+			[Cash Cow] 2-0 [P0WERPANDA]
+			[LOOM] 2-1 [Gaussian]
+			[Squizz] 2-0 [r33nnn]
+			[matricies] 2-1 [shon]
+			[PsychoWaffle] 2-0 [hello world]
+			[JJV] 2-1 [A2Quizzy]
+			[_Boots] 2-0 [Wendy]
+			[Polymath] 2-0 [TF]
+			[Shandy] 2-0 [Cash Cow]
+			[HighDef] 2-0 [LOOM]
+			[mathandsurf] 2-1 [Squizz]
+			[Karils] 2-0 [matricies]
+			[SlickSiwik] 2-0 [PsychoWaffle]
+			[BenMW] 2-0 [JJV]
+			[_Boots] 2-0 [Polymath]
+			[Shandy] 2-0 [HighDef]
+			[Karils] 2-1 [mathandsurf]
+			[SlickSiwik] 2-1 [BenMW]
+			[Paco] 2-1 [_Boots]
+			[helm] 2-0 [Shandy]
+			[Baron] 2-0 [Karils]
+			[Negat!ve] 2-0 [SlickSiwik]
+			<bo5>
+				[AlphaPancake] 3-1 [-Kuyashi|Sheik]
+				[Zam] 3-2 [Asiago]
+				[Zam] 3-1 [AlphaPancake]
+				[Paco] 3-1 [helm]
+				[Negat!ve] 3-2 [Baron]
+				[Asiago] 3-0 [Paco]
+				[Negat!ve] 3-0 [-Kuyashi|Sheik]
+				[Asiago] 3-1 [Negat!ve]
+				[AlphaPancake] 3-0 [Zam]
+				[Zam] 3-0 [AlphaPancake]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Zam
+		2nd|AlphaPancake
+		3rd|Asiago
+		4th|Negat!ve
+		5th|-Kuyashi
+		5th|Paco
+		7th|Baron
+		7th|helm
+		9th|_Boots
+		9th|Karils
+		9th|Shandy
+		9th|SlickSiwik
+		13th|BenMW
+		13th|HighDef
+		13th|mathandsurf
+		13th|Polymath
+		17th|Cash Cow
+		17th|JJV
+		17th|LOOM
+		17th|matricies
+		17th|PsychoWaffle
+		17th|Squizz
+		17th|TF
+		17th|Wendy
+		25th|A2Quizzy
+		25th|Gaussian
+		25th|hello world
+		25th|P0WERPANDA
+		25th|r33nnn
+		25th|shon
+	</placings>
+}
+
+{
+	name:"MEAT #15 amateurs"
+	parent:"MEAT #15"
+	url:https://challonge.com/dg1ksoc8
+	<sets>
+		<bracket>
+			[mathandsurf] 2-0 [P0WERPANDA]
+			[LOOM] 2-0 [-SlickSiwik|Link]
+			[BenMW] 2-1 [Gaussian]
+			[Cash Cow] 2-0 [shon]
+			[Polymath] 2-0 [A2Quizzy]
+			[PsychoWaffle] 2-0 [Squizz]
+			[Wendy] 3-0 [r33nnn]
+			[mathandsurf] 2-0 [LOOM]
+			[BenMW] 2-0 [Cash Cow]
+			[Polymath] 2-0 [PsychoWaffle]
+			[Wendy] 2-0 [matricies]
+			[BenMW] 2-0 [mathandsurf]
+			[Polymath] 2-0 [Wendy]
+			[P0WERPANDA] 2-0 [-SlickSiwik|Link]
+			[shon] 2-0 [Gaussian]
+			[Squizz] 2-0 [A2Quizzy]
+			[HighDef|Fox] 2-0 [r333nnn]
+			[matricies] 2-0 [P0WERPANDA]
+			[PsychoWaffle] 2-0 [shon]
+			[Squizz] 2-0 [Cash Cow]
+			[LOOM] 2-0 [HighDef|Fox]
+			[PsychoWaffle] 2-0 [matricies]
+			[Squizz] 2-0 [LOOM]
+			[mathandsurf] 2-0 [PsychoWaffle]
+			[Wendy] 2-0 [Squizz]
+			[mathandsurf] 2-0 [Wendy]
+			<bo5>
+				[Polymath] 3-2 [BenMW]
+				[BenMW] 3-2 [mathandsurf]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Polymath
+		2nd|BenMW
+		3rd|mathandsurf
+		4th|Wendy
+		5th|PsychoWaffle
+		5th|Squizz
+		7th|LOOM
+		7th|matricies
+		9th|Cash Cow
+		9th|HighDef
+		9th|P0WERPANDA
+		9th|shon
+		13th|A2Quizzy
+		13th|Gaussian
+		13th|r333nnn
+		13th|-SlickSiwik
+	</placings>
+}
+
+{
+	name:"Wavedash Weekly 25"
+	date:1/18/2022
+	url:https://smash.gg/tournament/wavedash-weekly-25-1/event/smash-melee-singles/brackets/1059623/1660632
+	venue:"Fyber Gaming and Computer Repair"
+	<sets>
+		<bracket>
+			[Havoc] 2-0 [GOT_CHU_FAM]
+			[GringoStarr|Marth] 2-0 [ToonJay321|Fox]
+			[AFB|Falco] 2-0 [Arseneal|Marth]
+			[Nickel] 2-0 [ColossalMini]
+			[Havoc] 2-0 [GringoStarr]
+			[AFB] 2-0 [Nickel]
+			[Havoc] 2-0 [AFB]
+			[ColossalMini|Marth] 2-0 [Arseneal|Marth]
+			[ToonJay321] 2-1 [GOT_CHU_FAM]
+			[GringoStarr|Marth] 2-0 [ColossalMini|Ness]
+			[Nickel] 2-0 [ToonJay321]
+			[GringoStarr|Marth] 2-1 [Nickel|Captain Falcon]
+			[AFB] 2-0 [GringoStarr]
+			<bo5>
+				[Havoc|Captain Falcon] 3-2 [AFB]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Havoc
+		2nd|AFB
+		3rd|GringoStarr
+		4th|Nickel
+		5th|ColossalMini
+		5th|ToonJay321
+		7th|Arseneal
+		7th|GOT_CHU_FAM
+	</placings>
+}
+
+{
+	name:"Victory Road Spring 2022 #2"
+	date:1/24/2022
+	venue:"Erikson Hall"
+	url:https://smash.gg/tournament/victory-road-spring-2022-2/event/melee-singles/brackets/1062729/1664835
+	<sets>
+		<bracket>
+			[Jobo] 2-1 [Steez]
+			[Dale Pleakley] 2-0 [Huck]
+			[BenMW] 2-0 [Capri]
+			[Korvus] 2-0 [LOOM]
+			[Rayboyp] 2-0 [Jobo]
+			[helm] 2-1 [Dale Pleakley]
+			[Captain Crack] 2-0 [BenMW]
+			[Vorporal] 2-0 [Korvus]
+			[Korvus] 2-0 [Steez]
+			[BenMW] 2-0 [Huck]
+			[Dale Pleakley] 2-0 [Capri]
+			[Jobo] 2-0 [LOOM]
+			<bo5>
+				[Rayboyp] 3-1 [helm]
+				[Vorporal] 3-1 [Captain Crack|Fox]
+				[Vorporal] 3-1 [Rayboyp]
+				[Korvus] 3-1 [BenMW]
+				[Dale Pleakley] 3-1 [Jobo]
+				[helm] 3-1 [Korvus]
+				[Captain Crack] 3-1 [Dale Pleakley]
+				[Captain Crack] 3-0 [helm]
+				[Captain Crack|Falco] 3-2 [Rayboyp]
+				[Vorporal] 3-1 [Captain Crack|Falco]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Vorporal
+		2nd|Captain Crack
+		3rd|Rayboyp
+		4th|helm
+		5th|Dale Pleakley
+		5th|Korvus
+		7th|BenMW
+		7th|Jobo
+		9th|Capri
+		9th|Huck
+		9th|LOOM
+		9th|Steez
+	</placings>
+}
+
+{
+	name:"MEAT #16"
+	date:1/25/2022
+	venue:"Rackham Graduate School"
+	url:https://smash.gg/tournament/meat-16/event/melee-singles/brackets/1062091/1663962
+	<sets>
+		<bracket>
+			[Jobo] 2-0 [PsychoWaffle]
+			[Shandy] 2-0 [Gaussian]
+			[Karils] 2-0 [cottn]
+			[Negat!ve] 2-0 [r33nnn]
+			[mathandsurf] 2-0 [Soup]
+			[Paco] 2-0 [A2Quizzy]
+			[LOOM] 2-0 [JJV]
+			[BenMW] 2-0 [TF]
+			[SlickSiwik] 2-0 [Windy]
+			[_Boots] 2-0 [matricies]
+			[HighDef] 2-0 [Cash Cow]
+			[helm] 2-0 [P0WERPANDA]
+			[Kuyashi] 2-0 [Jobo]
+			[Shandy] 2-0 [Karils]
+			[Negat!ve] 2-0 [mathandsurf]
+			[Paco] 2-0 [LOOM]
+			[AlphaPancake] 2-1 [BenMW]
+			[SlickSiwik] 2-0 [_Boots]
+			[Asiago] 2-0 [HighDef]
+			[helm] 2-0 [Capri]
+			[Kuyashi] 2-0 [Shandy]
+			[Negat!ve] 2-0 [Paco]
+			[AlphaPancake] 2-0 [SlickSiwik]
+			[Asiago] 2-0 [helm]
+			[cottn] 2-1 [Gaussian]
+			[Soup] 2-0 [r33nnn]
+			[JJV] 2-0 [A2Quizzy]
+			[Windy] 2-1 [matricies]
+			[PsychoWaffle] 2-0 [Capri]
+			[HighDef] 2-0 [cottn]
+			[_Boots] 2-0 [Soup]
+			[BenMW] 2-0 [JJV]
+			[LOOM] 2-0 [TF]
+			[mathandsurf] 2-0 [Windy]
+			[Karils] 2-1 [Cash Cow]
+			[Jobo] 2-0 [P0WERPANDA]
+			[HighDef] 2-0 [PsychoWaffle]
+			[_Boots] 2-0 [BenMW]
+			[mathandsurf] 2-0 [LOOM]
+			[Karils] 2-0 [Jobo]
+			[Paco] 2-0 [HighDef]
+			[_Boots] 2-0 [Shandy]
+			[helm] 2-0 [mathandsurf]
+			[SlickSiwik] 2-0 [Karils]
+			<bo5>
+				[Kuyashi] 3-2 [Negat!ve]
+				[Asiago] 3-0 [AlphaPancake]
+				[Kuyashi] 3-0 [Asiago]
+				[_Boots] 3-0 [Paco]
+				[SlickSiwik] 3-0 [helm]
+				[AlphaPancake] 3-0 [_Boots]
+				[Negat!ve] 3-0 [SlickSiwik]
+				[Negat!ve] 3-0 [AlphaPancake]
+				[Asiago] 3-2 [Negat!ve]
+				[Kuyashi] 3-0 [Asiago]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Kuyashi
+		2nd|Asiago
+		3rd|Negat!ve
+		4th|AlphaPancake
+		5th|_Boots
+		5th|SlickSiwik
+		7th|helm
+		7th|Paco
+		9th|HighDef
+		9th|Karils
+		9th|mathandsurf
+		9th|Shandy
+		13th|BenMW
+		13th|Jobo
+		13th|LOOM
+		13th|PsychoWaffle
+		17th|Capri
+		17th|Cash Cow
+		17th|cottn
+		17th|P0WERPANDA
+		17th|JJV
+		17th|Soup
+		17th|TF
+		17th|Windy
+		25th|A2Quizzy
+		25th|Gaussian
+		25th|matricies
+		25th|r33nnn
+	</placings>
+}
+
+{
+	name:"MEAT #16 amateurs"
+	parent:"MEAT #16"
+	url:https://challonge.com/meat16am
+	<sets>
+		<bracket>
+			[Capri] 2-0 [cottn]
+			[BenMW] 2-0 [r33nnn]
+			[Cash Cow] 2-1 [matricies]
+			[P0WERPANDA] 2-0 [JJV]
+			[PsychoWaffle] 2-0 [Kermit the Frog]
+			[Gaussian] 2-1 [Soup]
+			[Capri] 2-0 [LOOM]
+			[BenMW] 2-0 [Cash Cow]
+			[Jobo] 2-0 [P0WERPANDA]
+			[PsychoWaffle] 2-0 [Gaussian]
+			[PsychoWaffle] 2-0 [Jobo]
+			[matricies] 2-0 [r33nnn]
+			[Soup] 2-0 [Kermit the Frog]
+			[Gaussian] 2-0 [cottn]
+			[matricies] 2-0 [P0WERPANDA]
+			[Cash Cow] 2-0 [JJV]
+			[LOOM] 2-0 [Soup]
+			[Gaussian] 2-0 [matricies]
+			[Cash Cow] 2-0 [LOOM]
+			[Capri] 2-0 [Gaussian]
+			[Jobo] 2-0 [Cash Cow]
+			[Jobo] 2-1 [Capri]
+			<bo5>
+				[BenMW] 3-1 [Capri]
+				[BenMW] 3-0 [PsychoWaffle]
+			</bo5>
+			[Jobo] 2-0 [PsychoWaffle]
+			<bo5>
+				[BenMW] 3-0 [Jobo]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|BenMW
+		2nd|Jobo
+		3rd|PsychoWaffle
+		4th|Capri
+		5th|Cash Cow
+		5th|Gaussian
+		7th|LOOM
+		7th|matricies
+		9th|cottn
+		9th|JJV
+		9th|P0WERPANDA
+		9th|Soup
+		13th|Kermit the Frog
+		13th|r33nnn
+	</placings>
+}
+
+{
+	name:"Wavedash Weekly 26"
+	date:1/25/2022
+	venue:"Fyber Gaming and Computer Repair"
+	url:https://smash.gg/tournament/wavedash-weekly-26/event/smash-melee-singles/brackets/1062756/1664867
+	<sets>
+		<bracket>
+			[NinjaDog|Young Link] 2-0 [DeadBeatDad|Jigglypuff]
+			[Kush] 2-0 [NinjaDog]
+			[Havoc] 2-0 [ToonJay321]
+			[ToonJay321] 2-1 [NinjaDog]
+			<bo5>
+				[Kush] 3-1 [Havoc]
+				[Havoc] 3-2 [ToonJay321]
+				[Kush] 3-1 [Havoc]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Kush
+		2nd|Havoc
+		3rd|ToonJay321
+		4th|NinjaDog
+		5th|DeadBeatDad
+	</placings>
+}
+
+{
+	name:"EMUSC 40 - Melee"
+	date:1/26/2022
+	url:https://challonge.com/EMUSCM40
+	venue:"Sill Hall"
+	<sets>
+		<bracket>
+			[KYS] 2-1 [JADO]
+			[RIP_Bonk] 2-0 [Bee]
+			[Dancer] 2-0 [superstarnova03]
+			[CY] 2-0 [B-Dubs]
+			[Joka] 2-0 [KYS]
+			[methteeth] 2-1 [RIP_Bonk]
+			[Drama] 2-0 [Dancer]
+			[Mr. Monday] 2-0 [CY]
+			[Joka] 2-0 [methteeth]
+			[Drama] 2-1 [Mr. Monday]
+			[Joka] 2-0 [Drama]
+			[CY] 2-0 [JADO]
+			[RIP_Bonk] 2-0 [superstarnova03]
+			[KYS] 2-0 [B-Dubs]
+			[CY] 2-0 [Dancer]
+			[RIP_Bonk] 2-0 [KYS]
+			[methteeth] 2-0 [CY]
+			[Mr. Monday] 2-0 [RIP_Bonk]
+			[Mr. Monday] 2-1 [methteeth]
+			<bo5>
+				[Mr. Monday] 3-2 [Drama]
+				[Joka] 3-0 [Mr. Monday]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Joka
+		2nd|Mr. Monday
+		3rd|Drama
+		4th|methteeth
+		5th|CY
+		5th|RIP_Bonk
+		7th|Dancer
+		7th|KYS
+		9th|B-Dubs
+		9th|Bee
+		9th|JADO
+		9th|superstarnova03
+	</placings>
+}
+
+{
+	name:"SWEET MEAT #1"
+	date:1/29/2022
+	url:https://smash.gg/tournament/sweet-meat-1/event/melee-singles
+	venue:"Michigan Union"
+	<sets>
+		<rr>
+			[tentpoles|Donkey Kong] 2-0 [Shandy]
+			[tentpoles|Donkey Kong] 2-0 [Jobo]
+			[tentpoles|Donkey Kong] 2-0 [Starsoldier]
+			[tentpoles|Donkey Kong] 2-0 [Squizz]
+			[Shandy] 2-1 [Jobo]
+			[Shandy] 2-0 [Starsoldier]
+			[Shandy] 2-0 [Squizz]
+			[Jobo] 2-0 [Starsoldier]
+			[Jobo] 2-0 [Squizz]
+			[Squizz] 2-1 [Starsoldier]
+		</rr>
+		<rr>
+			[htcp] 2-0 [Negat!ve]
+			[Negat!ve] 2-0 [HighDef]
+			[Negat!ve] 2-0 [PsychoWaffle]
+			[Negat!ve] 2-0 [Saruto]
+			[htcp] 2-0 [HighDef]
+			[htcp] 2-1 [PsychoWaffle]
+			[htcp] 2-0 [Saruto]
+			[PsychoWaffle] 2-1 [HighDef]
+			[HighDef] 2-0 [Saruto]
+		</rr>
+		<rr>
+			[AlphaPancake] 2-1 [Maxo]
+			[AlphaPancake] 2-0 [LOOM]
+			[AlphaPancake] 2-0 [ZrAcid]
+			[AlphaPancake] 2-0 [P0WERPANDA]
+			[Maxo] 2-0 [LOOM]
+			[Maxo] 2-0 [ZrAcid]
+			[Maxo] 2-0 [P0WERPANDA]
+			[ZrAcid] 2-0 [LOOM]
+			[LOOM] 2-1 [P0WERPANDA]
+			[ZrAcid] 2-1 [P0WERPANDA]
+		</rr>
+		<rr>
+			[Captain Crack] 2-1 [_Boots]
+			[Captain Crack] 2-0 [mathandsurf]
+			[Captain Crack] 2-0 [Cucumber]
+			[Captain Crack] 2-1 [Gaussian]
+			[_Boots] 2-0 [mathandsurf]
+			[_Boots] 2-1 [Cucumber]
+			[_Boots] 2-0 [Gaussian]
+			[Cucumber] 2-1 [mathandsurf]
+			[mathandsurf] 2-0 [Gaussian]
+			[Cucumber] 2-0 [Gaussian]
+		</rr>
+		<rr>
+			[Shadez] 2-1 [QBaby]
+			[Shadez] 2-0 [Shafournee]
+			[Shadez] 2-0 [Cash Cow]
+			[Shadez] 2-0 [matricies]
+			[QBaby] 2-1 [Shafournee]
+			[QBaby] 2-0 [Cash Cow]
+			[QBaby] 2-0 [matricies]
+			[Cash Cow] 2-0 [Shafournee]
+			[Shafournee] 2-0 [matricies]
+			[Cash Cow] 2-1 [matricies]
+		</rr>
+		<rr>
+			[helm] 2-0 [Bosko]
+			[helm] 2-0 [Capri]
+			[helm] 2-0 [Wendy]
+			[helm] 2-0 [Jinx]
+			[Bosko] 2-1 [Capri]
+			[Bosko] 2-0 [Wendy]
+			[Bosko] 2-0 [Jinx]
+			[Wendy] 2-0 [Capri]
+			[Capri] 2-0 [Jinx]
+			[Wendy] 2-0 [Jinx]
+		</rr>
+		<rr>
+			[Astro] 2-0 [SlickSiwik]
+			[Astro] 2-0 [BenMW]
+			[Astro] 2-1 [Steez]
+			[Astro] 2-0 [keyboard cat]
+			[SlickSiwik] 2-1 [BenMW]
+			[SlickSiwik] 2-0 [Steez]
+			[SlickSiwik] 2-0 [keyboard cat]
+			[BenMW] 2-0 [Steez]
+			[BenMW] 2-0 [keyboard cat]
+			[Steez] 2-0 [keyboard cat]
+		</rr>
+		<rr>
+			[Jubei] 2-0 [Paco]
+			[Paco] 2-1 [KroKo]
+			[Paco] 2-0 [TF]
+			[Paco] 2-0 [musty]
+			[Jubei] 2-0 [KroKo]
+			[Jubei] 2-0 [TF]
+			[Jubei] 2-0 [musty]
+			[KroKo] 2-0 [TF]
+			[KroKo] 2-0 [musty]
+			[TF] 2-0 [musty]
+		</rr>
+		<bracket>
+			[tentpoles|Donkey Kong] 2-0 [Jubei]
+			[Shadez] 2-0 [Captain Crack]
+			[Astro] 2-1 [htcp]
+			[AlphaPancake] 2-0 [helm]
+			[Bosko] 2-0 [Jobo]
+			[Maxo] 2-0 [KroKo]
+			[SlickSiwik] 2-1 [Cucumber]
+			[Negat!ve] 2-0 [Cash Cow]
+			[QBaby] 2-0 [PsychoWaffle]
+			[_Boots] 2-0 [BenMW]
+			[ZrAcid] 2-1 [Paco]
+			[Shandy] 2-0 [Wendy]
+			[Maxo] 2-1 [Bosko]
+			[Negat!ve] 2-0 [SlickSiwik]
+			[_Boots] 2-1 [QBaby]
+			[Shandy] 2-0 [ZrAcid]
+			[Captain Crack] 2-1 [Maxo]
+			[Negat!ve] 2-0 [Jubei]
+			[helm] 2-0 [_Boots]
+			[htcp] 2-0 [Shandy]
+			<bo5>
+				[tentpoles|Donkey Kong] 3-0 [Shadez]
+				[AlphaPancake] 3-1 [Astro]
+				[Negat!ve] 3-1 [Captain Crack]
+				[helm] 3-1 [htcp]
+				[Negat!ve] 3-0 [Astro]
+				[Shadez] 3-1 [helm]
+				[Negat!ve] 3-0 [Shadez]
+				[Negat!ve] 3-1 [AlphaPancake]
+				[Negat!ve] 3-1 [tentpoles|Donkey Kong]
+				[Negat!ve] 3-2 [tentpoles|Donkey Kong]
+			</bo5>
+		</bracket>
+	</sets>
+	<placings>
+		1st|Negat!ve
+		2nd|tentpoles
+		3rd|AlphaPancake
+		4th|Shadez
+		5th|Astro
+		5th|helm
+		7th|Captain Crack
+		7th|htcp
+		9th|_Boots
+		9th|Jubei
+		9th|Maxo
+		9th|Shandy
+		13th|Bosko
+		13th|QBaby
+		13th|SlickSiwik
+		13th|ZrAcid
+		17th|BenMW
+		17th|Cash Cow
+		17th|Cucumber
+		17th|Jobo
+		17th|KroKo
+		17th|Paco
+		17th|PsychoWaffle
+		17th|Wendy
+		25th|Capri
+		25th|HighDef
+		25th|LOOM
+		25th|mathandsurf
+		25th|Shafournee
+		25th|Starsoldier
+		25th|Steez
+		25th|TF
+		25th|Jinx
+		33rd|Gaussian
+		33rd|Jobo
+		33rd|keyboard cat
+		33rd|matricies
+		33rd|musty
+		33rd|P0WERPANDA
+		33rd|Saruto
+	</placings>
+}

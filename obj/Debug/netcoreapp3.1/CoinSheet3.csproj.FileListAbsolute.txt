@@ -1,0 +1,13 @@
+C:\Users\Drake\source\repos\CoinSheet3\CoinSheet3\bin\Debug\netcoreapp3.1\CoinSheet3.exe
+C:\Users\Drake\source\repos\CoinSheet3\CoinSheet3\bin\Debug\netcoreapp3.1\CoinSheet3.deps.json
+C:\Users\Drake\source\repos\CoinSheet3\CoinSheet3\bin\Debug\netcoreapp3.1\CoinSheet3.runtimeconfig.json
+C:\Users\Drake\source\repos\CoinSheet3\CoinSheet3\bin\Debug\netcoreapp3.1\CoinSheet3.runtimeconfig.dev.json
+C:\Users\Drake\source\repos\CoinSheet3\CoinSheet3\bin\Debug\netcoreapp3.1\CoinSheet3.dll
+C:\Users\Drake\source\repos\CoinSheet3\CoinSheet3\bin\Debug\netcoreapp3.1\CoinSheet3.pdb
+C:\Users\Drake\source\repos\CoinSheet3\CoinSheet3\obj\Debug\netcoreapp3.1\CoinSheet3.csprojAssemblyReference.cache
+C:\Users\Drake\source\repos\CoinSheet3\CoinSheet3\obj\Debug\netcoreapp3.1\CoinSheet3.AssemblyInfoInputs.cache
+C:\Users\Drake\source\repos\CoinSheet3\CoinSheet3\obj\Debug\netcoreapp3.1\CoinSheet3.AssemblyInfo.cs
+C:\Users\Drake\source\repos\CoinSheet3\CoinSheet3\obj\Debug\netcoreapp3.1\CoinSheet3.csproj.CoreCompileInputs.cache
+C:\Users\Drake\source\repos\CoinSheet3\CoinSheet3\obj\Debug\netcoreapp3.1\CoinSheet3.dll
+C:\Users\Drake\source\repos\CoinSheet3\CoinSheet3\obj\Debug\netcoreapp3.1\CoinSheet3.pdb
+C:\Users\Drake\source\repos\CoinSheet3\CoinSheet3\obj\Debug\netcoreapp3.1\CoinSheet3.genruntimeconfig.cache
